@@ -1,14 +1,14 @@
 # Decoding stress responses in the pig gut microbiome: a metaproteomic perspective for biomarker discovery
 
 ## Authors
-Raquel Río-López \1, Judith Guitart-Matas \2, Magnus Ø. Arntzen \3, Adrià Clavell-Sansalvador \4, Ioanna-Theoni Vourlaki \4, Olga González-Rodríguez \4, L. Jesús García-Gil \5, Xavier Xifró \6, Yuliaxis Ramayo-Caldas\4\* and Antoni Dalmau\1\* 
+Raquel Río-López1, Judith Guitart-Matas2, Magnus Ø. Arntzen3, Adrià Clavell-Sansalvador4, Ioanna-Theoni Vourlaki4, Olga González-Rodríguez4, L. Jesús García-Gil5, Xavier Xifró6, Yuliaxis Ramayo-Caldas4* and Antoni Dalmau1* 
 
-\1 Animal Welfare Program, Institute of Agrifood Research and Technology (IRTA), 17121, Monells, Girona, Spain.
-\2 Joint Research Unit IRTA-UAB in Animal Health, Animal Health Research Centre (CReSA), Autonomous University of Barcelona (UAB), Catalonia, Spain.
-\3 Faculty of Chemistry, Biotechnology and Food Science, Norwegian University of Life Sciences (NMBU), 1433, Ås, Norway
-\4 Animal Breeding and Genetics Program, Institute of Agrifood Research and Technology (IRTA), 08140, Caldes de Montbui, Barcelona, Spain.
-\5 Digestive Diseases and Microbiota Group, Biomedical Research Institute of Girona (IDIBGI), 17190, Girona, Girona, Spain.
-\6 New Therapeutic Targets Lab Research Group, Medical Sciences Department, Faculty of Medicine, University of Girona, 17071, Girona, Girona, Spain
+1 Animal Welfare Program, Institute of Agrifood Research and Technology (IRTA), 17121, Monells, Girona, Spain.
+2 Joint Research Unit IRTA-UAB in Animal Health, Animal Health Research Centre (CReSA), Autonomous University of Barcelona (UAB), Catalonia, Spain.
+3 Faculty of Chemistry, Biotechnology and Food Science, Norwegian University of Life Sciences (NMBU), 1433, Ås, Norway
+4 Animal Breeding and Genetics Program, Institute of Agrifood Research and Technology (IRTA), 08140, Caldes de Montbui, Barcelona, Spain.
+5 Digestive Diseases and Microbiota Group, Biomedical Research Institute of Girona (IDIBGI), 17190, Girona, Girona, Spain.
+6 New Therapeutic Targets Lab Research Group, Medical Sciences Department, Faculty of Medicine, University of Girona, 17071, Girona, Girona, Spain
 
 
 \* Corresponding authors: yuliaxis.ramayo@irta.cat · antoni.dalmau@irta.cat
