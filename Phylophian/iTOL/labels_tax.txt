@@ -1,0 +1,487 @@
+NODE_ID	LABEL	CLASS	COLOR	classification
+MEGAHIT-MetaBAT2-S947.49	MAG.001	Spirochaetota	#b3cde3	d__Bacteria;p__Spirochaetota;c__Spirochaetia;o__Treponematales;f__Treponemataceae;g__Treponema_D;s__Treponema_D sp018385315
+935_SemiBin_210	MAG.002	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__RUG12519;s__
+MEGAHIT-MetaBAT2-S972.76	MAG.003	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__UBA4372;s__UBA4372 sp945865175
+MEGAHIT-MetaBAT2-S934.40	MAG.004	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__UMGS1766;s__UMGS1766 sp900554855
+MEGAHIT-MetaBAT2-S964.185	MAG.005	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Butyricicoccaceae;g__Butyricicoccus_A;s__Butyricicoccus_A sp945872165
+MEGAHIT-MetaBAT2-S946.13	MAG.006	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Peptostreptococcales;f__Peptostreptococcaceae;g__Romboutsia;s__Romboutsia timonensis
+966_SemiBin_49	MAG.007	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__TWA4;s__
+MEGAHIT-MetaBAT2-S947.28	MAG.008	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Paludibacteraceae;g__RF16;s__RF16 sp945827635
+968_SemiBin_313	MAG.009	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__VSOB01;s__VSOB01 sp022779165
+MEGAHIT-MetaBAT2-S935.158	MAG.010	Bacillota_I	#fc9272	d__Bacteria;p__Bacillota_I;c__Bacilli_A;o__RFN20;f__CAG-826;g__RUG13091;s__
+MEGAHIT-MetaBAT2-S939.26	MAG.011	NA	#B0B0B0	NA
+MEGAHIT-MetaBAT2-S954.181	MAG.012	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Christensenellales;f__CAG-138;g__SFDB01;s__SFDB01 sp004558825
+940_SemiBin_253	MAG.013	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Alloprevotella;s__Alloprevotella sp004562975
+MEGAHIT-MetaBAT2-S938.190	MAG.014	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Blautia_A;s__Blautia_A sp018919065
+MEGAHIT-MetaBAT2-S945.168	MAG.015	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__HUN007;s__HUN007 sp945876405
+954_SemiBin_346	MAG.016	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Paludibacteraceae;g__W0P28-013;s__W0P28-013 sp004557405
+966_SemiBin_91	MAG.017	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__UBA932;g__Cryptobacteroides;s__Cryptobacteroides sp004556005
+MEGAHIT-MetaBAT2-S970.122	MAG.018	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Anaerobutyricum;s__Anaerobutyricum soehngenii
+MEGAHIT-MetaBAT2-S982.57	MAG.019	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Bariatricus;s__Bariatricus sp029227655
+MEGAHIT-MetaBAT2-S968.183	MAG.020	Elusimicrobiota	#80b1d3	d__Bacteria;p__Elusimicrobiota;c__Elusimicrobia;o__Elusimicrobiales;f__Elusimicrobiaceae;g__Avelusimicrobium;s__Avelusimicrobium sp934667625
+935_SemiBin_236	MAG.021	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Paludibacteraceae;g__Aphodosoma;s__Aphodosoma sp016292775
+MEGAHIT-MetaBAT2-S973.168	MAG.022	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Faecousia;s__
+MEGAHIT-MetaBAT2-S951.45	MAG.023	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA2868;s__UBA2868 sp004552595
+MEGAHIT-MetaBAT2-S946.49	MAG.024	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__UBA932;g__Cryptobacteroides;s__Cryptobacteroides sp016295245
+MEGAHIT-MetaBAT2-S992.120	MAG.025	Bacillota_I	#fc9272	d__Bacteria;p__Bacillota_I;c__Bacilli_A;o__RF39;f__UBA660;g__JAEDMO01;s__JAEDMO01 sp016302935
+MEGAHIT-MetaBAT2-S980.201	MAG.026	Bacillota_I	#fc9272	d__Bacteria;p__Bacillota_I;c__Bacilli_A;o__RF39;f__UBA660;g__CAG-302;s__CAG-302 sp945948625
+946_SemiBin_296	MAG.027	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Sodaliphilus;s__Sodaliphilus sp004557565
+group6_bins.205	MAG.028	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Peptostreptococcales;f__Anaerovoracaceae;g__Fimisoma;s__Fimisoma sp002320005
+988_SemiBin_105	MAG.029	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Vescimonas;s__Vescimonas sp004557655
+986_SemiBin_166	MAG.030	Bacillota	#c7e9c0	d__Bacteria;p__Bacillota;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Lactobacillus;s__Lactobacillus delbrueckii_B
+group4_bins.297	MAG.031	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Christensenellales;f__CAG-917;g__CAG-349;s__CAG-349 sp003539515
+972_SemiBin_103	MAG.032	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Butyricicoccaceae;g__Butyricicoccus_A;s__
+MEGAHIT-MetaBAT2-S983.160	MAG.033	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Faecousia;s__Faecousia sp017622995
+MEGAHIT-MetaBAT2-S954.88	MAG.034	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Ruminococcus;s__Ruminococcus sp016303195
+group7_bins.370	MAG.035	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__CAG-882;s__CAG-882 sp958446835
+932_SemiBin_153	MAG.036	Bacillota_I	#fc9272	d__Bacteria;p__Bacillota_I;c__Bacilli_A;o__Erysipelotrichales;f__Coprobacillaceae;g__Catenibacterium;s__Catenibacterium mitsuokai
+MEGAHIT-MetaBAT2-S971.10	MAG.037	Bacillota	#c7e9c0	d__Bacteria;p__Bacillota;c__Bacilli;o__MOL361;f__Turicibacteraceae;g__Turicibacter;s__Turicibacter bilis
+932_SemiBin_216	MAG.038	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__F23-B02;s__F23-B02 sp022784505
+970_SemiBin_87	MAG.039	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Christensenellales;f__Aristaeellaceae;g__;s__
+MEGAHIT-MetaBAT2-S974.91	MAG.040	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Lachnospira;s__
+group8_bins.276	MAG.041	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Pararoseburia;s__Pararoseburia sp945836255
+MEGAHIT-MetaBAT2-S956.103	MAG.042	Pseudomonadota	#fbb4ae	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Succinivibrionaceae;g__Succinivibrio;s__Succinivibrio sp900316375
+983_SemiBin_276	MAG.043	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Coprococcus_A;s__Coprococcus_A catus_A
+935_SemiBin_192	MAG.044	Spirochaetota	#b3cde3	d__Bacteria;p__Spirochaetota;c__Spirochaetia;o__Treponematales;f__Treponemataceae;g__Treponema_D;s__Treponema_D sp018385415
+MEGAHIT-MetaBAT2-S957.55	MAG.045	Bacillota_I	#fc9272	d__Bacteria;p__Bacillota_I;c__Bacilli_A;o__RF39;f__UBA660;g__Coprovivens;s__Coprovivens sp900552975
+MEGAHIT-MetaBAT2-S976.28	MAG.046	Myxococcota	#decbe4	d__Bacteria;p__Myxococcota;c__Bradymonadia;o__UBA4248;f__UBA4248;g__UBA4248;s__UBA4248 sp004554395
+969_SemiBin_225	MAG.047	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Peptostreptococcales;f__Anaerovoracaceae;g__Lentihominibacter;s__Lentihominibacter sp022775805
+962_SemiBin_76	MAG.048	Bacillota_I	#fc9272	d__Bacteria;p__Bacillota_I;c__Bacilli_A;o__ML615J-28;f__CAG-313;g__UMGS1109;s__UMGS1109 sp900548675
+MEGAHIT-MetaBAT2-S945.141	MAG.049	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella sp000434975
+962_SemiBin_32	MAG.050	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Christensenellales;f__UBA1242;g__UBA11490;s__
+983_SemiBin_128	MAG.051	Bacillota_I	#fc9272	d__Bacteria;p__Bacillota_I;c__Bacilli_A;o__RF39;f__UBA660;g__CAJOJO01;s__
+949_SemiBin_129	MAG.052	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__Eubacterium_R;s__Eubacterium_R sp945788455
+group4_bins.141	MAG.053	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium;s__Faecalibacterium prausnitzii_E
+group3_bins.182	MAG.054	Spirochaetota	#b3cde3	d__Bacteria;p__Spirochaetota;c__Spirochaetia;o__Sphaerochaetales;f__Sphaerochaetaceae;g__Ornithospirochaeta;s__Ornithospirochaeta sp016302165
+954_SemiBin_8	MAG.055	Verrucomicrobiota	#ffffcc	d__Bacteria;p__Verrucomicrobiota;c__Kiritimatiellia;o__RFP12;f__UBA1067;g__UBA1067;s__UBA1067 sp945613785
+MEGAHIT-MetaBAT2-S968.229	MAG.056	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Faecousia;s__Faecousia sp900546415
+group4_bins.272	MAG.057	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Peptostreptococcales;f__Anaerovoracaceae;g__CAKQOE01;s__CAKQOE01 sp934255545
+983_SemiBin_140	MAG.058	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA2821;s__UBA2821 sp902763335
+MEGAHIT-MetaBAT2-S968.138	MAG.059	Desulfobacterota	#fccde5	d__Bacteria;p__Desulfobacterota;c__Desulfovibrionia;o__Desulfovibrionales;f__Desulfovibrionaceae;g__Desulfovibrio;s__Desulfovibrio sp900319575
+MEGAHIT-MetaBAT2-S974.98	MAG.060	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Clostridiales;f__Clostridiaceae;g__Sarcina;s__Sarcina ventriculi
+MEGAHIT-MetaBAT2-S968.150	MAG.061	Actinomycetota	#ffd9b3	d__Bacteria;p__Actinomycetota;c__Coriobacteriia;o__Coriobacteriales;f__Eggerthellaceae;g__CAKUOV01;s__
+945_SemiBin_185	MAG.062	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__Ruminococcus_E;s__Ruminococcus_E sp029225165
+MEGAHIT-MetaBAT2-S972.52	MAG.063	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Christensenellales;f__CAG-138;g__PeH17;s__PeH17 sp004556165
+MEGAHIT-MetaBAT2-S973.44	MAG.064	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__CAG-177;s__CAG-177 sp016297555
+group10_bins.56	MAG.065	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__W0P33-017;s__W0P33-017 sp022768825
+MEGAHIT-MetaBAT2-S959.110	MAG.066	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Dorea_A;s__Dorea_A sp016295505
+947_SemiBin_204	MAG.067	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella sp004555245
+MEGAHIT-MetaBAT2-S970.191	MAG.068	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Faecousia;s__
+939_SemiBin_87	MAG.069	Verrucomicrobiota	#ffffcc	d__Bacteria;p__Verrucomicrobiota;c__Kiritimatiellia;o__RFP12;f__UBA1067;g__UBA1067;s__UBA1067 sp016303225
+MEGAHIT-MetaBAT2-S981.125	MAG.070	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Sodaliphilus;s__Sodaliphilus sp004559845
+956_SemiBin_125	MAG.071	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__;s__
+981_SemiBin_432	MAG.072	Bacillota_C	#fdae6b	d__Bacteria;p__Bacillota_C;c__Negativicutes;o__Selenomonadales;f__Selenomonadaceae;g__Selenomonas_C;s__Selenomonas_C sp022771645
+993_SemiBin_0	MAG.073	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Agathobacter;s__
+MEGAHIT-MetaBAT2-S945.11	MAG.074	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Faecousia;s__Faecousia sp945877365
+MEGAHIT-MetaBAT2-S970.199	MAG.075	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Choladousia;s__Choladousia sp022776305
+MEGAHIT-MetaBAT2-S988.167	MAG.076	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__CAG-177;s__CAG-177 sp000431775
+MEGAHIT-MetaBAT2-S964.207	MAG.077	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Ruminiclostridium_E;s__
+group10_bins.221	MAG.078	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Christensenellales;f__CAG-138;g__RGIG3141;s__
+MEGAHIT-MetaBAT2-S932.114	MAG.079	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Sodaliphilus;s__Sodaliphilus sp934667475
+group9_bins.244	MAG.080	Spirochaetota	#b3cde3	d__Bacteria;p__Spirochaetota;c__Spirochaetia;o__Treponematales;f__Treponemataceae;g__Treponema_D;s__Treponema_D sp016292805
+group9_bins.268	MAG.081	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Agathobacter;s__Agathobacter sp022767075
+976_SemiBin_36	MAG.082	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Christensenellales;f__CAG-138;g__Phil1;s__Phil1 sp004558525
+MEGAHIT-MetaBAT2-S982.27	MAG.083	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Vescimonas;s__Vescimonas sp004555205
+MEGAHIT-MetaBAT2-S934.132	MAG.084	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Blautia_A;s__Blautia_A sp900066205
+MEGAHIT-MetaBAT2-S944.121	MAG.085	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__CAG-791;s__CAG-791 sp000431495
+MEGAHIT-MetaBAT2-S932.178	MAG.086	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__UBA932;g__Cryptobacteroides;s__Cryptobacteroides sp000434935
+group7_bins.83	MAG.087	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Choladousia;s__Choladousia sp029225065
+MEGAHIT-MetaBAT2-S957.114	MAG.088	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Bacteroides_F;s__Bacteroides_F sp945865495
+MEGAHIT-MetaBAT2-S970.241	MAG.089	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__UBA932;g__Cryptobacteroides;s__Cryptobacteroides sp004552965
+956_SemiBin_137	MAG.090	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Anthropogastromicrobium;s__Anthropogastromicrobium aceti
+MEGAHIT-MetaBAT2-S993.160	MAG.091	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Faecousia;s__
+993_SemiBin_156	MAG.092	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Lachnospira;s__Lachnospira sp945648485
+group6_bins.257	MAG.093	NA	#B0B0B0	NA
+951_SemiBin_94	MAG.094	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Fusicatenibacter;s__Fusicatenibacter saccharivorans
+MEGAHIT-MetaBAT2-S988.19	MAG.095	Bacillota_I	#fc9272	d__Bacteria;p__Bacillota_I;c__Bacilli_A;o__RF39;f__UBA660;g__CAG-877;s__CAG-877 sp934168205
+954_SemiBin_2	MAG.096	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__CAG-177;s__CAG-177 sp003514385
+MEGAHIT-MetaBAT2-S955.19	MAG.097	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__UMGS1491;s__UMGS1491 sp946410005
+991_SemiBin_49	MAG.098	Spirochaetota	#b3cde3	d__Bacteria;p__Spirochaetota;c__Spirochaetia;o__Treponematales;f__Treponemataceae;g__Treponema_D;s__Treponema_D sp946061765
+MEGAHIT-MetaBAT2-S935.70	MAG.099	Bacillota_I	#fc9272	d__Bacteria;p__Bacillota_I;c__Bacilli_A;o__Acholeplasmatales;f__Anaeroplasmataceae;g__Anaeroplasma;s__Anaeroplasma sp945920825
+MEGAHIT-MetaBAT2-S937.160	MAG.100	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__Ruminococcus_E;s__Ruminococcus_E bromii_A
+955_SemiBin_256	MAG.101	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__;s__
+960_SemiBin_248	MAG.102	Bacillota_I	#fc9272	d__Bacteria;p__Bacillota_I;c__Bacilli_A;o__RFN20;f__CAG-288;g__Enterosoma;s__Enterosoma sp022774485
+group8_bins.151	MAG.103	Bacillota	#c7e9c0	d__Bacteria;p__Bacillota;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Limosilactobacillus;s__Limosilactobacillus timonensis
+964_SemiBin_528	MAG.104	Pseudomonadota	#fbb4ae	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Escherichia;s__Escherichia coli
+960_SemiBin_14	MAG.105	Bacillota_C	#fdae6b	d__Bacteria;p__Bacillota_C;c__Negativicutes;o__Selenomonadales;f__Selenomonadaceae;g__Selenomonas_C;s__Selenomonas_C bovis
+group9_bins.264	MAG.106	Bacillota_C	#fdae6b	d__Bacteria;p__Bacillota_C;c__Negativicutes;o__Selenomonadales;f__Selenomonadaceae;g__Anaerovibrio;s__Anaerovibrio sp017390245
+MEGAHIT-MetaBAT2-S962.80	MAG.107	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella sp022771625
+MEGAHIT-MetaBAT2-S973.86	MAG.108	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__CAG-272;g__CAG-841;s__CAG-841 sp000437375
+MEGAHIT-MetaBAT2-S949.157	MAG.109	Bacillota_C	#fdae6b	d__Bacteria;p__Bacillota_C;c__Negativicutes;o__Selenomonadales;f__Selenomonadaceae;g__CAMCDL01;s__CAMCDL01 sp945637225
+MEGAHIT-MetaBAT2-S988.179	MAG.110	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__UBA7173;s__UBA7173 sp004557825
+group10_bins.149	MAG.111	Spirochaetota	#b3cde3	d__Bacteria;p__Spirochaetota;c__Spirochaetia;o__Treponematales;f__Treponemataceae;g__Treponema_D;s__Treponema_D porcinum
+group6_bins.67	MAG.112	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Peptostreptococcales;f__Anaerovoracaceae;g__UMGS973;s__UMGS973 sp016293805
+MEGAHIT-MetaBAT2-S959.123	MAG.113	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Alloprevotella;s__
+group9_bins.40	MAG.114	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Chordicoccus;s__
+MEGAHIT-MetaBAT2-S962.33	MAG.115	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Dysosmobacter;s__Dysosmobacter sp945867445
+group4_bins.47	MAG.116	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides;s__Parabacteroides sp004562445
+MEGAHIT-MetaBAT2-S958.133	MAG.117	Bacillota_C	#fdae6b	d__Bacteria;p__Bacillota_C;c__Negativicutes;o__Veillonellales;f__Dialisteraceae;g__Dialister;s__Dialister sp000434475
+947_SemiBin_8	MAG.118	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Alloprevotella;s__Alloprevotella sp945871755
+MEGAHIT-MetaBAT2-S962.8	MAG.119	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__CAG-170;s__CAG-170 sp902796245
+MEGAHIT-MetaBAT2-S961.221	MAG.120	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Angelakisella;s__Angelakisella sp004554485
+group3_bins.183	MAG.121	Spirochaetota	#b3cde3	d__Bacteria;p__Spirochaetota;c__Spirochaetia;o__Treponematales;f__Treponemataceae;g__Treponema_D;s__Treponema_D succinifaciens
+MEGAHIT-MetaBAT2-S959.81	MAG.122	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Anaerobutyricum;s__Anaerobutyricum hallii
+MEGAHIT-MetaBAT2-S947.111	MAG.123	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella sp002251295
+group3_bins.323	MAG.124	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Limivicinus;s__Limivicinus sp900549645
+MEGAHIT-MetaBAT2-S945.93	MAG.125	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Limivicinus;s__
+960_SemiBin_641	MAG.126	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__CAG-272;g__CAG-841;s__CAG-841 sp002479075
+983_SemiBin_12	MAG.127	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Roseburia;s__Roseburia sp029006795
+973_SemiBin_207	MAG.128	Bacillota_I	#fc9272	d__Bacteria;p__Bacillota_I;c__Bacilli_A;o__RF39;f__UBA660;g__CAG-877;s__CAG-877 sp934157235
+group7_bins.133	MAG.129	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__V9D3004;s__V9D3004 sp002349525
+MEGAHIT-MetaBAT2-S966.75	MAG.130	Bacillota_C	#fdae6b	d__Bacteria;p__Bacillota_C;c__Negativicutes;o__Selenomonadales;f__Selenomonadaceae;g__Selenomonas_A;s__Selenomonas_A sp945494195
+981_SemiBin_196	MAG.131	Spirochaetota	#b3cde3	d__Bacteria;p__Spirochaetota;c__Spirochaetia;o__Treponematales;f__Treponemataceae;g__Treponema_D;s__Treponema_D sp016294035
+MEGAHIT-MetaBAT2-S965.5	MAG.132	Bacillota_I	#fc9272	d__Bacteria;p__Bacillota_I;c__Bacilli_A;o__Erysipelotrichales;f__Erysipelotrichaceae;g__JALEVB01;s__JALEVB01 sp022780745
+group8_bins.297	MAG.133	Spirochaetota	#b3cde3	d__Bacteria;p__Spirochaetota;c__Spirochaetia;o__Sphaerochaetales;f__Sphaerochaetaceae;g__UBA9848;s__UBA9848 sp028719825
+MEGAHIT-MetaBAT2-S932.53	MAG.134	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Blautia_A;s__Blautia_A difficilis
+MEGAHIT-MetaBAT2-S933.161	MAG.135	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__UBA932;g__Cryptobacteroides;s__Cryptobacteroides sp900546925
+MEGAHIT-MetaBAT2-S987.67	MAG.136	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-873;s__CAG-873 sp004553485
+946_SemiBin_182	MAG.137	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Acetatifactor;s__Acetatifactor sp018385425
+MEGAHIT-MetaBAT2-S985.24	MAG.138	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella sp945829115
+MEGAHIT-MetaBAT2-S945.32	MAG.139	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__TANB77;f__CAG-508;g__CAG-273;s__CAG-273 sp003507395
+MEGAHIT-MetaBAT2-S964.152	MAG.140	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Pararoseburia;s__
+MEGAHIT-MetaBAT2-S938.116	MAG.141	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella sp002251365
+MEGAHIT-MetaBAT2-S935.60	MAG.142	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Agathobacter;s__Agathobacter sp905209075
+group7_bins.209	MAG.143	Actinomycetota	#ffd9b3	d__Bacteria;p__Actinomycetota;c__Coriobacteriia;o__Coriobacteriales;f__Eggerthellaceae;g__Ellagibacter;s__Ellagibacter isourolithinifaciens
+group3_bins.32	MAG.144	Fibrobacterota	#d9f0a3	d__Bacteria;p__Fibrobacterota;c__Fibrobacteria;o__Fibrobacterales;f__Fibrobacteraceae;g__Fibrobacter;s__Fibrobacter sp946062555
+984_SemiBin_54	MAG.145	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA2882;s__UBA2882 sp900317505
+group7_bins.231	MAG.146	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella sp002299635
+954_SemiBin_108	MAG.147	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__CAG-177;s__CAG-177 sp900771185
+MEGAHIT-MetaBAT2-S968.154	MAG.148	Bacillota_I	#fc9272	d__Bacteria;p__Bacillota_I;c__Bacilli_A;o__RFN20;f__CAG-826;g__UBA3207;s__UBA3207 sp022777645
+group4_bins.149	MAG.149	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Suilimivivens;s__Suilimivivens sp017622575
+group9_bins.348	MAG.150	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__SFJ001;s__SFJ001 sp004555865
+973_SemiBin_307	MAG.151	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__F082;g__Limimorpha;s__Limimorpha sp900769945
+MEGAHIT-MetaBAT2-S968.143	MAG.152	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__UBA6382;s__UBA6382 sp900557555
+group8_bins.283	MAG.153	Actinomycetota	#ffd9b3	d__Bacteria;p__Actinomycetota;c__Coriobacteriia;o__Coriobacteriales;f__Eggerthellaceae;g__CAKUOV01;s__CAKUOV01 sp029219345
+MEGAHIT-MetaBAT2-S944.143	MAG.154	Bacillota_I	#fc9272	d__Bacteria;p__Bacillota_I;c__Bacilli_A;o__RF39;f__UBA660;g__RUG705;s__RUG705 sp934098395
+MEGAHIT-MetaBAT2-S976.24	MAG.155	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Alloprevotella;s__Alloprevotella sp946055515
+MEGAHIT-MetaBAT2-S983.33	MAG.156	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__F23-B02;s__F23-B02 sp000431075
+960_SemiBin_192	MAG.157	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Clostridiales;f__Clostridiaceae;g__Inconstantimicrobium;s__Inconstantimicrobium porci
+MEGAHIT-MetaBAT2-S986.76	MAG.158	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA11957;s__UBA11957 sp945827805
+MEGAHIT-MetaBAT2-S955.226	MAG.159	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella pectinovora
+MEGAHIT-MetaBAT2-S947.8	MAG.160	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Alloprevotella;s__Alloprevotella sp004555055
+MEGAHIT-MetaBAT2-S942.153	MAG.161	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Huintestinicola;s__
+group3_bins.202	MAG.162	Desulfobacterota	#fccde5	d__Bacteria;p__Desulfobacterota;c__Desulfovibrionia;o__Desulfovibrionales;f__Desulfovibrionaceae;g__Desulfovibrio;s__Desulfovibrio sp905215675
+MEGAHIT-MetaBAT2-S942.43	MAG.163	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Ruminococcus_C;s__Ruminococcus_C sp000433635
+MEGAHIT-MetaBAT2-S957.57	MAG.164	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella sp900543975
+993_SemiBin_2	MAG.165	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__CAG-590;s__
+MEGAHIT-MetaBAT2-S980.38	MAG.166	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__F23-B02;s__F23-B02 sp004558025
+957_SemiBin_50	MAG.167	Bacillota_C	#fdae6b	d__Bacteria;p__Bacillota_C;c__Negativicutes;o__Selenomonadales;f__Selenomonadaceae;g__Selenomonas_A;s__Selenomonas_A sp900769615
+MEGAHIT-MetaBAT2-S967.46	MAG.168	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Limisoma;s__Limisoma sp004555955
+MEGAHIT-MetaBAT2-S948.11	MAG.169	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__Hominenteromicrobium;s__Hominenteromicrobium mulieris
+MEGAHIT-MetaBAT2-S960.129	MAG.170	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__CAG-103;s__CAG-103 sp934589185
+MEGAHIT-MetaBAT2-S948.142	MAG.171	Spirochaetota	#b3cde3	d__Bacteria;p__Spirochaetota;c__Spirochaetia;o__Treponematales;f__Treponemataceae;g__Treponema_D;s__Treponema_D sp016293915
+group10_bins.111	MAG.172	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__Heritagella;s__Heritagella sp022767925
+MEGAHIT-MetaBAT2-S953.154	MAG.173	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Evtepia;s__Evtepia sp004551945
+939_SemiBin_272	MAG.174	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__UBA6857;s__UBA6857 sp016293225
+group7_bins.41	MAG.175	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__UMGS1668;s__UMGS1668 sp004556975
+968_SemiBin_85	MAG.176	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__CAG-170;s__CAG-170 sp003516765
+975_SemiBin_73	MAG.177	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__UMGS363;s__UMGS363 sp945868475
+MEGAHIT-MetaBAT2-S953.28	MAG.178	Bacillota_B	#9ebcda	d__Bacteria;p__Bacillota_B;c__Peptococcia;o__Peptococcales;f__Peptococcaceae;g__UMGS1590;s__UMGS1590 sp937976375
+MEGAHIT-MetaBAT2-S978.92	MAG.179	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Vescimonas;s__Vescimonas sp945877515
+MEGAHIT-MetaBAT2-S981.154	MAG.180	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__UBA3663;g__UBA3663;s__UBA3663 sp004557315
+group3_bins.358	MAG.181	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Peptostreptococcales;f__Anaerovoracaceae;g__Lentihominibacter;s__Lentihominibacter sp022763735
+935_SemiBin_68	MAG.182	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Gemmiger;s__Gemmiger sp945830575
+group8_bins.111	MAG.183	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Ruminococcus_C;s__Ruminococcus_C sp016297675
+group3_bins.240	MAG.184	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Christensenellales;f__UBA1242;g__UBA11490;s__UBA11490 sp003524095
+963_SemiBin_255	MAG.185	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Butyrivibrio_A;s__Butyrivibrio_A sp016297265
+MEGAHIT-MetaBAT2-S993.109	MAG.186	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Agathobacter;s__Agathobacter sp900549895
+group9_bins.7	MAG.187	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__UBA738;s__UBA738 sp029009095
+966_SemiBin_69	MAG.188	Bacillota_B	#9ebcda	d__Bacteria;p__Bacillota_B;c__Peptococcia;o__Peptococcales;f__Peptococcaceae;g__UMGS1590;s__UMGS1590 sp900759105
+992_SemiBin_141	MAG.189	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__Fimenecus;s__Fimenecus sp004556705
+954_SemiBin_221	MAG.190	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__UBA4334;s__UBA4334 sp900316975
+MEGAHIT-MetaBAT2-S983.24	MAG.191	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__TANB77;f__CAG-465;g__CAG-465;s__CAG-465 sp900554875
+MEGAHIT-MetaBAT2-S973.28	MAG.192	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Eubacterium_Q;s__Eubacterium_Q sp900314445
+MEGAHIT-MetaBAT2-S968.115	MAG.193	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Clostridium_AI;s__
+MEGAHIT-MetaBAT2-S964.217	MAG.194	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__TWA4;s__TWA4 sp022781515
+group3_bins.371	MAG.195	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__CAG-272;g__RGIG3994;s__RGIG3994 sp945485605
+985_SemiBin_129	MAG.196	Spirochaetota	#b3cde3	d__Bacteria;p__Spirochaetota;c__Spirochaetia;o__Treponematales;f__Treponemataceae;g__Treponema_D;s__Treponema_D sp018385395
+MEGAHIT-MetaBAT2-S955.122	MAG.197	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__Ruminococcus_E;s__Ruminococcus_E sp029218825
+MEGAHIT-MetaBAT2-S955.14	MAG.198	Verrucomicrobiota	#ffffcc	d__Bacteria;p__Verrucomicrobiota;c__Kiritimatiellia;o__RFP12;f__UBA1067;g__RUG572;s__RUG572 sp900547945
+945_SemiBin_50	MAG.199	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__UBA4372;s__UBA4372 sp945787235
+992_SemiBin_359	MAG.200	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Peptostreptococcales;f__Anaerovoracaceae;g__Mogibacterium_A;s__Mogibacterium_A kristiansenii
+MEGAHIT-MetaBAT2-S972.40	MAG.201	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Faecousia;s__
+978_SemiBin_64	MAG.202	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__F23-B02;s__F23-B02 sp945613045
+MEGAHIT-MetaBAT2-S970.215	MAG.203	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__TWA4;s__
+group3_bins.116	MAG.204	Bacillota_B	#9ebcda	d__Bacteria;p__Bacillota_B;c__Dehalobacteriia;o__UBA7702;f__UBA7702;g__UBA7702;s__
+MEGAHIT-MetaBAT2-S985.50	MAG.205	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella sp945831805
+MEGAHIT-MetaBAT2-S932.72	MAG.206	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Blautia_A;s__Blautia_A obeum
+MEGAHIT-MetaBAT2-S938.148	MAG.207	Bacillota_I	#fc9272	d__Bacteria;p__Bacillota_I;c__Bacilli_A;o__RF39;f__UBA660;g__CAG-605;s__CAG-605 sp000433475
+MEGAHIT-MetaBAT2-S932.132	MAG.208	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Gemmiger;s__Gemmiger sp004561545
+MEGAHIT-MetaBAT2-S960.65	MAG.209	Bacillota_I	#fc9272	d__Bacteria;p__Bacillota_I;c__Bacilli_A;o__RFN20;f__CAG-826;g__UBA4951;s__UBA4951 sp900540385
+group9_bins.282	MAG.210	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Christensenellales;f__Aristaeellaceae;g__SFHK01;s__SFHK01 sp004556395
+MEGAHIT-MetaBAT2-S956.75	MAG.211	Bacillota_C	#fdae6b	d__Bacteria;p__Bacillota_C;c__Negativicutes;o__Acidaminococcales;f__Acidaminococcaceae;g__Phascolarctobacterium_A;s__Phascolarctobacterium_A succinatutens
+945_SemiBin_110	MAG.212	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__UBA4372;s__UBA4372 sp004559785
+MEGAHIT-MetaBAT2-S966.102	MAG.213	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Oliverpabstia;s__Oliverpabstia sp022764165
+966_SemiBin_95	MAG.214	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Paludibacteraceae;g__RF16;s__RF16 sp022777485
+MEGAHIT-MetaBAT2-S970.211	MAG.215	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA2882;s__UBA2882 sp017626095
+MEGAHIT-MetaBAT2-S976.34	MAG.216	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Christensenellales;f__CAG-138;g__SFEL01;s__SFEL01 sp004557245
+986_SemiBin_101	MAG.217	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Agathobacter;s__Agathobacter sp900548765
+group7_bins.185	MAG.218	Actinomycetota	#ffd9b3	d__Bacteria;p__Actinomycetota;c__Coriobacteriia;o__Coriobacteriales;f__UMGS124;g__UMGS124;s__UMGS124 sp900555105
+MEGAHIT-MetaBAT2-S975.160	MAG.219	Patescibacteria	#f0f0f0	d__Bacteria;p__Patescibacteria;c__Saccharimonadia;o__Saccharimonadales;f__Nanosyncoccaceae;g__UBA2834;s__UBA2834 sp004561445
+MEGAHIT-MetaBAT2-S938.43	MAG.220	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__Ruminococcus_E;s__Ruminococcus_E bovis
+MEGAHIT-MetaBAT2-S937.180	MAG.221	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Agathobacter;s__Agathobacter sp900317585
+MEGAHIT-MetaBAT2-S976.157	MAG.222	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__SFTJ01;s__SFTJ01 sp004563195
+group6_bins.237	MAG.223	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Christensenellales;f__CAG-138;g__CAG-1024;s__CAG-1024 sp004554165
+MEGAHIT-MetaBAT2-S944.97	MAG.224	Bacillota_I	#fc9272	d__Bacteria;p__Bacillota_I;c__Bacilli_A;o__RF39;f__UBA660;g__CAG-914;s__CAG-914 sp000437895
+MEGAHIT-MetaBAT2-S974.62	MAG.225	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__CAG-194;s__CAG-194 sp000432915
+MEGAHIT-MetaBAT2-S970.51	MAG.226	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__CAG-103;s__CAG-103 sp934589185
+group4_bins.25	MAG.227	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella sp000436915
+group10_bins.232	MAG.228	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__Fimenecus;s__Fimenecus sp946041635
+MEGAHIT-MetaBAT2-S941.86	MAG.229	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__UBA932;g__Cryptobacteroides;s__Cryptobacteroides sp000431015
+933_SemiBin_252	MAG.230	Bacillota_I	#fc9272	d__Bacteria;p__Bacillota_I;c__Bacilli_A;o__Erysipelotrichales;f__Erysipelotrichaceae;g__Bulleidia;s__Bulleidia sp900539965
+947_SemiBin_9	MAG.231	Bacillota	#c7e9c0	d__Bacteria;p__Bacillota;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Lactobacillus;s__Lactobacillus amylovorus
+MEGAHIT-MetaBAT2-S962.24	MAG.232	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Faecousia;s__Faecousia sp022786995
+MEGAHIT-MetaBAT2-S945.103	MAG.233	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Hominicoprocola;s__Hominicoprocola sp016295615
+MEGAHIT-MetaBAT2-S947.59	MAG.234	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__UBA932;g__Cryptobacteroides;s__Cryptobacteroides sp022771245
+group7_bins.394	MAG.235	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Peptostreptococcales;f__Anaerovoracaceae;g__Lentihominibacter;s__Lentihominibacter sp022780965
+group9_bins.155	MAG.236	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Vescimonas;s__Vescimonas coprocola
+group3_bins.187	MAG.237	Spirochaetota	#b3cde3	d__Bacteria;p__Spirochaetota;c__Spirochaetia;o__Treponematales;f__Treponemataceae;g__Treponema_D;s__Treponema_D berlinense
+MEGAHIT-MetaBAT2-S938.161	MAG.238	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Peptostreptococcales;f__Peptostreptococcaceae;g__Intestinibacter;s__Intestinibacter sp945931665
+945_SemiBin_201	MAG.239	NA	#B0B0B0	NA
+group10_bins.334	MAG.240	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__CAG-510;s__
+MEGAHIT-MetaBAT2-S960.89	MAG.241	Verrucomicrobiota	#ffffcc	d__Bacteria;p__Verrucomicrobiota;c__Kiritimatiellia;o__RFP12;f__UBA1067;g__UBA1067;s__
+MEGAHIT-MetaBAT2-S986.109	MAG.242	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__UBA932;g__Cryptobacteroides;s__Cryptobacteroides sp004552115
+MEGAHIT-MetaBAT2-S968.13	MAG.243	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Faecousia;s__Faecousia sp945948535
+MEGAHIT-MetaBAT2-S954.74	MAG.244	Spirochaetota	#b3cde3	d__Bacteria;p__Spirochaetota;c__Spirochaetia;o__Sphaerochaetales;f__Sphaerochaetaceae;g__Bullifex;s__Bullifex porci
+941_SemiBin_67	MAG.245	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Ruminococcus;s__Ruminococcus sp029005335
+MEGAHIT-MetaBAT2-S987.82	MAG.246	Actinomycetota	#ffd9b3	d__Bacteria;p__Actinomycetota;c__Coriobacteriia;o__Coriobacteriales;f__QAMH01;g__CACZQA01;s__CACZQA01 sp902783175
+group3_bins.134	MAG.247	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Fimousia;s__Fimousia sp001940245
+group8_bins.266	MAG.248	Bacillota	#c7e9c0	d__Bacteria;p__Bacillota;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Limosilactobacillus;s__Limosilactobacillus intestinavium
+MEGAHIT-MetaBAT2-S953.167	MAG.249	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Oliverpabstia;s__Oliverpabstia intestinalis
+946_SemiBin_333	MAG.250	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__F23-B02;s__F23-B02 sp004556755
+MEGAHIT-MetaBAT2-S983.173	MAG.251	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Gemmiger;s__Gemmiger variabilis_A
+944_SemiBin_44	MAG.252	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__UBA4372;s__UBA4372 sp900766785
+933_SemiBin_193	MAG.253	Bacillota_I	#fc9272	d__Bacteria;p__Bacillota_I;c__Bacilli_A;o__Erysipelotrichales;f__Erysipelotrichaceae;g__Bulleidia;s__Bulleidia sp016293365
+MEGAHIT-MetaBAT2-S945.152	MAG.254	Bacillota_I	#fc9272	d__Bacteria;p__Bacillota_I;c__Bacilli_A;o__Erysipelotrichales;f__Erysipelotrichaceae;g__Floccifex;s__Floccifex porci
+MEGAHIT-MetaBAT2-S980.41	MAG.255	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__UMGS363;s__
+MEGAHIT-MetaBAT2-S945.135	MAG.256	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Paludibacteraceae;g__RF16;s__RF16 sp946059305
+MEGAHIT-MetaBAT2-S954.101	MAG.257	NA	#B0B0B0	NA
+988_SemiBin_31	MAG.258	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__UBA932;g__Cryptobacteroides;s__Cryptobacteroides sp022777205
+932_SemiBin_176	MAG.259	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Peptostreptococcales;f__Anaerovoracaceae;g__RUG708;s__RUG708 sp028724585
+MEGAHIT-MetaBAT2-S962.15	MAG.260	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA1712;s__UBA1712 sp018056665
+MEGAHIT-MetaBAT2-S972.108	MAG.261	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__CAG-488;s__CAG-488 sp016292785
+MEGAHIT-MetaBAT2-S947.6	MAG.262	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__UBA932;g__Cryptobacteroides;s__Cryptobacteroides sp022774085
+MEGAHIT-MetaBAT2-S963.73	MAG.263	Bacillota_I	#fc9272	d__Bacteria;p__Bacillota_I;c__Bacilli_A;o__RF39;f__UBA660;g__CAG-1193;s__CAG-1193 sp934130375
+MEGAHIT-MetaBAT2-S973.217	MAG.264	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Christensenellales;f__CAG-138;g__UBA1685;s__UBA1685 sp004560435
+group3_bins.177	MAG.265	Myxococcota	#decbe4	d__Bacteria;p__Myxococcota;c__Bradymonadia;o__UBA4248;f__UBA4248;g__UBA4248;s__UBA4248 sp945875805
+group7_bins.282	MAG.266	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__UBA6398;s__UBA6398 sp003150315
+group9_bins.360	MAG.267	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Limivicinus;s__Limivicinus sp003150355
+970_SemiBin_111	MAG.268	Spirochaetota	#b3cde3	d__Bacteria;p__Spirochaetota;c__Spirochaetia;o__Treponematales;f__Treponemataceae;g__Treponema_D;s__Treponema_D sp016293645
+group10_bins.307	MAG.269	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__UBA3818;s__UBA3818 sp002369315
+MEGAHIT-MetaBAT2-S985.140	MAG.270	Bacillota_I	#fc9272	d__Bacteria;p__Bacillota_I;c__Bacilli_A;o__RF39;f__UBA660;g__RUG705;s__RUG705 sp934098395
+group7_bins.281	MAG.271	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__UBA11540;s__
+MEGAHIT-MetaBAT2-S951.93	MAG.272	Desulfobacterota	#fccde5	d__Bacteria;p__Desulfobacterota;c__Desulfovibrionia;o__Desulfovibrionales;f__Desulfovibrionaceae;g__Desulfovibrio;s__Desulfovibrio sp900556755
+group6_bins.304	MAG.273	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Roseburia;s__Roseburia sp902781225
+991_SemiBin_80	MAG.274	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__Eubacterium_R;s__Eubacterium_R sp945980375
+932_SemiBin_172	MAG.275	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Butyribacter;s__Butyribacter sp028724545
+983_SemiBin_265	MAG.276	Bacillota_I	#fc9272	d__Bacteria;p__Bacillota_I;c__Bacilli_A;o__Erysipelotrichales;f__Erysipelotrichaceae;g__UBA636;s__UBA636 sp002299675
+MEGAHIT-MetaBAT2-S980.126	MAG.277	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Peptostreptococcales;f__Anaerovoracaceae;g__CAG-238;s__CAG-238 sp927797855
+MEGAHIT-MetaBAT2-S985.88	MAG.278	Bacillota	#c7e9c0	d__Bacteria;p__Bacillota;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Limosilactobacillus;s__Limosilactobacillus sp002299975
+MEGAHIT-MetaBAT2-S964.235	MAG.279	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella sp018385335
+983_SemiBin_321	MAG.280	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__CAG-964;s__CAG-964 sp902789345
+MEGAHIT-MetaBAT2-S967.21	MAG.281	Eremiobacterota	#c5b0d5	d__Bacteria;p__Eremiobacterota;c__Xenobia;o__Xenobiales;f__Xenobiaceae;g__Bruticola;s__Bruticola sp004554425
+MEGAHIT-MetaBAT2-S983.92	MAG.282	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__Eubacterium_R;s__Eubacterium_R sp000434995
+MEGAHIT-MetaBAT2-S958.173	MAG.283	Bacillota_C	#fdae6b	d__Bacteria;p__Bacillota_C;c__Negativicutes;o__Acidaminococcales;f__Acidaminococcaceae;g__Phascolarctobacterium_A;s__Phascolarctobacterium_A sp945949475
+935_SemiBin_76	MAG.284	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__CAG-103;s__CAG-103 sp004556965
+MEGAHIT-MetaBAT2-S973.81	MAG.285	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__UMGS1491;s__UMGS1491 sp945926705
+967_SemiBin_89	MAG.286	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Gemmiger;s__Gemmiger qucibialis
+group7_bins.175	MAG.287	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Peptostreptococcales;f__Anaerovoracaceae;g__Emergencia;s__Emergencia sp022767945
+983_SemiBin_133	MAG.288	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Alloprevotella;s__Alloprevotella sp004552865
+MEGAHIT-MetaBAT2-S933.63	MAG.289	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__TANB77;f__CAG-508;g__CAG-452;s__CAG-452 sp000434035
+MEGAHIT-MetaBAT2-S960.200	MAG.290	Bacillota_I	#fc9272	d__Bacteria;p__Bacillota_I;c__Bacilli_A;o__RFN20;f__CAG-826;g__Enteromonas;s__Enteromonas sp028726925
+group8_bins.322	MAG.291	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Butyricicoccaceae;g__RGIG1902;s__RGIG1902 sp945947915
+MEGAHIT-MetaBAT2-S958.137	MAG.292	Cyanobacteriota	#D2DFFA	d__Bacteria;p__Cyanobacteriota;c__Vampirovibrionia;o__Gastranaerophilales;f__Gastranaerophilaceae;g__Zag111;s__Zag111 sp002103105
+969_SemiBin_466	MAG.293	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Peptostreptococcales;f__Anaerovoracaceae;g__RUG099;s__RUG099 sp946006945
+MEGAHIT-MetaBAT2-S973.204	MAG.294	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Christensenellales;f__CAG-138;g__PeH17;s__PeH17 sp900542285
+932_SemiBin_102	MAG.295	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__UBA738;s__UBA738 sp004557735
+group7_bins.365	MAG.296	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__UBA932;g__Cryptobacteroides;s__
+MEGAHIT-MetaBAT2-S975.180	MAG.297	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Limivicinus;s__Limivicinus sp004560305
+972_SemiBin_102	MAG.298	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Butyricicoccaceae;g__Butyricicoccus_A;s__Butyricicoccus_A sp022775385
+MEGAHIT-MetaBAT2-S957.37	MAG.299	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Roseburia_D;s__Roseburia_D yibonii
+MEGAHIT-MetaBAT2-S964.113	MAG.300	Spirochaetota	#b3cde3	d__Bacteria;p__Spirochaetota;c__Spirochaetia;o__Treponematales;f__Treponemataceae;g__Treponema_D;s__Treponema_D sp018384055
+group3_bins.292	MAG.301	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__;s__
+956_SemiBin_187	MAG.302	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Butyribacter;s__Butyribacter sp000436755
+MEGAHIT-MetaBAT2-S953.47	MAG.303	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Christensenellales;f__CAG-138;g__PeH17;s__PeH17 sp000435055
+group6_bins.275	MAG.304	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Pararoseburia;s__Pararoseburia lenta
+991_SemiBin_141	MAG.305	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella faecis
+973_SemiBin_32	MAG.306	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__CAG-488;s__
+MEGAHIT-MetaBAT2-S986.81	MAG.307	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Lachnospira;s__Lachnospira sp003537285
+group7_bins.169	MAG.308	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__UBA932;g__Egerieousia;s__Egerieousia sp004561775
+MEGAHIT-MetaBAT2-S979.51	MAG.309	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Dorea_A;s__Dorea_A longicatena
+MEGAHIT-MetaBAT2-S969.165	MAG.310	Bacillota_I	#fc9272	d__Bacteria;p__Bacillota_I;c__Bacilli_A;o__RF39;f__UBA660;g__UMGS1449;s__
+MEGAHIT-MetaBAT2-S965.170	MAG.311	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__SFIE01;s__SFIE01 sp004555405
+MEGAHIT-MetaBAT2-S946.20	MAG.312	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__;s__
+960_SemiBin_428	MAG.313	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA2882;s__
+MEGAHIT-MetaBAT2-S955.109	MAG.314	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__F23-B02;s__F23-B02 sp016292445
+MEGAHIT-MetaBAT2-S967.229	MAG.315	Bacillota_C	#fdae6b	d__Bacteria;p__Bacillota_C;c__Negativicutes;o__Selenomonadales;f__Selenomonadaceae;g__Anaerovibrio;s__Anaerovibrio sp900548165
+MEGAHIT-MetaBAT2-S973.219	MAG.316	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella sp002251245
+group9_bins.67	MAG.317	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__UBA644;g__UBA644;s__UBA644 sp002299265
+MEGAHIT-MetaBAT2-S932.23	MAG.318	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__Eubacterium_R;s__Eubacterium_R coprostanoligenes
+group8_bins.259	MAG.319	Fibrobacterota	#d9f0a3	d__Bacteria;p__Fibrobacterota;c__Fibrobacteria;o__Fibrobacterales;f__Fibrobacteraceae;g__Hallerella;s__Hallerella succinigenes
+MEGAHIT-MetaBAT2-S933.139	MAG.320	Bacillota_I	#fc9272	d__Bacteria;p__Bacillota_I;c__Bacilli_A;o__RF39;f__UBA660;g__CAG-302;s__CAG-302 sp900543825
+MEGAHIT-MetaBAT2-S964.51	MAG.321	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__UBA932;g__Cryptobacteroides;s__
+MEGAHIT-MetaBAT2-S962.117	MAG.322	Bacillota	#c7e9c0	d__Bacteria;p__Bacillota;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Limosilactobacillus;s__Limosilactobacillus reuteri
+973_SemiBin_47	MAG.323	Planctomycetota	#e0f3db	d__Bacteria;p__Planctomycetota;c__Planctomycetia;o__Pirellulales;f__Thermoguttaceae;g__RUG369;s__RUG369 sp004556055
+MEGAHIT-MetaBAT2-S990.131	MAG.324	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__UBA932;g__Cryptobacteroides;s__Cryptobacteroides sp000433355
+946_SemiBin_374	MAG.325	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__CAG-115;s__
+MEGAHIT-MetaBAT2-S946.155	MAG.326	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__Ruminococcus_E;s__
+group3_bins.39	MAG.327	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Ruminococcus;s__Ruminococcus sp016295545
+948_SemiBin_209	MAG.328	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Roseburia_D;s__Roseburia_D sp002299665
+970_SemiBin_149	MAG.329	Bacillota	#c7e9c0	d__Bacteria;p__Bacillota;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Limosilactobacillus;s__
+MEGAHIT-MetaBAT2-S943.132	MAG.330	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Eubacterium_F;s__Eubacterium_F sp022769325
+970_SemiBin_233	MAG.331	Bacillota_I	#fc9272	d__Bacteria;p__Bacillota_I;c__Bacilli_A;o__RF39;f__UBA660;g__CAG-302;s__
+group3_bins.185	MAG.332	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Christensenellales;f__CAG-138;g__Phil1;s__Phil1 sp001940855
+group3_bins.117	MAG.333	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__UBA932;g__Cryptobacteroides;s__Cryptobacteroides sp900545245
+group7_bins.409	MAG.334	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Ruminococcus_C;s__Ruminococcus_C sp022769365
+MEGAHIT-MetaBAT2-S966.83	MAG.335	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Alloprevotella;s__
+MEGAHIT-MetaBAT2-S951.163	MAG.336	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Alloprevotella;s__Alloprevotella sp004555425
+MEGAHIT-MetaBAT2-S964.264	MAG.337	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Anaerobutyricum;s__Anaerobutyricum sp028721415
+MEGAHIT-MetaBAT2-S979.94	MAG.338	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Bariatricus;s__Bariatricus sp004560705
+945_SemiBin_23	MAG.339	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Christensenellales;f__Aristaeellaceae;g__SFTH01;s__
+983_SemiBin_309	MAG.340	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Ruminiclostridium_E;s__
+MEGAHIT-MetaBAT2-S937.157	MAG.341	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Butyrivibrio_A;s__Butyrivibrio_A crossotus
+941_SemiBin_237	MAG.342	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Alloprevotella;s__Alloprevotella sp004557185
+MEGAHIT-MetaBAT2-S935.62	MAG.343	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Anaerobutyricum;s__Anaerobutyricum sp022764265
+968_SemiBin_131	MAG.344	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Christensenellales;f__Aristaeellaceae;g__Ventricola;s__
+992_SemiBin_233	MAG.345	Spirochaetota	#b3cde3	d__Bacteria;p__Spirochaetota;c__Spirochaetia;o__Treponematales;f__Treponemataceae;g__Treponema_D;s__Treponema_D sp002395155
+MEGAHIT-MetaBAT2-S933.133	MAG.346	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Clostridiales;f__Clostridiaceae;g__Clostridium;s__Clostridium sp000435835
+group7_bins.260	MAG.347	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__UBA6382;s__UBA6382 sp022763905
+964_SemiBin_111	MAG.348	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__UBA4372;s__UBA4372 sp945788385
+MEGAHIT-MetaBAT2-S978.150	MAG.349	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Faecousia;s__
+MEGAHIT-MetaBAT2-S935.50	MAG.350	Verrucomicrobiota	#ffffcc	d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Verrucomicrobiales;f__Akkermansiaceae;g__Akkermansia;s__Akkermansia muciniphila_D
+MEGAHIT-MetaBAT2-S961.20	MAG.351	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Faecousia;s__Faecousia sp945963595
+group10_bins.7	MAG.352	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella sp016302965
+MEGAHIT-MetaBAT2-S969.89	MAG.353	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Limisoma;s__Limisoma sp004561555
+MEGAHIT-MetaBAT2-S938.66	MAG.354	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Butyricicoccaceae;g__Butyricicoccus;s__Butyricicoccus sp004552245
+group3_bins.206	MAG.355	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Christensenellales;f__CAG-138;g__RGIG1693;s__RGIG1693 sp016293975
+937_SemiBin_159	MAG.356	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__Eubacterium_R;s__Eubacterium_R sp945982035
+932_SemiBin_237	MAG.357	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella sp945869265
+953_SemiBin_322	MAG.358	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella sp900771975
+976_SemiBin_228	MAG.359	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Butyricicoccaceae;g__UBA4644;s__UBA4644 sp029099685
+MEGAHIT-MetaBAT2-S981.151	MAG.360	Bacillota_I	#fc9272	d__Bacteria;p__Bacillota_I;c__Bacilli_A;o__RF39;f__UBA660;g__CAG-1000;s__CAG-1000 sp000436975
+MEGAHIT-MetaBAT2-S983.18	MAG.361	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Pararoseburia;s__Pararoseburia sp022768745
+MEGAHIT-MetaBAT2-S946.6	MAG.362	Actinomycetota	#ffd9b3	d__Bacteria;p__Actinomycetota;c__Coriobacteriia;o__Coriobacteriales;f__QAMH01;g__W2P13-069;s__W2P13-069 sp004553405
+MEGAHIT-MetaBAT2-S968.197	MAG.363	NA	#B0B0B0	NA
+MEGAHIT-MetaBAT2-S946.44	MAG.364	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__UMGS1491;s__
+MEGAHIT-MetaBAT2-S962.93	MAG.365	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Christensenellales;f__UBA1242;g__UMGS687;s__UMGS687 sp900544595
+MEGAHIT-MetaBAT2-S975.132	MAG.366	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Blautia;s__Blautia sp022777285
+MEGAHIT-MetaBAT2-S970.119	MAG.367	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella sp945637645
+MEGAHIT-MetaBAT2-S946.102	MAG.368	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Christensenellales;f__UBA1750;g__Spyradocola;s__
+MEGAHIT-MetaBAT2-S947.97	MAG.369	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__Ruminococcus_E;s__Ruminococcus_E sp022779485
+961_SemiBin_68	MAG.370	Pseudomonadota	#fbb4ae	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Burkholderiales;f__Rhodocyclaceae;g__SFHR01;s__SFHR01 sp004555545
+950_SemiBin_52	MAG.371	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Ruminococcus;s__Ruminococcus flavefaciens_S
+958_SemiBin_114	MAG.372	Spirochaetota	#b3cde3	d__Bacteria;p__Spirochaetota;c__Spirochaetia;o__Treponematales;f__Treponemataceae;g__Treponema_D;s__Treponema_D sp017381365
+MEGAHIT-MetaBAT2-S973.125	MAG.373	Bacillota	#c7e9c0	d__Bacteria;p__Bacillota;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Lactobacillus;s__Lactobacillus sp947171515
+MEGAHIT-MetaBAT2-S960.208	MAG.374	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__CAG-170;s__CAG-170 sp002404795
+group9_bins.202	MAG.375	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__UBA4334;s__UBA4334 sp016302435
+983_SemiBin_151	MAG.376	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA629;s__UBA629 sp900316625
+MEGAHIT-MetaBAT2-S945.140	MAG.377	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Roseburia_D;s__Roseburia_D sp945868305
+MEGAHIT-MetaBAT2-S992.171	MAG.378	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__UBA932;g__Cryptobacteroides;s__Cryptobacteroides sp004554455
+MEGAHIT-MetaBAT2-S969.185	MAG.379	Bacillota_I	#fc9272	d__Bacteria;p__Bacillota_I;c__Bacilli_A;o__RF39;f__UBA660;g__CAJGDV01;s__CAJGDV01 sp022763805
+MEGAHIT-MetaBAT2-S987.11	MAG.380	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Wujia;s__
+group9_bins.392	MAG.381	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Christensenellales;f__Aristaeellaceae;g__Firm-10;s__Firm-10 sp004552515
+group3_bins.377	MAG.382	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__UBA932;g__Cryptobacteroides;s__Cryptobacteroides sp900546445
+MEGAHIT-MetaBAT2-S947.47	MAG.383	Bacillota_I	#fc9272	d__Bacteria;p__Bacillota_I;c__Bacilli_A;o__RF39;f__UBA660;g__UBA3789;s__UBA3789 sp900543055
+937_SemiBin_148	MAG.384	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Agathobacter;s__Agathobacter sp000434275
+MEGAHIT-MetaBAT2-S959.102	MAG.385	Bacillota_I	#fc9272	d__Bacteria;p__Bacillota_I;c__Bacilli_A;o__RF39;f__UBA660;g__CAG-533;s__CAG-533 sp004563275
+MEGAHIT-MetaBAT2-S932.87	MAG.386	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Hominicoprocola;s__Hominicoprocola fusiformis
+959_SemiBin_129	MAG.387	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__Ruminococcus_E;s__
+MEGAHIT-MetaBAT2-S970.243	MAG.388	Bacillota_I	#fc9272	d__Bacteria;p__Bacillota_I;c__Bacilli_A;o__RF39;f__UBA660;g__CAKOQQ01;s__CAKOQQ01 sp934101425
+MEGAHIT-MetaBAT2-S971.50	MAG.389	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__UBA737;s__UBA737 sp900547095
+MEGAHIT-MetaBAT2-S960.192	MAG.390	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Alloprevotella;s__Alloprevotella sp004552155
+MEGAHIT-MetaBAT2-S932.184	MAG.391	Pseudomonadota	#fbb4ae	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Succinivibrionaceae;g__Succinivibrio;s__Succinivibrio sp000431835
+987_SemiBin_26	MAG.392	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Brotaphodocola;s__Brotaphodocola sp004554205
+957_SemiBin_343	MAG.393	Cyanobacteriota	#D2DFFA	d__Bacteria;p__Cyanobacteriota;c__Vampirovibrionia;o__Gastranaerophilales;f__Gastranaerophilaceae;g__Zag111;s__Zag111 sp002102825
+MEGAHIT-MetaBAT2-S942.110	MAG.394	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Paludibacteraceae;g__RF16;s__RF16 sp017525455
+MEGAHIT-MetaBAT2-S952.67	MAG.395	Bacillota_C	#fdae6b	d__Bacteria;p__Bacillota_C;c__Negativicutes;o__Veillonellales;f__Megasphaeraceae;g__Megasphaera;s__Megasphaera elsdenii
+974_SemiBin_337	MAG.396	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__NC2004;s__NC2004 sp934317845
+MEGAHIT-MetaBAT2-S962.71	MAG.397	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__TANB77;f__UBA1234;g__HGM13618;s__HGM13618 sp900753975
+991_SemiBin_113	MAG.398	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__P3;g__Onthomorpha;s__Onthomorpha sp004551865
+MEGAHIT-MetaBAT2-S979.62	MAG.399	Bacillota_I	#fc9272	d__Bacteria;p__Bacillota_I;c__Bacilli_A;o__Erysipelotrichales;f__Erysipelotrichaceae;g__Holdemanella;s__Holdemanella porci
+group10_bins.399	MAG.400	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__CAG-272;g__UMGS1696;s__UMGS1696 sp900554225
+group7_bins.351	MAG.401	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__UBA932;g__Cryptobacteroides;s__
+group3_bins.223	MAG.402	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__UBA1081;s__UBA1081 sp022763825
+MEGAHIT-MetaBAT2-S983.51	MAG.403	Bacillota	#c7e9c0	d__Bacteria;p__Bacillota;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus;s__Streptococcus hyointestinalis
+MEGAHIT-MetaBAT2-S950.132	MAG.404	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Hominicoprocola;s__Hominicoprocola sp900317525
+932_SemiBin_124	MAG.405	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Limisoma;s__Limisoma sp000437795
+955_SemiBin_146	MAG.406	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__CAG-115;s__CAG-115 sp004554555
+MEGAHIT-MetaBAT2-S942.30	MAG.407	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Agathobacter;s__Agathobacter sp945971355
+MEGAHIT-MetaBAT2-S942.31	MAG.408	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Butyribacter;s__
+MEGAHIT-MetaBAT2-S945.128	MAG.409	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__UBA932;g__Cryptobacteroides;s__Cryptobacteroides sp016295455
+968_SemiBin_116	MAG.410	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__CAG-115;s__CAG-115 sp945873955
+MEGAHIT-MetaBAT2-S968.241	MAG.411	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__UBA4372;s__UBA4372 sp900543815
+968_SemiBin_24	MAG.412	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__CAG-488;s__CAG-488 sp000434055
+group9_bins.80	MAG.413	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Evtepia;s__Evtepia sp004556345
+934_SemiBin_124	MAG.414	Actinomycetota	#ffd9b3	d__Bacteria;p__Actinomycetota;c__Coriobacteriia;o__Coriobacteriales;f__Coriobacteriaceae;g__Collinsella;s__Collinsella sp002391315
+974_SemiBin_118	MAG.415	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__CAG-590;s__CAG-590 sp000431135
+MEGAHIT-MetaBAT2-S941.34	MAG.416	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Paludibacteraceae;g__RF16;s__RF16 sp945828585
+MEGAHIT-MetaBAT2-S945.70	MAG.417	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Limivicinus;s__
+MEGAHIT-MetaBAT2-S990.184	MAG.418	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__CAG-590;s__
+MEGAHIT-MetaBAT2-S946.235	MAG.419	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__UBA6857;s__UBA6857 sp016293225
+MEGAHIT-MetaBAT2-S975.14	MAG.420	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Butyricicoccaceae;g__Agathobaculum;s__Agathobaculum butyriciproducens
+MEGAHIT-MetaBAT2-S946.206	MAG.421	Bacillota_I	#fc9272	d__Bacteria;p__Bacillota_I;c__Bacilli_A;o__RF39;f__UBA660;g__RUG591;s__RUG591 sp945871105
+MEGAHIT-MetaBAT2-S946.39	MAG.422	NA	#B0B0B0	NA
+951_SemiBin_21	MAG.423	Actinomycetota	#ffd9b3	d__Bacteria;p__Actinomycetota;c__Actinomycetes;o__Actinomycetales;f__Bifidobacteriaceae;g__Bifidobacterium;s__Bifidobacterium choerinum
+MEGAHIT-MetaBAT2-S986.50	MAG.424	Bacillota_C	#fdae6b	d__Bacteria;p__Bacillota_C;c__Negativicutes;o__Selenomonadales;f__Selenomonadaceae;g__Mitsuokella;s__Mitsuokella jalaludinii
+MEGAHIT-MetaBAT2-S965.107	MAG.425	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__KM106-2;s__KM106-2 sp945787925
+MEGAHIT-MetaBAT2-S933.151	MAG.426	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__CAG-170;s__CAG-170 sp900553545
+MEGAHIT-MetaBAT2-S978.143	MAG.427	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__;s__
+970_SemiBin_53	MAG.428	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Christensenellales;f__Aristaeellaceae;g__Ventricola;s__
+MEGAHIT-MetaBAT2-S932.36	MAG.429	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Dysosmobacter;s__Dysosmobacter sp945864305
+MEGAHIT-MetaBAT2-S980.86	MAG.430	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__UMGS1889;s__
+MEGAHIT-MetaBAT2-S962.187	MAG.431	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Vescimonas;s__Vescimonas sp900313295
+MEGAHIT-MetaBAT2-S972.107	MAG.432	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Enterenecus;s__
+938_SemiBin_99	MAG.433	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA2882;s__
+group6_bins.106	MAG.434	Myxococcota	#decbe4	d__Bacteria;p__Myxococcota;c__Bradymonadia;o__UBA4248;f__UBA4248;g__RGIG464;s__
+group6_bins.9	MAG.435	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Christensenellales;f__Aristaeellaceae;g__SFMI01;s__SFMI01 sp004556155
+983_SemiBin_75	MAG.436	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Lachnospira;s__Lachnospira sp945946665
+MEGAHIT-MetaBAT2-S964.154	MAG.437	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella sp004556065
+MEGAHIT-MetaBAT2-S944.7	MAG.438	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__TANB77;f__CAG-508;g__CAG-273;s__CAG-273 sp000437855
+MEGAHIT-MetaBAT2-S984.21	MAG.439	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Acetatifactor;s__Acetatifactor intestinalis
+group7_bins.426	MAG.440	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Paludibacteraceae;g__UBA4363;s__UBA4363 sp017937025
+932_SemiBin_178	MAG.441	Bacillota_I	#fc9272	d__Bacteria;p__Bacillota_I;c__Bacilli_A;o__RF39;f__UBA660;g__CAG-302;s__CAG-302 sp001916775
+group7_bins.369	MAG.442	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__RUG12519;s__
+group3_bins.288	MAG.443	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__CAG-272;g__UMGS1225;s__
+976_SemiBin_24	MAG.444	Bacillota	#c7e9c0	d__Bacteria;p__Bacillota;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus;s__Streptococcus faecavium
+group9_bins.96	MAG.445	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__CAKQHB01;s__CAKQHB01 sp934234215
+MEGAHIT-MetaBAT2-S983.2	MAG.446	Actinomycetota	#ffd9b3	d__Bacteria;p__Actinomycetota;c__Coriobacteriia;o__Coriobacteriales;f__Atopobiaceae;g__Paratractidigestivibacter;s__Paratractidigestivibacter faecalis
+MEGAHIT-MetaBAT2-S933.74	MAG.447	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__CAG-488;s__CAG-488 sp900539465
+MEGAHIT-MetaBAT2-S950.5	MAG.448	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella sp945863825
+MEGAHIT-MetaBAT2-S990.160	MAG.449	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Paludibacteraceae;g__RF16;s__RF16 sp016302585
+MEGAHIT-MetaBAT2-S973.238	MAG.450	Cyanobacteriota	#D2DFFA	d__Bacteria;p__Cyanobacteriota;c__Vampirovibrionia;o__Gastranaerophilales;f__Gastranaerophilaceae;g__UBA791;s__UBA791 sp934693165
+group4_bins.261	MAG.451	Bacillota_I	#fc9272	d__Bacteria;p__Bacillota_I;c__Bacilli_A;o__RFN20;f__CAG-288;g__HGM10890;s__HGM10890 sp900769965
+932_SemiBin_106	MAG.452	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Muricoprocola;s__Muricoprocola aceti
+MEGAHIT-MetaBAT2-S962.48	MAG.453	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__UBA932;g__Cryptobacteroides;s__Cryptobacteroides sp000432655
+935_SemiBin_113	MAG.454	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Christensenellales;f__Aristaeellaceae;g__Ventricola;s__
+group10_bins.379	MAG.455	Bacillota_I	#fc9272	d__Bacteria;p__Bacillota_I;c__Bacilli_A;o__Erysipelotrichales;f__Erysipelotrichaceae;g__JAHHTG01;s__JAHHTG01 sp029097145
+group8_bins.65	MAG.456	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Chordicoccus;s__Chordicoccus sp029005135
+MEGAHIT-MetaBAT2-S937.179	MAG.457	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Oribacterium;s__Oribacterium sp004554245
+group8_bins.18	MAG.458	Bacillota_C	#fdae6b	d__Bacteria;p__Bacillota_C;c__Negativicutes;o__Selenomonadales;f__Selenomonadaceae;g__CAMCDL01;s__CAMCDL01 sp945873565
+MEGAHIT-MetaBAT2-S951.173	MAG.459	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella sp900313215
+group9_bins.52	MAG.460	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__UBA932;g__Cryptobacteroides;s__Cryptobacteroides sp018384035
+MEGAHIT-MetaBAT2-S968.88	MAG.461	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Christensenellales;f__CAG-138;g__RUG472;s__RUG472 sp900545265
+MEGAHIT-MetaBAT2-S957.66	MAG.462	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Dorea;s__Dorea formicigenerans
+MEGAHIT-MetaBAT2-S944.127	MAG.463	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__Fimenecus;s__Fimenecus sp004555265
+956_SemiBin_215	MAG.464	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Butyricicoccaceae;g__Butyricicoccus_A;s__Butyricicoccus_A intestinisimiae
+MEGAHIT-MetaBAT2-S945.92	MAG.465	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella sp002299275
+MEGAHIT-MetaBAT2-S971.164	MAG.466	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__TANB77;f__CAG-508;g__CAG-793;s__
+MEGAHIT-MetaBAT2-S935.32	MAG.467	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__F23-B02;s__F23-B02 sp900760205
+MEGAHIT-MetaBAT2-S960.199	MAG.468	Bacillota	#c7e9c0	d__Bacteria;p__Bacillota;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Ligilactobacillus;s__Ligilactobacillus ruminis
+MEGAHIT-MetaBAT2-S988.9	MAG.469	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-873;s__CAG-873 sp004552485
+968_SemiBin_97	MAG.470	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__JAAYNV01;s__
+MEGAHIT-MetaBAT2-S944.84	MAG.471	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Vescimonas;s__Vescimonas sp003487665
+960_SemiBin_66	MAG.472	Pseudomonadota	#fbb4ae	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Succinivibrionaceae;g__Succinivibrio;s__Succinivibrio sp003456415
+MEGAHIT-MetaBAT2-S970.110	MAG.473	Verrucomicrobiota	#ffffcc	d__Bacteria;p__Verrucomicrobiota;c__Kiritimatiellia;o__RFP12;f__UBA1067;g__UBA1067;s__UBA1067 sp945947925
+MEGAHIT-MetaBAT2-S964.110	MAG.474	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__UBA932;g__Cryptobacteroides;s__Cryptobacteroides sp945827785
+991_SemiBin_110	MAG.475	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__UBA1425;s__UBA1425 sp029012165
+group6_bins.56	MAG.476	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Limivivens;s__Limivivens sp900066135
+969_SemiBin_208	MAG.477	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Frisingicoccus;s__Frisingicoccus sp016298055
+MEGAHIT-MetaBAT2-S988.125	MAG.478	Bacillota_I	#fc9272	d__Bacteria;p__Bacillota_I;c__Bacilli_A;o__RF39;f__UBA660;g__RUG705;s__RUG705 sp934098395
+MEGAHIT-MetaBAT2-S993.96	MAG.479	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Clostridiales;f__Clostridiaceae;g__Clostridium;s__Clostridium sp022767515
+965_SemiBin_146	MAG.480	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella sp900548195
+990_SemiBin_269	MAG.481	Bacillota_A	#a8ddb5	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Ruminococcus;s__Ruminococcus sp945910815
+962_SemiBin_52	MAG.482	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Alloprevotella;s__Alloprevotella sp022772475
+group4_bins.196	MAG.483	Bacteroidota	#fff7bc	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Marinilabiliaceae;g__W3P20-009;s__W3P20-009 sp004552385
+MEGAHIT-MetaBAT2-S958.137	MAG.292	Cyanobacteriota	#D2DFFA	d__Bacteria;p__Cyanobacteriota;c__Vampirovibrionia;o__Gastranaerophilales;f__Gastranaerophilaceae;g__Zag111;s__Zag111 sp002103105
+957_SemiBin_343	MAG.393	Cyanobacteriota	#D2DFFA	d__Bacteria;p__Cyanobacteriota;c__Vampirovibrionia;o__Gastranaerophilales;f__Gastranaerophilaceae;g__Zag111;s__Zag111 sp002102825
+MEGAHIT-MetaBAT2-S973.238	MAG.450	NA Cyanobacteriota	#B0B0B0	d__Bacteria;p__Cyanobacteriota;c__Vampirovibrionia;o__Gastranaerophilales;f__Gastranaerophilaceae;g__UBA791;s__UBA791 sp934693165

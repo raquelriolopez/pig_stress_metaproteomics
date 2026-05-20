@@ -1,0 +1,6 @@
+Bin	mean_control	mean_stress	log2Fold_change	p_value	SCORE_neg_log10_p	Significance	classification
+group6_bins.106	13.7185572594959	16.46765407366	2.74909681416409	0.0230699715262969	1.63695294149884	Significant (p<0.05, |FC|>1)	d__Bacteria;p__Myxococcota;c__Bradymonadia;o__UBA4248;f__UBA4248;g__RGIG464;s__
+MEGAHIT-MetaBAT2-S972.52	12.6192178783253	10.2985058002523	-2.320712078073	0.0361395602640425	1.44201713611548	Significant (p<0.05, |FC|>1)	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Christensenellales;f__CAG-138;g__PeH17;s__PeH17 sp004556165
+MEGAHIT-MetaBAT2-S948.142	19.4342895614009	20.8239581706293	1.38966860922839	0.0142905079655975	1.84495233364884	Significant (p<0.05, |FC|>1)	d__Bacteria;p__Spirochaetota;c__Spirochaetia;o__Treponematales;f__Treponemataceae;g__Treponema_D;s__Treponema_D sp016293915
+MEGAHIT-MetaBAT2-S938.43	16.9878364381309	18.0993153805783	1.11147894244744	0.0356369935409727	1.44809894166211	Significant (p<0.05, |FC|>1)	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__Ruminococcus_E;s__Ruminococcus_E bovis
+MEGAHIT-MetaBAT2-S970.51	17.1301711911106	18.1875777422549	1.05740655114429	0.00747061445313398	2.12664367627953	Significant (p<0.05, |FC|>1)	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__CAG-103;s__CAG-103 sp934589185

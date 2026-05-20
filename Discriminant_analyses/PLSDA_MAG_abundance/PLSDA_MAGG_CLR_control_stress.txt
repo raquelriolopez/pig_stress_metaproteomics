@@ -1,0 +1,56 @@
+Bin	Loading_Value	Association	classification	closest_genome_ani
+group9_bins.244	0.260382247336236	stress	d__Bacteria;p__Spirochaetota;c__Spirochaetia;o__Treponematales;f__Treponemataceae;g__Treponema_D;s__Treponema_D sp016292805	98,86
+MEGAHIT-MetaBAT2-S948.142	0.257808118130148	stress	d__Bacteria;p__Spirochaetota;c__Spirochaetia;o__Treponematales;f__Treponemataceae;g__Treponema_D;s__Treponema_D sp016293915	98,25
+935_SemiBin_192	0.243995960158716	stress	d__Bacteria;p__Spirochaetota;c__Spirochaetia;o__Treponematales;f__Treponemataceae;g__Treponema_D;s__Treponema_D sp018385415	98,69
+954_SemiBin_221	0.199850486972628	stress	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__UBA4334;s__UBA4334 sp900316975	97,39
+group10_bins.221	-0.197891687430641	control	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Christensenellales;f__CAG-138;g__RGIG3141;s__	N/A
+946_SemiBin_333	-0.189820086495815	control	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__F23-B02;s__F23-B02 sp004556755	98,57
+932_SemiBin_153	0.18734988030879	stress	d__Bacteria;p__Bacillota_I;c__Bacilli_A;o__Erysipelotrichales;f__Coprobacillaceae;g__Catenibacterium;s__Catenibacterium mitsuokai	97,03
+group3_bins.32	0.185226304447813	stress	d__Bacteria;p__Fibrobacterota;c__Fibrobacteria;o__Fibrobacterales;f__Fibrobacteraceae;g__Fibrobacter;s__Fibrobacter sp946062555	98,52
+954_SemiBin_8	-0.178905463420149	control	d__Bacteria;p__Verrucomicrobiota;c__Kiritimatiellia;o__RFP12;f__UBA1067;g__UBA1067;s__UBA1067 sp945613785	98,72
+MEGAHIT-MetaBAT2-S962.71	-0.167452242318847	control	d__Bacteria;p__Bacillota_A;c__Clostridia;o__TANB77;f__UBA1234;g__HGM13618;s__HGM13618 sp900753975	98,18
+MEGAHIT-MetaBAT2-S954.88	0.1544942967764	stress	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Ruminococcus;s__Ruminococcus sp016303195	99,25
+group7_bins.369	-0.153799216900051	control	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__RUG12519;s__	N/A
+933_SemiBin_252	0.149219444204449	stress	d__Bacteria;p__Bacillota_I;c__Bacilli_A;o__Erysipelotrichales;f__Erysipelotrichaceae;g__Bulleidia;s__Bulleidia sp900539965	98,55
+MEGAHIT-MetaBAT2-S985.88	-0.148884214759592	control	d__Bacteria;p__Bacillota;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Limosilactobacillus;s__Limosilactobacillus sp002299975	99,67
+MEGAHIT-MetaBAT2-S945.140	-0.148310381516845	control	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Roseburia_D;s__Roseburia_D sp945868305	99,35
+group6_bins.106	0.146679053829766	stress	d__Bacteria;p__Myxococcota;c__Bradymonadia;o__UBA4248;f__UBA4248;g__RGIG464;s__	N/A
+962_SemiBin_32	-0.145113347343357	control	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Christensenellales;f__UBA1242;g__UBA11490;s__	N/A
+MEGAHIT-MetaBAT2-S946.20	-0.143805029067461	control	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__;s__	N/A
+MEGAHIT-MetaBAT2-S968.197	0.140322247256903	stress	d__Archaea;p__Methanobacteriota;c__Methanobacteria;o__Methanobacteriales;f__Methanobacteriaceae;g__Methanosphaera;s__Methanosphaera stadtmanae	99.67
+MEGAHIT-MetaBAT2-S941.86	-0.13975678540269	control	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__UBA932;g__Cryptobacteroides;s__Cryptobacteroides sp000431015	98,96
+MEGAHIT-MetaBAT2-S969.185	-0.139089524916392	control	d__Bacteria;p__Bacillota_I;c__Bacilli_A;o__RF39;f__UBA660;g__CAJGDV01;s__CAJGDV01 sp022763805	98,82
+956_SemiBin_215	0.135181545630451	stress	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Butyricicoccaceae;g__Butyricicoccus_A;s__Butyricicoccus_A intestinisimiae	98,41
+MEGAHIT-MetaBAT2-S970.211	-0.13332311785699	control	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA2882;s__UBA2882 sp017626095	95,18
+991_SemiBin_49	0.132430951442285	stress	d__Bacteria;p__Spirochaetota;c__Spirochaetia;o__Treponematales;f__Treponemataceae;g__Treponema_D;s__Treponema_D sp946061765	98,34
+MEGAHIT-MetaBAT2-S967.46	0.130749141897131	stress	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Limisoma;s__Limisoma sp004555955	98,07
+group8_bins.18	-0.129380500322398	control	d__Bacteria;p__Bacillota_C;c__Negativicutes;o__Selenomonadales;f__Selenomonadaceae;g__CAMCDL01;s__CAMCDL01 sp945873565	98,92
+951_SemiBin_94	0.128220188125606	stress	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Fusicatenibacter;s__Fusicatenibacter saccharivorans	97,13
+MEGAHIT-MetaBAT2-S990.160	-0.127578035359938	control	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Paludibacteraceae;g__RF16;s__RF16 sp016302585	98,13
+group3_bins.177	-0.126596854208601	control	d__Bacteria;p__Myxococcota;c__Bradymonadia;o__UBA4248;f__UBA4248;g__UBA4248;s__UBA4248 sp945875805	99,23
+group9_bins.52	-0.125979106378956	control	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__UBA932;g__Cryptobacteroides;s__Cryptobacteroides sp018384035	98,89
+983_SemiBin_140	-0.125225182608837	control	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA2821;s__UBA2821 sp902763335	98,33
+983_SemiBin_321	-0.124114665654539	control	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__CAG-964;s__CAG-964 sp902789345	99,1
+MEGAHIT-MetaBAT2-S970.243	-0.118065597864948	control	d__Bacteria;p__Bacillota_I;c__Bacilli_A;o__RF39;f__UBA660;g__CAKOQQ01;s__CAKOQQ01 sp934101425	98,73
+MEGAHIT-MetaBAT2-S945.135	-0.117492915382704	control	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Paludibacteraceae;g__RF16;s__RF16 sp946059305	97,78
+MEGAHIT-MetaBAT2-S992.120	-0.116011167827417	control	d__Bacteria;p__Bacillota_I;c__Bacilli_A;o__RF39;f__UBA660;g__JAEDMO01;s__JAEDMO01 sp016302935	98,19
+MEGAHIT-MetaBAT2-S985.24	-0.115414154033521	control	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella sp945829115	98,5
+981_SemiBin_196	0.112452665909974	stress	d__Bacteria;p__Spirochaetota;c__Spirochaetia;o__Treponematales;f__Treponemataceae;g__Treponema_D;s__Treponema_D sp016294035	98,36
+group7_bins.370	-0.105753812144931	control	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__CAG-882;s__CAG-882 sp958446835	99,06
+973_SemiBin_307	-0.0968628558802205	control	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__F082;g__Limimorpha;s__Limimorpha sp900769945	98,7
+group6_bins.257	-0.0948890413535208	control	d__Archaea;p__Methanobacteriota;c__Methanobacteria;o__Methanobacteriales;f__Methanobacteriaceae;g__Methanosphaera;s__Methanosphaera sp022768985	99.95
+MEGAHIT-MetaBAT2-S935.158	-0.0916376821493935	control	d__Bacteria;p__Bacillota_I;c__Bacilli_A;o__RFN20;f__CAG-826;g__RUG13091;s__	N/A
+MEGAHIT-MetaBAT2-S937.157	-0.0839547551263052	control	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Butyrivibrio_A;s__Butyrivibrio_A crossotus	98,17
+970_SemiBin_111	-0.0769293514082389	control	d__Bacteria;p__Spirochaetota;c__Spirochaetia;o__Treponematales;f__Treponemataceae;g__Treponema_D;s__Treponema_D sp016293645	98,94
+MEGAHIT-MetaBAT2-S935.50	-0.0656529936418575	control	d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Verrucomicrobiales;f__Akkermansiaceae;g__Akkermansia;s__Akkermansia muciniphila_D	96,82
+MEGAHIT-MetaBAT2-S946.49	-0.0639257750684372	control	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__UBA932;g__Cryptobacteroides;s__Cryptobacteroides sp016295245	98,88
+969_SemiBin_466	-0.0609614763936014	control	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Peptostreptococcales;f__Anaerovoracaceae;g__RUG099;s__RUG099 sp946006945	99,03
+946_SemiBin_182	-0.0585780049459167	control	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Acetatifactor;s__Acetatifactor sp018385425	99,21
+963_SemiBin_255	-0.0497126026393671	control	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Butyrivibrio_A;s__Butyrivibrio_A sp016297265	98,48
+953_SemiBin_322	-0.0465475963354421	control	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella sp900771975	98,69
+MEGAHIT-MetaBAT2-S951.45	0.0453106581283756	stress	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA2868;s__UBA2868 sp004552595	98,54
+MEGAHIT-MetaBAT2-S976.157	-0.0331476557925696	control	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__SFTJ01;s__SFTJ01 sp004563195	97,72
+991_SemiBin_113	0.032501383192933	stress	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__P3;g__Onthomorpha;s__Onthomorpha sp004551865	98,46
+MEGAHIT-MetaBAT2-S981.154	0.0110052116782151	stress	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__UBA3663;g__UBA3663;s__UBA3663 sp004557315	98,27
+MEGAHIT-MetaBAT2-S964.217	-0.00955158984710303	control	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__TWA4;s__TWA4 sp022781515	95,31
+MEGAHIT-MetaBAT2-S935.70	-0.0036094567435426	control	d__Bacteria;p__Bacillota_I;c__Bacilli_A;o__Acholeplasmatales;f__Anaeroplasmataceae;g__Anaeroplasma;s__Anaeroplasma sp945920825	97,66

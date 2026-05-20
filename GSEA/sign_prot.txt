@@ -1,0 +1,1254 @@
+Protein	gene	Indistinguishable.Proteins	Description	ko_id
+1	P15	932_SemiBin_102_contig_2248366_21		rank: D;Bacterial extracellular solute-binding protein [PF01547.30] (db=pfam)	NA
+2	P141	932_SemiBin_124_contig_6655460_3		rank: C;succinate dehydrogenase flavoprotein subunit [EC:1.3.5.1] (db=kegg)	K00239
+3	P152	932_SemiBin_124_contig_6655471_14		rank: C;TonB-dependent starch-binding outer membrane protein SusC (db=kegg)	K21573
+4	P186	932_SemiBin_124_contig_6655525_1		rank: C;pyruvate, orthophosphate dikinase [EC:2.7.9.1] (db=kegg)	K01006
+5	P225	932_SemiBin_153_contig_6137050_12		rank: D;Glyceraldehyde 3-phosphate dehydrogenase, C-terminal domain [PF02800.25];Glyceraldehyde 3-phosphate dehydrogenase, NAD binding domain [PF00044.29] (db=pfam)	NA
+6	P263	932_SemiBin_153_contig_6137093_1		rank: C;cellobiose PTS system EIIA component [EC:2.7.1.196 2.7.1.205] (db=kegg)	K02759
+7	P285	932_SemiBin_153_contig_6137120_10		rank: C;triosephosphate isomerase (TIM) [EC:5.3.1.1] (db=kegg)	K01803
+8	P380	932_SemiBin_172_contig_661106_75		rank: C;3-hydroxybutyryl-CoA dehydrogenase [EC:1.1.1.157] (db=kegg)	K00074
+9	P392	932_SemiBin_172_contig_661109_209		rank: C;lactaldehyde reductase [EC:1.1.1.77] (db=kegg)	K00048
+10	P413	932_SemiBin_172_contig_661113_245		rank: E	NA
+11	P415	932_SemiBin_172_contig_661113_29	956_SemiBin_187_contig_5944759_24, MEGAHIT-MetaBAT2-S957.66_contig_2890081_11, MEGAHIT-MetaBAT2-S959.110_contig_6841434_5, MEGAHIT-MetaBAT2-S979.51_contig_4518104_18, MEGAHIT-MetaBAT2-S979.94_contig_4634404_3	rank: C;small subunit ribosomal protein S11 (db=kegg)	K02948
+12	P508	932_SemiBin_216_contig_6775423_1	935_SemiBin_76_contig_5163407_12, MEGAHIT-MetaBAT2-S955.109_contig_2164671_12, MEGAHIT-MetaBAT2-S970.51_contig_6451668_4, MEGAHIT-MetaBAT2-S983.33_contig_5576719_14	rank: C;cell division protein FtsZ (db=kegg)	K03531
+13	P529	932_SemiBin_237_contig_3195432_8		rank: C;argininosuccinate synthase [EC:6.3.4.5] (db=kegg)	K01940
+14	P640	932_SemiBin_237_contig_3195445_22	MEGAHIT-MetaBAT2-S962.80_contig_4191415_2	rank: D;Amino acid kinase family [PF00696.33];ACT domain [PF22468.1] (db=pfam)	NA
+15	P668	932_SemiBin_237_contig_3195450_17	MEGAHIT-MetaBAT2-S962.80_contig_4191074_3	rank: C;vancomycin resistance protein VanJ (db=kegg)	K18353
+16	P706	932_SemiBin_237_contig_3195453_25	MEGAHIT-MetaBAT2-S962.80_contig_4191409_4	rank: C;protein deglycase [EC:3.5.1.124] (db=kegg)	K03152
+17	P775	932_SemiBin_237_contig_3195459_31	MEGAHIT-MetaBAT2-S962.80_contig_4191180_1	rank: D;2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase [PF01128.24];Nucleotidyl transferase [PF00483.28] (db=pfam)	NA
+18	P793	932_SemiBin_237_contig_3195460_34	MEGAHIT-MetaBAT2-S962.80_contig_4191177_6	rank: C;large subunit ribosomal protein L18 (db=kegg)	K02881
+19	P803	932_SemiBin_237_contig_3195460_50		rank: C;large subunit ribosomal protein L3 (db=kegg)	K02906
+20	P972	932_SemiBin_237_contig_3195497_3		rank: E	NA
+21	P990	932_SemiBin_237_contig_3195500_38		rank: C;acetate kinase [EC:2.7.2.1] (db=kegg)	K00925
+22	P1037	933_SemiBin_193_contig_859805_2		rank: C;glutamine synthetase [EC:6.3.1.2] (db=kegg)	K01915
+23	P1089	933_SemiBin_193_contig_859878_20		rank: C;large subunit ribosomal protein L5 (db=kegg)	K02931
+24	P1091	933_SemiBin_193_contig_859878_26		rank: C;small subunit ribosomal protein S3 (db=kegg)	K02982
+25	P1120	933_SemiBin_252_contig_4987272_38		rank: C;basic membrane protein A and related proteins (db=kegg)	K07335
+26	P1170	934_SemiBin_124_contig_2042514_10		rank: D;MFS/sugar transport protein [PF13347.11] (db=pfam)	NA
+27	P1197	935_SemiBin_113_contig_5971576_36		rank: D;Rubrerythrin [PF02915.22];Rubrerythrin, rubredoxin-like domain [PF21349.2] (db=pfam)	NA
+28	P1239	935_SemiBin_113_contig_5971605_13	968_SemiBin_131_contig_4413952_10, 970_SemiBin_53_contig_3961192_4	rank: E	NA
+29	P1338	935_SemiBin_192_contig_3011943_10		rank: D;Bacterial extracellular solute-binding proteins, family 3 [PF00497.25];Ligated ion channel L-glutamate- and glycine-binding site [PF10613.14] (db=pfam)	NA
+30	P1342	935_SemiBin_192_contig_3011943_118		rank: C;preprotein translocase subunit YajC (db=kegg)	K03210
+31	P1358	935_SemiBin_192_contig_3011944_36		rank: D;Binding-protein-dependent transport system inner membrane component [PF00528.27] (db=pfam)	NA
+32	P1359	935_SemiBin_192_contig_3011944_37		rank: C;cellobiose transport system substrate-binding protein (db=kegg)	K10240
+33	P1361	935_SemiBin_192_contig_3011944_6		rank: C;pyruvate, orthophosphate dikinase [EC:2.7.9.1] (db=kegg)	K01006
+34	P1364	935_SemiBin_192_contig_3011946_4		rank: D;Flagellar filament outer layer protein Flaa [PF04620.17] (db=pfam)	NA
+35	P1365	935_SemiBin_192_contig_3011946_53		rank: C;glucose-1-phosphate adenylyltransferase [EC:2.7.7.27] (db=kegg)	K00975
+36	P1368	935_SemiBin_192_contig_3011948_10		rank: C;putative tryptophan/tyrosine transport system substrate-binding protein (db=kegg)	K01989
+37	P1381	935_SemiBin_192_contig_3011955_8		rank: C;LemA protein (db=kegg)	K03744
+38	P1383	935_SemiBin_192_contig_3011956_1		rank: C;rubrerythrin (db=kegg)	K19824
+39	P1392	935_SemiBin_192_contig_3011960_73		rank: E	NA
+40	P1424	935_SemiBin_192_contig_3011971_179		rank: D;HMGL-like [PF00682.24];Conserved carboxylase domain [PF02436.23];Biotin-requiring enzyme [PF00364.27] (db=pfam)	NA
+41	P1434	935_SemiBin_192_contig_3011971_232		rank: D;Cellulase (glycosyl hydrolase family 5) [PF00150.23] (db=pfam)	NA
+42	P1438	935_SemiBin_192_contig_3011971_254		rank: E	NA
+43	P1440	935_SemiBin_192_contig_3011971_26	970_SemiBin_111_contig_3276016_23, MEGAHIT-MetaBAT2-S964.113_contig_1412599_3	rank: C;ketol-acid reductoisomerase [EC:1.1.1.86] (db=kegg)	K00053
+44	P1463	935_SemiBin_192_contig_3011980_58		rank: D;GGGtGRT protein [PF14057.11] (db=pfam)	NA
+45	P1473	935_SemiBin_192_contig_3011993_18		rank: C;alanine or glycine:cation symporter, AGCS family (db=kegg)	K03310
+46	P1475	935_SemiBin_192_contig_3011993_53		rank: C;multiple sugar transport system ATP-binding protein [EC:7.5.2.-] (db=kegg)	K10112
+47	P1480	935_SemiBin_192_contig_3011995_21		rank: C;MoxR-like ATPase [EC:3.6.3.-] (db=kegg)	K03924
+48	P1486	935_SemiBin_192_contig_3011996_46		rank: C;large subunit ribosomal protein L7/L12 (db=kegg)	K02935
+49	P1492	935_SemiBin_192_contig_3011999_31		rank: E	NA
+50	P1495	935_SemiBin_192_contig_3012002_3		rank: C;chromosome partitioning protein (db=kegg)	K03496
+51	P1506	935_SemiBin_192_contig_3012009_58		rank: C;branched-chain amino acid transport system substrate-binding protein (db=kegg)	K01999
+52	P1509	935_SemiBin_192_contig_3012009_63		rank: C;small subunit ribosomal protein S11 (db=kegg)	K02948
+53	P1519	935_SemiBin_192_contig_3012009_85		rank: C;large subunit ribosomal protein L3 (db=kegg)	K02906
+54	P1522	935_SemiBin_192_contig_3012009_88		rank: C;small subunit ribosomal protein S7 (db=kegg)	K02992
+55	P1578	935_SemiBin_236_contig_538418_16		rank: C;TonB-dependent starch-binding outer membrane protein SusC (db=kegg)	K21573
+56	P1584	935_SemiBin_236_contig_538420_25		rank: E	NA
+57	P1632	935_SemiBin_236_contig_538454_69		rank: D;Barrel-sandwich domain of CusB or HlyD membrane-fusion [PF16576.10];HlyD family secretion protein [PF13437.11] (db=pfam)	NA
+58	P1645	935_SemiBin_236_contig_538459_18		rank: C;threonyl-tRNA synthetase [EC:6.1.1.3] (db=kegg)	K01868
+59	P1647	935_SemiBin_236_contig_538459_7		rank: C;methylmalonyl-CoA decarboxylase subunit alpha [EC:7.2.4.3] (db=kegg)	K01604
+60	P1684	935_SemiBin_68_contig_5672585_18		rank: C;UDP-glucose 4-epimerase [EC:5.1.3.2] (db=kegg)	K01784
+61	P1775	935_SemiBin_68_contig_5672731_1		rank: D;Thiolase, C-terminal domain [PF02803.23];Thiolase, N-terminal domain [PF00108.28] (db=pfam)	NA
+62	P1779	935_SemiBin_68_contig_5672731_5		rank: C;electron transfer flavoprotein beta subunit (db=kegg)	K03521
+63	P1787	935_SemiBin_68_contig_5672738_7		rank: E	NA
+64	P1789	935_SemiBin_68_contig_5672740_1		rank: D;Iron only hydrogenase large subunit, C-terminal domain [PF02906.19];4Fe-4S dicluster domain [PF14697.11];4Fe-4S dicluster domain [PF12838.12];4Fe-4S dicluster domain [PF13237.11];4Fe-4S dicluster domain [PF13247.11];4Fe-4S dicluster domain [PF13187.11];4Fe-4S binding domain [PF12837.12];4Fe-4S dicluster domain [PF13183.11];4Fe-4S double cluster binding domain [PF13484.11];4Fe-4S binding domain [PF00037.32];4Fe-4S dicluster domain [PF13534.11] (db=pfam)	NA
+65	P1801	935_SemiBin_68_contig_5672752_2	968_SemiBin_131_contig_4413959_7, 970_SemiBin_53_contig_3961144_9	rank: C;large subunit ribosomal protein L3 (db=kegg)	K02906
+66	P1805	935_SemiBin_68_contig_5672754_3	967_SemiBin_89_contig_4060666_11	rank: C;small subunit ribosomal protein S15 (db=kegg)	K02956
+67	P1855	935_SemiBin_68_contig_5672805_3	967_SemiBin_89_contig_4060596_4	rank: C;large subunit ribosomal protein L24 (db=kegg)	K02895
+68	P1856	935_SemiBin_68_contig_5672805_4		rank: C;large subunit ribosomal protein L14 (db=kegg)	K02874
+69	P1890	935_SemiBin_76_contig_5163308_1		rank: C;2-enoate reductase [EC:1.3.1.31] (db=kegg)	K10797
+70	P1927	937_SemiBin_148_contig_282743_8	974_SemiBin_118_contig_849910_1	rank: C;dihydroxy-acid dehydratase [EC:4.2.1.9] (db=kegg)	K01687
+71	P2069	937_SemiBin_148_contig_282880_3		rank: C;UDP-glucose 4-epimerase [EC:5.1.3.2] (db=kegg)	K01784
+72	P2178	938_SemiBin_99_contig_3776150_24		rank: C;Bacteriophage tail sheath protein (db=kegg)	K06907
+73	P2200	938_SemiBin_99_contig_3776294_1		rank: D;CoA enzyme activase uncharacterised domain (DUF2229) [PF09989.14] (db=pfam)	NA
+74	P2244	939_SemiBin_272_contig_3873187_2		rank: C;glutamate dehydrogenase (NADP+) [EC:1.4.1.4] (db=kegg)	K00262
+75	P2352	939_SemiBin_87_contig_3125166_5		rank: D;Oxidoreductase family, C-terminal alpha/beta domain [PF19051.5];Oxidoreductase family, NAD-binding Rossmann fold [PF01408.27];Homoserine dehydrogenase, NAD binding domain [PF03447.21] (db=pfam)	NA
+76	P2419	940_SemiBin_253_contig_347919_11		rank: E	NA
+77	P2423	940_SemiBin_253_contig_347921_6		rank: C;6-pyruvoyltetrahydropterin/6-carboxytetrahydropterin synthase [EC:4.2.3.12 4.1.2.50] (db=kegg)	K01737
+78	P2461	940_SemiBin_253_contig_347968_3		rank: D;Fasciclin domain [PF02469.27] (db=pfam)	NA
+79	P2561	941_SemiBin_237_contig_6359465_20		rank: D;Phosphotransferase enzyme family [PF01636.28] (db=pfam)	NA
+80	P2580	941_SemiBin_237_contig_6359477_21		rank: C;HSP20 family protein (db=kegg)	K13993
+81	P2625	941_SemiBin_67_contig_4026764_44		rank: C;large subunit ribosomal protein L3 (db=kegg)	K02906
+82	P2647	941_SemiBin_67_contig_4026835_12		rank: C;L-lactate dehydrogenase [EC:1.1.1.27] (db=kegg)	K00016
+83	P2674	941_SemiBin_67_contig_4026894_2	990_SemiBin_269_contig_1074239_21	rank: C;cellobiose phosphorylase [EC:2.4.1.20] (db=kegg)	K00702
+84	P2827	944_SemiBin_44_contig_4820398_2		rank: E	NA
+85	P2842	944_SemiBin_44_contig_4820417_31		rank: C;prolyl-tRNA synthetase [EC:6.1.1.15] (db=kegg)	K01881
+86	P2843	944_SemiBin_44_contig_4820418_3		rank: C;diphosphate-dependent phosphofructokinase [EC:2.7.1.90] (db=kegg)	K00895
+87	P2851	944_SemiBin_44_contig_4820433_2		rank: C;succinate dehydrogenase cytochrome b subunit (db=kegg)	K00241
+88	P2909	944_SemiBin_44_contig_4820502_20	945_SemiBin_50_contig_502360_2	rank: D;Concanavalin A-like lectin/glucanases superfamily [PF13385.12];Pentaxin family [PF00354.23];Viral BACON domain [PF19190.5] (db=pfam)	NA
+89	P3012	945_SemiBin_185_contig_448673_47		rank: E	NA
+90	P3036	945_SemiBin_185_contig_448724_32	MEGAHIT-MetaBAT2-S938.43_contig_1391638_4, MEGAHIT-MetaBAT2-S946.155_contig_5764349_80, MEGAHIT-MetaBAT2-S947.97_contig_6666085_4	rank: D;Conserved carboxylase domain [PF02436.23];HMGL-like [PF00682.24] (db=pfam)	NA
+91	P3042	945_SemiBin_185_contig_448733_12	MEGAHIT-MetaBAT2-S946.155_contig_5764355_13, MEGAHIT-MetaBAT2-S947.97_contig_6666091_11	rank: E	NA
+92	P3095	945_SemiBin_201_contig_3493374_7		rank: D;CBS domain [PF00571.33] (db=pfam)	NA
+93	P3138	945_SemiBin_201_contig_3493383_8		rank: C;archaeal chaperonin (db=kegg)	K22447
+94	P3188	945_SemiBin_201_contig_3493400_156		rank: C;myo-inositol-1-phosphate synthase [EC:5.5.1.4] (db=kegg)	K01858
+95	P3271	945_SemiBin_23_contig_1475297_1		rank: D;Hsp70 protein [PF00012.25];MreB/Mbl protein [PF06723.18] (db=pfam)	NA
+96	P3272	945_SemiBin_23_contig_1475316_1		rank: D;Pyridine nucleotide-disulphide oxidoreductase, dimerisation domain [PF02852.27] (db=pfam)	NA
+97	P3438	945_SemiBin_50_contig_502470_28		rank: C;threonyl-tRNA synthetase [EC:6.1.1.3] (db=kegg)	K01868
+98	P3534	946_SemiBin_182_contig_789393_52		rank: D;Bacterial extracellular solute-binding protein [PF13416.11] (db=pfam)	NA
+99	P3556	946_SemiBin_182_contig_789413_52		rank: C;CTP synthase [EC:6.3.4.2] (db=kegg)	K01937
+100	P3614	946_SemiBin_296_contig_4307517_17		rank: D;Domain of unknown function (DUF4827) [PF16109.10] (db=pfam)	NA
+101	P3616	946_SemiBin_296_contig_4307519_1		rank: C;myo-inositol-1-phosphate synthase [EC:5.5.1.4] (db=kegg)	K01858
+102	P3618	946_SemiBin_296_contig_4307520_2		rank: C;bleomycin hydrolase [EC:3.4.22.40] (db=kegg)	K01372
+103	P3629	946_SemiBin_296_contig_4307524_24		rank: C;large subunit ribosomal protein L14 (db=kegg)	K02874
+104	P3675	946_SemiBin_296_contig_4307547_6		rank: C;chaperonin GroEL [EC:5.6.1.7] (db=kegg)	K04077
+105	P3703	946_SemiBin_296_contig_4307564_12		rank: D;Dockerin type I domain [PF00404.23] (db=pfam)	NA
+106	P3774	946_SemiBin_296_contig_4307595_14		rank: C;uridine phosphorylase [EC:2.4.2.3] (db=kegg)	K00757
+107	P3807	946_SemiBin_296_contig_4307617_1		rank: D;Endonuclease I [PF04231.18];Dockerin type I domain [PF00404.23] (db=pfam)	NA
+108	P3830	946_SemiBin_296_contig_4307648_6		rank: C;2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha [EC:1.2.7.3 1.2.7.11] (db=kegg)	K00174
+109	P3903	946_SemiBin_333_contig_5616790_13		rank: C;spore coat protein JC (db=kegg)	K06334
+110	P3941	946_SemiBin_374_contig_4629681_1		rank: E	NA
+111	P4001	946_SemiBin_374_contig_4629782_84	968_SemiBin_116_contig_4216170_11	rank: C;carbohydrate diacid regulator (db=kegg)	K02647
+112	P4059	947_SemiBin_204_contig_1162486_3		rank: E	NA
+113	P4062	947_SemiBin_204_contig_1162491_16		rank: D;Domain of unknown function (DUF4957) [PF16318.10] (db=pfam)	NA
+114	P4092	947_SemiBin_204_contig_1162509_21		rank: C;small subunit ribosomal protein S3 (db=kegg)	K02982
+115	P4109	947_SemiBin_204_contig_1162519_3		rank: C;large subunit ribosomal protein L25 (db=kegg)	K02897
+116	P4189	947_SemiBin_204_contig_1162575_31		rank: D;Sulfatase-modifying factor enzyme 1 [PF03781.21] (db=pfam)	NA
+117	P4202	947_SemiBin_8_contig_4470167_11	MEGAHIT-MetaBAT2-S951.163_contig_4275136_3	rank: C;phosphoglycerate kinase [EC:2.7.2.3] (db=kegg)	K00927
+118	P4323	947_SemiBin_8_contig_4470428_8		rank: C;HSP20 family protein (db=kegg)	K13993
+119	P4640	947_SemiBin_9_contig_1846786_24	986_SemiBin_166_contig_1142857_20, MEGAHIT-MetaBAT2-S973.125_contig_3453313_12	rank: D;IreB regulatory phosphoprotein [PF06135.17] (db=pfam)	NA
+120	P5056	947_SemiBin_9_contig_1846856_1		rank: E	NA
+121	P5200	948_SemiBin_209_contig_3427028_25		rank: C;cysteine synthase [EC:2.5.1.47] (db=kegg)	K01738
+122	P5417	950_SemiBin_52_contig_2899165_10		rank: C;type IV pilus assembly protein PilM (db=kegg)	K02662
+123	P5431	950_SemiBin_52_contig_2899178_12		rank: C;acetaldehyde dehydrogenase / alcohol dehydrogenase [EC:1.2.1.10 1.1.1.1] (db=kegg)	K04072
+124	P5492	950_SemiBin_52_contig_2899265_86	MEGAHIT-MetaBAT2-S954.88_contig_2519104_25	rank: C;large subunit ribosomal protein L22 (db=kegg)	K02890
+125	P5530	951_SemiBin_94_contig_3789200_10		rank: C;small subunit ribosomal protein S7 (db=kegg)	K02992
+126	P5943	953_SemiBin_322_contig_357603_56		rank: C;large subunit ribosomal protein L6 (db=kegg)	K02933
+127	P5963	953_SemiBin_322_contig_357603_82		rank: C;large subunit ribosomal protein L10 (db=kegg)	K02864
+128	P6012	953_SemiBin_322_contig_357606_40		rank: C;small subunit ribosomal protein S2 (db=kegg)	K02967
+129	P6095	954_SemiBin_221_contig_1002670_16		rank: D;OmpA family [PF00691.25] (db=pfam)	NA
+130	P6230	955_SemiBin_146_contig_875470_1		rank: E	NA
+131	P6356	955_SemiBin_256_contig_4164773_90		rank: C;flagellin (db=kegg)	K02406
+132	P6573	956_SemiBin_187_contig_5944684_3		rank: C;H+/Na+-translocating ferredoxin:NAD+ oxidoreductase subunit D [EC:7.1.1.11 7.2.1.2] (db=kegg)	K03614
+133	P6677	956_SemiBin_215_contig_4668609_31		rank: C;myo-inositol 2-dehydrogenase / D-chiro-inositol 1-dehydrogenase [EC:1.1.1.18 1.1.1.369] (db=kegg)	K00010
+134	P6681	956_SemiBin_215_contig_4668615_20		rank: C;argininosuccinate synthase [EC:6.3.4.5] (db=kegg)	K01940
+135	P6683	956_SemiBin_215_contig_4668615_38		rank: C;carbohydrate diacid regulator (db=kegg)	K02647
+136	P6685	956_SemiBin_215_contig_4668616_16		rank: D;3-hydroxyacyl-CoA dehydrogenase, NAD binding domain [PF02737.23];3-hydroxyacyl-CoA dehydrogenase, C-terminal domain [PF00725.27] (db=pfam)	NA
+137	P6689	956_SemiBin_215_contig_4668616_22		rank: C;4-hydroxybutyrate dehydrogenase [EC:1.1.1.61] (db=kegg)	K18120
+138	P6713	956_SemiBin_215_contig_4668623_8		rank: C;methyl-galactoside transport system substrate-binding protein (db=kegg)	K10540
+139	P6715	956_SemiBin_215_contig_4668624_2		rank: D;Transketolase, C-terminal domain [PF02780.25];Transketolase, pyrimidine binding domain [PF02779.29] (db=pfam)	NA
+140	P6738	956_SemiBin_215_contig_4668629_55		rank: C;xylulose-5-phosphate/fructose-6-phosphate phosphoketolase [EC:4.1.2.9 4.1.2.22] (db=kegg)	K01621
+141	P6754	956_SemiBin_215_contig_4668638_34		rank: C;triosephosphate isomerase (TIM) [EC:5.3.1.1] (db=kegg)	K01803
+142	P6774	956_SemiBin_215_contig_4668649_3		rank: C;myo-inositol 2-dehydrogenase / D-chiro-inositol 1-dehydrogenase [EC:1.1.1.18 1.1.1.369] (db=kegg)	K00010
+143	P6796	957_SemiBin_343_contig_1613452_17	MEGAHIT-MetaBAT2-S958.137_contig_6759197_8	rank: C;fructose-bisphosphate aldolase, class II [EC:4.1.2.13] (db=kegg)	K01624
+144	P6797	957_SemiBin_343_contig_1613453_5	MEGAHIT-MetaBAT2-S958.137_contig_6759138_3	rank: C;LemA protein (db=kegg)	K03744
+145	P6995	958_SemiBin_114_contig_1435962_1		rank: C;threonine synthase [EC:4.2.3.1] (db=kegg)	K01733
+146	P7017	958_SemiBin_114_contig_1436035_3	group10_bins.149_contig_6234305_2	rank: C;phenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20] (db=kegg)	K01889
+147	P7082	958_SemiBin_114_contig_1436165_14		rank: D;EAL domain [PF00563.25];Diguanylate cyclase, GGDEF domain [PF00990.26] (db=pfam)	NA
+148	P7119	958_SemiBin_114_contig_1436225_12		rank: D;Barrel-sandwich domain of CusB or HlyD membrane-fusion [PF16576.10];HlyD family secretion protein [PF13437.11];Biotin-requiring enzyme [PF00364.27] (db=pfam)	NA
+149	P7152	959_SemiBin_129_contig_894503_20		rank: C;ketol-acid reductoisomerase [EC:1.1.1.86] (db=kegg)	K00053
+150	P7165	960_SemiBin_14_contig_3547881_12		rank: C;glycolate dehydrogenase FAD-linked subunit [EC:1.1.99.14] (db=kegg)	K00104
+151	P7166	960_SemiBin_14_contig_3547881_7		rank: C;polar amino acid transport system substrate-binding protein (db=kegg)	K02030
+152	P7215	960_SemiBin_14_contig_3548040_26		rank: C;large subunit ribosomal protein L2 (db=kegg)	K02886
+153	P7248	960_SemiBin_192_contig_4304208_2		rank: C;ATP-dependent Clp protease ATP-binding subunit ClpB (db=kegg)	K03695
+154	P7335	960_SemiBin_428_contig_1815700_263		rank: C;ribonucrease Y [EC:3.1.-.-] (db=kegg)	K18682
+155	P7407	960_SemiBin_66_contig_2055284_5		rank: C;large subunit ribosomal protein L1 (db=kegg)	K02863
+156	P7427	960_SemiBin_66_contig_2055307_2	MEGAHIT-MetaBAT2-S956.103_contig_5657188_3	rank: C;elongation factor P (db=kegg)	K02356
+157	P7429	960_SemiBin_66_contig_2055313_29	MEGAHIT-MetaBAT2-S967.229_contig_6869568_10	rank: E	NA
+158	P7471	960_SemiBin_66_contig_2055393_4	MEGAHIT-MetaBAT2-S956.103_contig_5657266_23	rank: C;ketol-acid reductoisomerase [EC:1.1.1.86] (db=kegg)	K00053
+159	P7516	961_SemiBin_68_contig_3660505_8		rank: C;two-component system, chemotaxis family, chemotaxis protein CheV (db=kegg)	K03415
+160	P7558	961_SemiBin_68_contig_3660511_7		rank: C;phosphoglycerate kinase [EC:2.7.2.3] (db=kegg)	K00927
+161	P7576	961_SemiBin_68_contig_3660515_9		rank: E	NA
+162	P7624	961_SemiBin_68_contig_3660519_5		rank: C;oligopeptidase A [EC:3.4.24.70] (db=kegg)	K01414
+163	P7710	961_SemiBin_68_contig_3660542_18		rank: C;type VI secretion system protein ImpB (db=kegg)	K11901
+164	P7767	961_SemiBin_68_contig_3660555_14		rank: C;DNA gyrase subunit B [EC:5.6.2.2] (db=kegg)	K02470
+165	P7772	961_SemiBin_68_contig_3660556_1		rank: D;Domain of unknown function (DUF4214) [PF13946.11] (db=pfam)	NA
+166	P7785	961_SemiBin_68_contig_3660560_15		rank: C;tryptophan synthase beta chain [EC:4.2.1.20] (db=kegg)	K06001
+167	P7792	961_SemiBin_68_contig_3660561_15		rank: C;H+/Na+-translocating ferredoxin:NAD+ oxidoreductase subunit C [EC:7.1.1.11 7.2.1.2] (db=kegg)	K03615
+168	P7804	961_SemiBin_68_contig_3660564_2		rank: C;hydroxyacylglutathione hydrolase [EC:3.1.2.6] (db=kegg)	K01069
+169	P7809	961_SemiBin_68_contig_3660570_4		rank: E	NA
+170	P7810	961_SemiBin_68_contig_3660571_2		rank: E	NA
+171	P7818	961_SemiBin_68_contig_3660573_29		rank: C;2-dehydro-3-deoxyphosphooctonate aldolase (KDO 8-P synthase) [EC:2.5.1.55] (db=kegg)	K01627
+172	P7823	961_SemiBin_68_contig_3660575_2		rank: C;acyl carrier protein (db=kegg)	K02078
+173	P7828	961_SemiBin_68_contig_3660577_3		rank: C;flagellar hook protein FlgE (db=kegg)	K02390
+174	P7836	961_SemiBin_68_contig_3660580_18		rank: C;enoyl-[acyl-carrier protein] reductase I [EC:1.3.1.9 1.3.1.10] (db=kegg)	K00208
+175	P7853	961_SemiBin_68_contig_3660582_15		rank: D;ubiE/COQ5 methyltransferase family [PF01209.23];Methyltransferase domain [PF08241.17];Methyltransferase domain [PF13649.11];Methyltransferase domain [PF08242.17];Methyltransferase domain [PF13847.11];Methyltransferase domain [PF13489.11] (db=pfam)	NA
+176	P7882	961_SemiBin_68_contig_3660588_4		rank: C;homoserine dehydrogenase [EC:1.1.1.3] (db=kegg)	K00003
+177	P7942	961_SemiBin_68_contig_3660611_8		rank: C;isoleucyl-tRNA synthetase [EC:6.1.1.5] (db=kegg)	K01870
+178	P7950	961_SemiBin_68_contig_3660617_1		rank: D;Gram-negative porin [PF13609.11];Gram-negative porin [PF00267.26] (db=pfam)	NA
+179	P7952	961_SemiBin_68_contig_3660617_12		rank: D;Gram-negative porin [PF13609.11] (db=pfam)	NA
+180	P7981	961_SemiBin_68_contig_3660622_2		rank: C;ornithine carbamoyltransferase [EC:2.1.3.3] (db=kegg)	K00611
+181	P7993	962_SemiBin_32_contig_4978729_10	group3_bins.240_contig_2480957_3	rank: E	NA
+182	P7995	962_SemiBin_52_contig_3229302_7		rank: E	NA
+183	P8029	962_SemiBin_52_contig_3229493_4		rank: C;starch-binding outer membrane protein, SusD/RagB family (db=kegg)	K21572
+184	P8080	963_SemiBin_255_contig_1302079_235		rank: C;electron transfer flavoprotein beta subunit (db=kegg)	K03521
+185	P8112	963_SemiBin_255_contig_1302086_43		rank: C;glucose-6-phosphate isomerase [EC:5.3.1.9] (db=kegg)	K01810
+186	P8196	963_SemiBin_255_contig_1302111_5		rank: D;Phosphofructokinase [PF00365.25] (db=pfam)	NA
+187	P8247	964_SemiBin_111_contig_3254954_3		rank: E	NA
+188	P8252	964_SemiBin_111_contig_3254958_4		rank: C;large subunit ribosomal protein L6 (db=kegg)	K02933
+189	P8294	964_SemiBin_111_contig_3255025_3		rank: E	NA
+190	P8311	964_SemiBin_111_contig_3255066_1		rank: D;Dockerin type I domain [PF00404.23] (db=pfam)	NA
+191	P8315	964_SemiBin_111_contig_3255083_8		rank: C;small subunit ribosomal protein S1 (db=kegg)	K02945
+192	P8407	964_SemiBin_528_contig_2812562_134		rank: C;flagellar hook-associated protein 2 (db=kegg)	K02407
+193	P8414	964_SemiBin_528_contig_2812564_20		rank: C;6-phosphofructokinase 1 [EC:2.7.1.11] (db=kegg)	K00850
+194	P8473	964_SemiBin_528_contig_2812592_64		rank: C;OmpA-OmpF porin, OOP family (db=kegg)	K03286
+195	P8482	964_SemiBin_528_contig_2812596_105		rank: C;elongation factor G (db=kegg)	K02355
+196	P8517	965_SemiBin_146_contig_1264995_3		rank: C;TonB-dependent starch-binding outer membrane protein SusC (db=kegg)	K21573
+197	P8519	965_SemiBin_146_contig_1264995_5		rank: D;Fasciclin domain [PF02469.27] (db=pfam)	NA
+198	P8520	965_SemiBin_146_contig_1264995_6		rank: D;Fasciclin domain [PF02469.27] (db=pfam)	NA
+199	P8529	965_SemiBin_146_contig_1265001_4		rank: D;Domain of unknown function (DUF5119) [PF17145.9] (db=pfam)	NA
+200	P8541	965_SemiBin_146_contig_1265009_15		rank: C;aldose 1-epimerase [EC:5.1.3.3] (db=kegg)	K01785
+201	P8575	965_SemiBin_146_contig_1265022_9		rank: C;preprotein translocase subunit YajC (db=kegg)	K03210
+202	P8577	965_SemiBin_146_contig_1265025_10		rank: C;polysaccharide biosynthesis/export protein (db=kegg)	K01991
+203	P8584	965_SemiBin_146_contig_1265026_8		rank: C;starch-binding outer membrane protein, SusD/RagB family (db=kegg)	K21572
+204	P8587	965_SemiBin_146_contig_1265027_5		rank: C;chemotaxis protein MotB (db=kegg)	K02557
+205	P8590	965_SemiBin_146_contig_1265028_12		rank: D;Domain of unknown function (DUF5017) [PF16409.10] (db=pfam)	NA
+206	P8625	965_SemiBin_146_contig_1265050_20		rank: D;Domain of unknown function (DUF5074) [PF16819.10] (db=pfam)	NA
+207	P8699	965_SemiBin_146_contig_1265085_4		rank: C;bifunctional aspartokinase / homoserine dehydrogenase 1 [EC:2.7.2.4 1.1.1.3] (db=kegg)	K12524
+208	P8706	965_SemiBin_146_contig_1265089_5		rank: C;F-type H+-transporting ATPase subunit b (db=kegg)	K02109
+209	P8724	965_SemiBin_146_contig_1265098_11		rank: C;large subunit ribosomal protein L10 (db=kegg)	K02864
+210	P8727	965_SemiBin_146_contig_1265098_14		rank: C;DNA-directed RNA polymerase subunit beta' [EC:2.7.7.6] (db=kegg)	K03046
+211	P8763	965_SemiBin_146_contig_1265129_9		rank: D;NADH-ubiquinone/plastoquinone oxidoreductase chain 6 [PF00499.25] (db=pfam)	NA
+212	P8765	965_SemiBin_146_contig_1265130_2		rank: C;starch-binding outer membrane protein, SusD/RagB family (db=kegg)	K21572
+213	P8766	965_SemiBin_146_contig_1265130_3		rank: D;Surface glycan-binding protein B xyloglucan binding domain [PF18329.6] (db=pfam)	NA
+214	P8767	965_SemiBin_146_contig_1265130_4		rank: E	NA
+215	P8768	965_SemiBin_146_contig_1265130_5		rank: D;Cellulase (glycosyl hydrolase family 5) [PF00150.23] (db=pfam)	NA
+216	P8782	965_SemiBin_146_contig_1265144_10		rank: C;nitrogen regulatory protein P-II 1 (db=kegg)	K04751
+217	P8794	965_SemiBin_146_contig_1265147_1		rank: C;Na+-transporting NADH:ubiquinone oxidoreductase subunit F [EC:7.2.1.1] (db=kegg)	K00351
+218	P8835	965_SemiBin_146_contig_1265174_1		rank: C;TonB-dependent starch-binding outer membrane protein SusC (db=kegg)	K21573
+219	P8842	965_SemiBin_146_contig_1265175_5		rank: C;dipeptidase D [EC:3.4.13.-] (db=kegg)	K01270
+220	P8853	965_SemiBin_146_contig_1265183_32		rank: D;Domain of unknown function (DUF4925) [PF16272.10] (db=pfam)	NA
+221	P8879	965_SemiBin_146_contig_1265202_2		rank: D;PKD-like family [PF16407.10];PKD-like domain [PF16820.10] (db=pfam)	NA
+222	P8883	965_SemiBin_146_contig_1265203_2		rank: C;transcription termination/antitermination protein NusA (db=kegg)	K02600
+223	P8902	966_SemiBin_49_contig_5227290_3		rank: C;two-component system, response regulator, stage 0 sporulation protein A (db=kegg)	K07699
+224	P8948	966_SemiBin_49_contig_5227556_4		rank: C;GDPmannose 4,6-dehydratase [EC:4.2.1.47] (db=kegg)	K01711
+225	P9031	966_SemiBin_69_contig_3238735_3	MEGAHIT-MetaBAT2-S953.28_contig_3746220_4	rank: C;sulfonate transport system permease protein (db=kegg)	K15554
+226	P9051	966_SemiBin_69_contig_3238783_14		rank: C;small subunit ribosomal protein S4 (db=kegg)	K02986
+227	P9079	966_SemiBin_91_contig_5159127_15		rank: E	NA
+228	P9084	966_SemiBin_91_contig_5159128_18		rank: E	NA
+229	P9118	966_SemiBin_91_contig_5159162_2		rank: D;CarboxypepD_reg-like domain [PF13715.11];TonB dependent receptor-like, beta-barrel [PF00593.29];TonB-dependent Receptor Plug Domain [PF07715.20] (db=pfam)	NA
+230	P9121	966_SemiBin_91_contig_5159167_2		rank: D;Putative binding domain, N-terminal [PF13004.12] (db=pfam)	NA
+231	P9141	966_SemiBin_91_contig_5159191_1		rank: D;CarboxypepD_reg-like domain [PF13715.11] (db=pfam)	NA
+232	P9145	966_SemiBin_91_contig_5159197_2		rank: C;starch-binding outer membrane protein, SusD/RagB family (db=kegg)	K21572
+233	P9149	966_SemiBin_91_contig_5159199_20		rank: C;biopolymer transport protein ExbB (db=kegg)	K03561
+234	P9176	966_SemiBin_95_contig_3845491_52		rank: C;starch-binding outer membrane protein, SusD/RagB family (db=kegg)	K21572
+235	P9189	966_SemiBin_95_contig_3845499_34		rank: E	NA
+236	P9199	966_SemiBin_95_contig_3845501_33		rank: C;carboxybiotin decarboxylase [EC:7.2.4.1] (db=kegg)	K20509
+237	P9249	966_SemiBin_95_contig_3845526_3		rank: E	NA
+238	P9254	966_SemiBin_95_contig_3845526_7		rank: D;AMP-binding enzyme [PF00501.33] (db=pfam)	NA
+239	P9256	966_SemiBin_95_contig_3845527_17		rank: C;DNA sulfur modification protein DndE (db=kegg)	K19172
+240	P9259	966_SemiBin_95_contig_3845527_23		rank: D;Alpha amylase, catalytic domain [PF00128.29];Starch-binding module 26 [PF16738.10];Chitobiase/beta-hexosaminidase C-terminal domain [PF13290.11] (db=pfam)	NA
+241	P9264	966_SemiBin_95_contig_3845527_31		rank: D;Gliding motility associated protein GldN [PF19841.4] (db=pfam)	NA
+242	P9318	966_SemiBin_95_contig_3845568_2		rank: D;Alpha amylase, catalytic domain [PF00128.29] (db=pfam)	NA
+243	P9322	967_SemiBin_89_contig_4060470_10		rank: C;phosphoribosylformylglycinamidine cyclo-ligase [EC:6.3.3.1] (db=kegg)	K01933
+244	P9351	967_SemiBin_89_contig_4060488_20		rank: C;peptidyl-prolyl cis-trans isomerase B (cyclophilin B) [EC:5.2.1.8] (db=kegg)	K03768
+245	P9371	967_SemiBin_89_contig_4060495_4		rank: C;altronate dehydratase large subunit [EC:4.2.1.7] (db=kegg)	K16850
+246	P9428	967_SemiBin_89_contig_4060564_5		rank: C;large subunit ribosomal protein L9 (db=kegg)	K02939
+247	P9440	967_SemiBin_89_contig_4060569_4		rank: C;F-type H+/Na+-transporting ATPase subunit beta [EC:7.1.2.2 7.2.2.1] (db=kegg)	K02112
+248	P9460	967_SemiBin_89_contig_4060584_5		rank: C;enoyl-CoA hydratase [EC:4.2.1.17] (db=kegg)	K01715
+249	P9502	967_SemiBin_89_contig_4060602_4		rank: C;transcription termination/antitermination protein NusA (db=kegg)	K02600
+250	P9560	967_SemiBin_89_contig_4060656_4		rank: D;Cytidylate kinase-like family [PF13189.11] (db=pfam)	NA
+251	P9606	968_SemiBin_116_contig_4216104_5		rank: C;DNA-directed RNA polymerase subunit beta' [EC:2.7.7.6] (db=kegg)	K03046
+252	P9607	968_SemiBin_116_contig_4216104_6		rank: C;DNA-directed RNA polymerase subunit beta [EC:2.7.7.6] (db=kegg)	K03043
+253	P9670	968_SemiBin_131_contig_4413961_13		rank: D;Glyceraldehyde 3-phosphate dehydrogenase, C-terminal domain [PF02800.25];Glyceraldehyde 3-phosphate dehydrogenase, NAD binding domain [PF00044.29] (db=pfam)	NA
+254	P9679	968_SemiBin_131_contig_4413978_2		rank: C;urocanate reductase [EC:1.3.99.33] (db=kegg)	K17363
+255	P9715	968_SemiBin_131_contig_4414063_6		rank: C;beta-glucosidase [EC:3.2.1.21] (db=kegg)	K05349
+256	P9727	968_SemiBin_131_contig_4414070_9		rank: D;FAD binding domain [PF00890.29];FAD dependent oxidoreductase [PF01266.29] (db=pfam)	NA
+257	P9757	968_SemiBin_24_contig_3038611_6		rank: E	NA
+258	P9804	968_SemiBin_313_contig_7005533_189		rank: D;Iron-containing alcohol dehydrogenase [PF00465.24];Iron-containing alcohol dehydrogenase [PF13685.11] (db=pfam)	NA
+259	P10013	969_SemiBin_208_contig_4993893_3		rank: C;argininosuccinate lyase [EC:4.3.2.1] (db=kegg)	K01755
+260	P10209	969_SemiBin_225_contig_2281529_10	group7_bins.394_contig_663727_4	rank: C;4-hydroxybutyrate dehydrogenase [EC:1.1.1.61] (db=kegg)	K18120
+261	P10218	969_SemiBin_225_contig_2281570_10	MEGAHIT-MetaBAT2-S970.215_contig_2539232_6	rank: C;phenylacetate-CoA ligase [EC:6.2.1.30] (db=kegg)	K01912
+262	P10308	970_SemiBin_111_contig_3275991_104		rank: E	NA
+263	P10315	970_SemiBin_111_contig_3275991_15	MEGAHIT-MetaBAT2-S962.15_contig_5442072_5, MEGAHIT-MetaBAT2-S964.113_contig_1412684_23, MEGAHIT-MetaBAT2-S970.211_contig_7007125_7, MEGAHIT-MetaBAT2-S972.40_contig_3573541_6, group3_bins.183_contig_1475897_13, group8_bins.276_contig_3510806_8	rank: D;Branched-chain amino acid transport system / permease component [PF02653.21] (db=pfam)	NA
+264	P10362	970_SemiBin_111_contig_3275999_3		rank: C;LemA protein (db=kegg)	K03744
+265	P10400	970_SemiBin_111_contig_3276015_52		rank: D;ATP synthase alpha/beta family, nucleotide-binding domain [PF00006.30];ATPsynthase alpha/beta subunit N-term extension [PF16886.10];ATP synthase alpha/beta family, beta-barrel domain [PF02874.28];C-terminal domain of V and A type ATP synthase [PF22919.1] (db=pfam)	NA
+266	P10403	970_SemiBin_111_contig_3276015_56	MEGAHIT-MetaBAT2-S964.113_contig_1412651_13	rank: C;V/A-type H+/Na+-transporting ATPase subunit K (db=kegg)	K02124
+267	P10430	970_SemiBin_149_contig_3093823_18		rank: C;2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [EC:5.4.2.11] (db=kegg)	K01834
+268	P10476	970_SemiBin_53_contig_3961020_5		rank: C;basic membrane protein A and related proteins (db=kegg)	K07335
+269	P10481	970_SemiBin_53_contig_3961073_21		rank: C;multiple sugar transport system ATP-binding protein [EC:7.5.2.-] (db=kegg)	K10112
+270	P10502	970_SemiBin_87_contig_5996953_3		rank: C;formate C-acetyltransferase [EC:2.3.1.54] (db=kegg)	K00656
+271	P10504	970_SemiBin_87_contig_5997004_2		rank: D;Galactose-1-phosphate uridyl transferase, C-terminal domain [PF02744.22];Galactose-1-phosphate uridyl transferase, N-terminal domain [PF01087.27];Domain of unknown function (DUF4922) [PF16269.10] (db=pfam)	NA
+272	P10506	970_SemiBin_87_contig_5997010_8	972_SemiBin_102_contig_6480001_5	rank: D;Inorganic H+ pyrophosphatase [PF03030.21] (db=pfam)	NA
+273	P10514	970_SemiBin_87_contig_5997063_6		rank: C;lactose/L-arabinose transport system substrate-binding protein (db=kegg)	K10188
+274	P10516	970_SemiBin_87_contig_5997090_4		rank: C;glyceraldehyde 3-phosphate dehydrogenase (phosphorylating) [EC:1.2.1.12] (db=kegg)	K00134
+275	P10525	970_SemiBin_87_contig_5997217_4		rank: C;pyruvate, orthophosphate dikinase [EC:2.7.9.1] (db=kegg)	K01006
+276	P10563	972_SemiBin_102_contig_6480161_2		rank: D;Iron only hydrogenase large subunit, C-terminal domain [PF02906.19];Iron hydrogenase small subunit [PF02256.22];Rubrerythrin [PF02915.22];Rubrerythrin, rubredoxin-like domain [PF21349.2] (db=pfam)	NA
+277	P10575	972_SemiBin_103_contig_3787311_10	MEGAHIT-MetaBAT2-S964.185_contig_75003_12	rank: C;preprotein translocase subunit YajC (db=kegg)	K03210
+278	P10582	972_SemiBin_103_contig_3787334_4	MEGAHIT-MetaBAT2-S964.185_contig_74934_15	rank: C;methionyl-tRNA synthetase [EC:6.1.1.10] (db=kegg)	K01874
+279	P10606	972_SemiBin_103_contig_3787488_4	MEGAHIT-MetaBAT2-S964.185_contig_74996_9	rank: C;F-type H+-transporting ATPase subunit c (db=kegg)	K02110
+280	P10615	972_SemiBin_103_contig_3787528_2		rank: D;ABC transporter [PF00005.32] (db=pfam)	NA
+281	P11217	973_SemiBin_47_contig_3810202_6		rank: D;Type I phosphodiesterase / nucleotide pyrophosphatase [PF01663.27];Sulfatase [PF00884.28];Metalloenzyme superfamily [PF01676.23] (db=pfam)	NA
+282	P11289	973_SemiBin_47_contig_3810232_1		rank: D;Sigma 54 modulation protein / S30EA ribosomal protein [PF02482.24] (db=pfam)	NA
+283	P11331	973_SemiBin_47_contig_3810247_20		rank: C;small subunit ribosomal protein S8 (db=kegg)	K02994
+284	P11339	973_SemiBin_47_contig_3810247_30		rank: C;large subunit ribosomal protein L2 (db=kegg)	K02886
+285	P11565	976_SemiBin_228_contig_1679523_36		rank: C;chaperonin GroEL [EC:5.6.1.7] (db=kegg)	K04077
+286	P11640	976_SemiBin_24_contig_6422221_2		rank: C;alpha-amylase [EC:3.2.1.1] (db=kegg)	K01176
+287	P11686	976_SemiBin_24_contig_6422224_55		rank: C;U32 family peptidase [EC:3.4.-.-] (db=kegg)	K08303
+288	P11695	976_SemiBin_24_contig_6422228_11		rank: C;ribosome-binding factor A (db=kegg)	K02834
+289	P11703	976_SemiBin_24_contig_6422232_4		rank: C;nicotinate-nucleotide adenylyltransferase [EC:2.7.7.18] (db=kegg)	K00969
+290	P11946	976_SemiBin_24_contig_6422254_2		rank: C;xanthine phosphoribosyltransferase [EC:2.4.2.22] (db=kegg)	K03816
+291	P12135	976_SemiBin_24_contig_6422275_11		rank: C;3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100] (db=kegg)	K00059
+292	P12154	976_SemiBin_36_contig_3814046_16		rank: C;rubrerythrin (db=kegg)	K19824
+293	P12181	976_SemiBin_36_contig_3814056_54		rank: C;DNA-directed RNA polymerase subunit alpha [EC:2.7.7.6] (db=kegg)	K03040
+294	P12285	978_SemiBin_64_contig_4662566_3		rank: C;chaperonin GroEL [EC:5.6.1.7] (db=kegg)	K04077
+295	P12305	981_SemiBin_196_contig_5051772_30		rank: C;fructose-bisphosphate aldolase, class II [EC:4.1.2.13] (db=kegg)	K01624
+296	P12315	981_SemiBin_196_contig_5051779_82		rank: E	NA
+297	P12322	981_SemiBin_196_contig_5051782_44		rank: D;Tetratricopeptide repeat-like domain [PF09976.14] (db=pfam)	NA
+298	P12328	981_SemiBin_196_contig_5051784_49		rank: E	NA
+299	P12351	981_SemiBin_196_contig_5051789_149		rank: C;modulator of FtsH protease HflK (db=kegg)	K04088
+300	P12354	981_SemiBin_196_contig_5051789_58		rank: C;large subunit ribosomal protein L1 (db=kegg)	K02863
+301	P12363	981_SemiBin_196_contig_5051789_75		rank: C;small subunit ribosomal protein S3 (db=kegg)	K02982
+302	P12383	981_SemiBin_196_contig_5051802_10		rank: D;Protein export membrane protein [PF02355.21] (db=pfam)	NA
+303	P12393	981_SemiBin_196_contig_5051807_55		rank: C;putative tryptophan/tyrosine transport system substrate-binding protein (db=kegg)	K01989
+304	P12396	981_SemiBin_196_contig_5051807_97		rank: D;PPIC-type PPIASE domain [PF00639.26] (db=pfam)	NA
+305	P12502	981_SemiBin_432_contig_5057951_32		rank: C;F-type H+/Na+-transporting ATPase subunit beta [EC:7.1.2.2 7.2.2.1] (db=kegg)	K02112
+306	P12705	983_SemiBin_133_contig_1182607_12		rank: E	NA
+307	P12793	983_SemiBin_140_contig_943767_3		rank: D;Bacterial extracellular solute-binding protein [PF01547.30];Bacterial extracellular solute-binding protein [PF13416.11] (db=pfam)	NA
+308	P12828	983_SemiBin_140_contig_943807_45		rank: C;enoyl-CoA hydratase [EC:4.2.1.17] (db=kegg)	K01715
+309	P12883	983_SemiBin_140_contig_943878_19		rank: C;small subunit ribosomal protein S5 (db=kegg)	K02988
+310	P12929	983_SemiBin_151_contig_1974770_8		rank: C;fructose PTS system EIIBC or EIIC component [EC:2.7.1.202] (db=kegg)	K02770
+311	P12933	983_SemiBin_151_contig_1974772_103		rank: C;preprotein translocase subunit YajC (db=kegg)	K03210
+312	P12958	983_SemiBin_151_contig_1974773_1		rank: C;ATP-dependent Clp protease ATP-binding subunit ClpB (db=kegg)	K03695
+313	P12988	983_SemiBin_151_contig_1974778_8		rank: C;phosphoribosylformylglycinamidine synthase [EC:6.3.5.3] (db=kegg)	K01952
+314	P12992	983_SemiBin_151_contig_1974779_29		rank: C;carbamate kinase [EC:2.7.2.2] (db=kegg)	K00926
+315	P13016	983_SemiBin_151_contig_1974780_17		rank: C;urocanate reductase [EC:1.3.99.33] (db=kegg)	K17363
+316	P13045	983_SemiBin_151_contig_1974791_13		rank: C;O-acetylhomoserine (thiol)-lyase [EC:2.5.1.49] (db=kegg)	K01740
+317	P13053	983_SemiBin_151_contig_1974792_113		rank: C;UDP-glucose 4-epimerase [EC:5.1.3.2] (db=kegg)	K01784
+318	P13063	983_SemiBin_151_contig_1974792_137		rank: C;small subunit ribosomal protein S1 (db=kegg)	K02945
+319	P13070	983_SemiBin_151_contig_1974792_38		rank: C;glutamate synthase (NADPH) small chain [EC:1.4.1.13] (db=kegg)	K00266
+320	P13079	983_SemiBin_151_contig_1974792_97		rank: D;Polymer-forming cytoskeletal [PF04519.18] (db=pfam)	NA
+321	P13104	983_SemiBin_151_contig_1974798_11		rank: C;methyl-accepting chemotaxis protein (db=kegg)	K03406
+322	P13124	983_SemiBin_151_contig_1974804_21		rank: C;glutamine synthetase [EC:6.3.1.2] (db=kegg)	K01915
+323	P13152	983_SemiBin_151_contig_1974809_59		rank: C;large subunit ribosomal protein L19 (db=kegg)	K02884
+324	P13157	983_SemiBin_151_contig_1974809_81		rank: C;phage shock protein A (db=kegg)	K03969
+325	P13172	983_SemiBin_151_contig_1974810_67		rank: C;phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20] (db=kegg)	K01890
+326	P13188	983_SemiBin_151_contig_1974811_26		rank: C;small subunit ribosomal protein S13 (db=kegg)	K02952
+327	P13189	983_SemiBin_151_contig_1974811_28		rank: C;small subunit ribosomal protein S4 (db=kegg)	K02986
+328	P13192	983_SemiBin_151_contig_1974811_30		rank: C;large subunit ribosomal protein L17 (db=kegg)	K02879
+329	P13200	983_SemiBin_151_contig_1974811_8		rank: C;large subunit ribosomal protein L22 (db=kegg)	K02890
+330	P13240	983_SemiBin_151_contig_1974825_9		rank: C;large subunit ribosomal protein L10 (db=kegg)	K02864
+331	P13289	983_SemiBin_265_contig_1939076_5		rank: D;Bacterial extracellular solute-binding protein [PF01547.30];Bacterial extracellular solute-binding protein [PF13416.11] (db=pfam)	NA
+332	P13373	983_SemiBin_276_contig_3957053_13		rank: C;D-methionine transport system ATP-binding protein (db=kegg)	K02071
+333	P13431	983_SemiBin_276_contig_3957064_51		rank: C;ATP-dependent Clp protease ATP-binding subunit ClpX (db=kegg)	K03544
+334	P13450	983_SemiBin_276_contig_3957071_149		rank: C;phosphoglucomutase [EC:5.4.2.2] (db=kegg)	K01835
+335	P13573	983_SemiBin_276_contig_3957097_20		rank: C;UDP-N-acetylmuramate--alanine ligase [EC:6.3.2.8] (db=kegg)	K01924
+336	P13692	983_SemiBin_309_contig_1221201_5		rank: C;glutamate synthase (NADPH) small chain [EC:1.4.1.13] (db=kegg)	K00266
+337	P13830	983_SemiBin_75_contig_6647905_8		rank: C;gluconate:H+ symporter, GntP family (db=kegg)	K03299
+338	P13854	983_SemiBin_75_contig_6647931_6	993_SemiBin_156_contig_1760518_50	rank: C;isocitrate dehydrogenase [EC:1.1.1.42] (db=kegg)	K00031
+339	P13900	983_SemiBin_75_contig_6647994_17	993_SemiBin_156_contig_1760618_22	rank: C;small subunit ribosomal protein S8 (db=kegg)	K02994
+340	P13956	984_SemiBin_54_contig_5607584_41	MEGAHIT-MetaBAT2-S970.211_contig_7007127_5	rank: C;small subunit ribosomal protein S8 (db=kegg)	K02994
+341	P13984	985_SemiBin_129_contig_7036523_58		rank: C;putative multiple sugar transport system substrate-binding protein (db=kegg)	K10546
+342	P14015	985_SemiBin_129_contig_7036532_38	992_SemiBin_233_contig_1712878_65, MEGAHIT-MetaBAT2-S948.142_contig_869936_42	rank: C;small subunit ribosomal protein S19 (db=kegg)	K02965
+343	P14030	985_SemiBin_129_contig_7036538_45	group9_bins.244_contig_1379185_11	rank: C;F420-non-reducing hydrogenase iron-sulfur subunit [EC:1.12.99.- 1.8.98.5 1.8.98.6] (db=kegg)	K14127
+344	P14146	986_SemiBin_101_contig_4257366_8		rank: C;large subunit ribosomal protein L11 (db=kegg)	K02867
+345	P14253	986_SemiBin_101_contig_4257457_2	MEGAHIT-MetaBAT2-S935.60_contig_5798586_7, MEGAHIT-MetaBAT2-S993.109_contig_3807208_11	rank: C;transcription termination/antitermination protein NusG (db=kegg)	K02601
+346	P14308	986_SemiBin_166_contig_1142799_10		rank: C;alpha-glucoside PTS system EIICB component [EC:2.7.1.208 2.7.1.-] (db=kegg)	K02750
+347	P14433	987_SemiBin_26_contig_1253944_1		rank: D;Iron-containing alcohol dehydrogenase [PF00465.24];Iron-containing alcohol dehydrogenase [PF13685.11] (db=pfam)	NA
+348	P14441	987_SemiBin_26_contig_1253955_8		rank: C;large subunit ribosomal protein L17 (db=kegg)	K02879
+349	P14495	988_SemiBin_105_contig_5494474_6		rank: D;Coenzyme A transferase [PF01144.28] (db=pfam)	NA
+350	P14516	988_SemiBin_105_contig_5494490_10	MEGAHIT-MetaBAT2-S962.187_contig_2556331_7	rank: D;Toxic anion resistance protein (TelA) [PF05816.16] (db=pfam)	NA
+351	P14529	988_SemiBin_105_contig_5494513_6	MEGAHIT-MetaBAT2-S962.187_contig_2556197_2	rank: C;HSP20 family protein (db=kegg)	K13993
+352	P14540	988_SemiBin_105_contig_5494532_6	group3_bins.288_contig_4842556_2	rank: C;uncharacterized protein (db=kegg)	K07137
+353	P14557	988_SemiBin_31_contig_1970419_8		rank: E	NA
+354	P14561	988_SemiBin_31_contig_1970433_8	MEGAHIT-MetaBAT2-S947.59_contig_90679_3	rank: C;elongation factor Tu (db=kegg)	K02358
+355	P14570	988_SemiBin_31_contig_1970462_6	MEGAHIT-MetaBAT2-S947.59_contig_90372_3	rank: C;large subunit ribosomal protein L4 (db=kegg)	K02926
+356	P14776	991_SemiBin_113_contig_800943_111		rank: C;peptidyl-dipeptidase Dcp [EC:3.4.15.5] (db=kegg)	K01284
+357	P14862	991_SemiBin_113_contig_800953_22		rank: C;SecD/SecF fusion protein (db=kegg)	K12257
+358	P14954	991_SemiBin_113_contig_800961_60		rank: C;peptidyl-prolyl cis-trans isomerase D [EC:5.2.1.8] (db=kegg)	K03770
+359	P15012	991_SemiBin_141_contig_1443034_34	MEGAHIT-MetaBAT2-S947.111_contig_76376_11, MEGAHIT-MetaBAT2-S950.5_contig_1514597_28, MEGAHIT-MetaBAT2-S951.173_contig_4789069_4, MEGAHIT-MetaBAT2-S955.226_contig_2978334_48	rank: D;Family of unknown function (DUF5932) [PF19355.4];Response regulator receiver domain [PF00072.29] (db=pfam)	NA
+360	P15056	991_SemiBin_141_contig_1443057_30		rank: C;triosephosphate isomerase (TIM) [EC:5.3.1.1] (db=kegg)	K01803
+361	P15065	991_SemiBin_141_contig_1443060_21		rank: C;starch-binding outer membrane protein, SusD/RagB family (db=kegg)	K21572
+362	P15085	991_SemiBin_141_contig_1443072_16		rank: C;thymidylate synthase (FAD) [EC:2.1.1.148] (db=kegg)	K03465
+363	P15113	991_SemiBin_141_contig_1443102_26		rank: D;Domain of unknown function (DUF5074) [PF16819.10] (db=pfam)	NA
+364	P15115	991_SemiBin_141_contig_1443102_38		rank: D;OmpA family [PF00691.25] (db=pfam)	NA
+365	P15155	991_SemiBin_141_contig_1443131_2		rank: E	NA
+366	P15156	991_SemiBin_141_contig_1443131_3		rank: C;starch-binding outer membrane protein, SusD/RagB family (db=kegg)	K21572
+367	P15157	991_SemiBin_141_contig_1443131_4		rank: C;TonB-dependent starch-binding outer membrane protein SusC (db=kegg)	K21573
+368	P15172	991_SemiBin_141_contig_1443139_4		rank: C;alpha-D-xyloside xylohydrolase [EC:3.2.1.177] (db=kegg)	K01811
+369	P15215	991_SemiBin_141_contig_1443156_30		rank: C;aspartate--ammonia ligase [EC:6.3.1.1] (db=kegg)	K01914
+370	P15238	991_SemiBin_141_contig_1443169_10		rank: C;TonB-dependent starch-binding outer membrane protein SusC (db=kegg)	K21573
+371	P15239	991_SemiBin_141_contig_1443169_11		rank: E	NA
+372	P15263	991_SemiBin_141_contig_1443188_20		rank: C;alanyl-tRNA synthetase [EC:6.1.1.7] (db=kegg)	K01872
+373	P15293	991_SemiBin_49_contig_4970553_33		rank: E	NA
+374	P15298	991_SemiBin_49_contig_4970563_1		rank: E	NA
+375	P15308	991_SemiBin_49_contig_4970570_6	992_SemiBin_233_contig_1712856_30, group9_bins.244_contig_1379207_29	rank: C;large subunit ribosomal protein L31 (db=kegg)	K02909
+376	P15319	991_SemiBin_49_contig_4970579_4		rank: C;multiple sugar transport system ATP-binding protein [EC:7.5.2.-] (db=kegg)	K10112
+377	P15328	991_SemiBin_49_contig_4970580_23	992_SemiBin_233_contig_1712878_71, MEGAHIT-MetaBAT2-S948.142_contig_869936_48	rank: C;large subunit ribosomal protein L14 (db=kegg)	K02874
+378	P15349	991_SemiBin_49_contig_4970603_7	992_SemiBin_233_contig_1712872_10	rank: C;phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20] (db=kegg)	K01890
+379	P15378	991_SemiBin_49_contig_4970652_6		rank: E	NA
+380	P15403	991_SemiBin_49_contig_4970722_13		rank: D;Flagellar filament outer layer protein Flaa [PF04620.17] (db=pfam)	NA
+381	P15447	992_SemiBin_141_contig_2220270_3		rank: C;adenosylhomocysteinase [EC:3.13.2.1] (db=kegg)	K01251
+382	P15466	992_SemiBin_233_contig_1712817_5		rank: C;methyl-accepting chemotaxis protein (db=kegg)	K03406
+383	P15502	992_SemiBin_233_contig_1712828_2		rank: C;glutamate dehydrogenase (NADP+) [EC:1.4.1.4] (db=kegg)	K00262
+384	P15511	992_SemiBin_233_contig_1712830_4		rank: C;phosphoserine phosphatase RsbU/P [EC:3.1.3.3] (db=kegg)	K07315
+385	P15515	992_SemiBin_233_contig_1712831_12		rank: D;Borrelia membrane protein P13 [PF05628.17] (db=pfam)	NA
+386	P15524	992_SemiBin_233_contig_1712832_17		rank: C;ribonucrease Y [EC:3.1.-.-] (db=kegg)	K18682
+387	P15541	992_SemiBin_233_contig_1712839_1		rank: C;alanine or glycine:cation symporter, AGCS family (db=kegg)	K03310
+388	P15554	992_SemiBin_233_contig_1712844_6		rank: D;Aminopeptidase I zinc metalloprotease (M18) [PF02127.20];M42 glutamyl aminopeptidase [PF05343.19] (db=pfam)	NA
+389	P15583	992_SemiBin_233_contig_1712856_5		rank: C;phosphoserine phosphatase RsbU/P [EC:3.1.3.3] (db=kegg)	K07315
+390	P15587	992_SemiBin_233_contig_1712859_42		rank: C;maltose transport system substrate-binding protein (db=kegg)	K25086
+391	P15590	992_SemiBin_233_contig_1712861_47		rank: D;Flagellar filament outer layer protein Flaa [PF04620.17] (db=pfam)	NA
+392	P15591	992_SemiBin_233_contig_1712861_48		rank: D;Flagellar filament outer layer protein Flaa [PF04620.17] (db=pfam)	NA
+393	P15592	992_SemiBin_233_contig_1712861_49		rank: C;fructose-bisphosphate aldolase, class II [EC:4.1.2.13] (db=kegg)	K01624
+394	P15626	992_SemiBin_233_contig_1712870_4		rank: C;methyl-accepting chemotaxis protein (db=kegg)	K03406
+395	P15627	992_SemiBin_233_contig_1712870_8		rank: C;formate C-acetyltransferase [EC:2.3.1.54] (db=kegg)	K00656
+396	P15628	992_SemiBin_233_contig_1712870_9		rank: E	NA
+397	P15634	992_SemiBin_233_contig_1712874_9		rank: C;LemA protein (db=kegg)	K03744
+398	P15646	992_SemiBin_233_contig_1712876_5		rank: D;Bacterial extracellular solute-binding protein [PF01547.30];Bacterial extracellular solute-binding protein [PF13416.11] (db=pfam)	NA
+399	P15650	992_SemiBin_233_contig_1712877_11	MEGAHIT-MetaBAT2-S948.142_contig_869899_11	rank: C;heterodisulfide reductase subunit A2 [EC:1.8.7.3 1.8.98.4 1.8.98.5 1.8.98.6] (db=kegg)	K03388
+400	P15660	992_SemiBin_233_contig_1712877_16		rank: D;4Fe-4S dicluster domain [PF13187.11];4Fe-4S dicluster domain [PF12838.12];4Fe-4S dicluster domain [PF13534.11];4Fe-4S dicluster domain [PF13237.11];4Fe-4S dicluster domain [PF13183.11];4Fe-4S dicluster domain [PF14697.11];2Fe-2S iron-sulfur cluster binding domain [PF13510.11] (db=pfam)	NA
+401	P15661	992_SemiBin_233_contig_1712877_17		rank: D;FAD binding domain [PF00890.29];HI0933-like protein Rossmann domain [PF03486.19];FAD dependent oxidoreductase [PF01266.29];FAD dependent oxidoreductase [PF12831.12];Glucose inhibited division protein A [PF01134.27] (db=pfam)	NA
+402	P15668	992_SemiBin_233_contig_1712877_35		rank: C;starch synthase [EC:2.4.1.21] (db=kegg)	K00703
+403	P15674	992_SemiBin_233_contig_1712877_48		rank: C;V/A-type H+/Na+-transporting ATPase subunit D (db=kegg)	K02120
+404	P15678	992_SemiBin_233_contig_1712877_52		rank: C;V/A-type H+/Na+-transporting ATPase subunit E (db=kegg)	K02121
+405	P15679	992_SemiBin_233_contig_1712877_53		rank: C;aldose 1-epimerase [EC:5.1.3.3] (db=kegg)	K01785
+406	P15683	992_SemiBin_233_contig_1712877_71		rank: C;chemotaxis protein MotA (db=kegg)	K02556
+407	P15697	992_SemiBin_233_contig_1712878_24		rank: C;putative aldouronate transport system substrate-binding protein (db=kegg)	K17318
+408	P15712	992_SemiBin_233_contig_1712878_62		rank: C;large subunit ribosomal protein L4 (db=kegg)	K02926
+409	P15717	992_SemiBin_233_contig_1712878_68		rank: C;large subunit ribosomal protein L16 (db=kegg)	K02878
+410	P15727	992_SemiBin_233_contig_1712878_80		rank: C;large subunit ribosomal protein L15 (db=kegg)	K02876
+411	P15730	992_SemiBin_233_contig_1712878_84		rank: C;small subunit ribosomal protein S4 (db=kegg)	K02986
+412	P15745	992_SemiBin_233_contig_1712880_19	MEGAHIT-MetaBAT2-S948.142_contig_869944_9	rank: C;V/A-type H+/Na+-transporting ATPase subunit K (db=kegg)	K02124
+413	P15748	992_SemiBin_233_contig_1712880_3		rank: E	NA
+414	P15752	992_SemiBin_233_contig_1712880_42		rank: C;ATP-binding cassette, subfamily B, multidrug efflux pump (db=kegg)	K18887
+415	P15754	992_SemiBin_233_contig_1712880_45		rank: C;modulator of FtsH protease HflC (db=kegg)	K04087
+416	P15762	992_SemiBin_233_contig_1712880_9		rank: C;phosphoribosylformylglycinamidine synthase [EC:6.3.5.3] (db=kegg)	K01952
+417	P15771	992_SemiBin_233_contig_1712883_37		rank: C;preprotein translocase subunit YajC (db=kegg)	K03210
+418	P15773	992_SemiBin_233_contig_1712883_39		rank: D;Protein export membrane protein [PF02355.21] (db=pfam)	NA
+419	P15780	992_SemiBin_233_contig_1712883_8		rank: E	NA
+420	P15800	992_SemiBin_233_contig_1712887_79		rank: D;Binding-protein-dependent transport system inner membrane component [PF00528.27] (db=pfam)	NA
+421	P15832	992_SemiBin_233_contig_1712897_7		rank: E	NA
+422	P15839	992_SemiBin_233_contig_1712899_18		rank: C;uncharacterized protein (db=kegg)	K09807
+423	P15848	992_SemiBin_233_contig_1712901_7		rank: E	NA
+424	P15850	992_SemiBin_233_contig_1712902_13		rank: D;Aconitase family (aconitate hydratase) [PF00330.25];Aconitase C-terminal domain [PF00694.24] (db=pfam)	NA
+425	P15851	992_SemiBin_233_contig_1712902_19		rank: C;polyribonucleotide nucleotidyltransferase [EC:2.7.7.8] (db=kegg)	K00962
+426	P15856	992_SemiBin_233_contig_1712902_6		rank: C;argininosuccinate synthase [EC:6.3.4.5] (db=kegg)	K01940
+427	P15857	992_SemiBin_233_contig_1712903_10		rank: C;xylulose-5-phosphate/fructose-6-phosphate phosphoketolase [EC:4.1.2.9 4.1.2.22] (db=kegg)	K01621
+428	P15868	992_SemiBin_233_contig_1712904_37		rank: D;Bacterial extracellular solute-binding protein [PF01547.30];Bacterial extracellular solute-binding protein [PF13416.11] (db=pfam)	NA
+429	P15871	992_SemiBin_233_contig_1712904_40		rank: D;Anaphase-promoting complex, cyclosome, subunit 3 [PF12895.12];Tetratricopeptide repeat [PF13432.11] (db=pfam)	NA
+430	P15872	992_SemiBin_233_contig_1712904_41		rank: E	NA
+431	P15878	992_SemiBin_233_contig_1712904_50		rank: C;small subunit ribosomal protein S16 (db=kegg)	K02959
+432	P15894	992_SemiBin_233_contig_1712910_34		rank: C;adenylosuccinate synthase [EC:6.3.4.4] (db=kegg)	K01939
+433	P15905	992_SemiBin_233_contig_1712911_3		rank: E	NA
+434	P15917	992_SemiBin_359_contig_6774813_40		rank: D;Respiratory-chain NADH dehydrogenase 51 Kd subunit [PF01512.22];RnfC Barrel sandwich hybrid domain [PF13375.11] (db=pfam)	NA
+435	P15919	992_SemiBin_359_contig_6774821_3		rank: C;aspartate aminotransferase [EC:2.6.1.1] (db=kegg)	K11358
+436	P15990	993_SemiBin_0_contig_4100150_18		rank: C;cellobiose transport system substrate-binding protein (db=kegg)	K10240
+437	P15992	993_SemiBin_0_contig_4100150_21		rank: C;glucose-6-phosphate isomerase [EC:5.3.1.9] (db=kegg)	K01810
+438	P16013	993_SemiBin_0_contig_4100167_5		rank: C;DNA gyrase subunit A [EC:5.6.2.2] (db=kegg)	K02469
+439	P16014	993_SemiBin_0_contig_4100169_9		rank: C;large subunit ribosomal protein L13 (db=kegg)	K02871
+440	P16093	993_SemiBin_0_contig_4100226_13		rank: C;transketolase [EC:2.2.1.1] (db=kegg)	K00615
+441	P16124	993_SemiBin_0_contig_4100238_2	MEGAHIT-MetaBAT2-S993.109_contig_3807272_10	rank: C;DNA-directed RNA polymerase subunit omega [EC:2.7.7.6] (db=kegg)	K03060
+442	P16167	993_SemiBin_156_contig_1760520_36		rank: C;small subunit ribosomal protein S2 (db=kegg)	K02967
+443	P16173	993_SemiBin_156_contig_1760527_14		rank: C;large subunit ribosomal protein L25 (db=kegg)	K02897
+444	P16227	993_SemiBin_2_contig_3830858_3		rank: C;aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B [EC:6.3.5.6 6.3.5.7] (db=kegg)	K02434
+445	P16271	IsollateEukC-trimmed-reads.medaka_contig_1_40		rank: D;Phosphorylase superfamily [PF01048.25] (db=pfam)	NA
+446	P16328	MEGAHIT-MetaBAT2-S932.114_contig_6341950_8		rank: C;TonB-dependent starch-binding outer membrane protein SusC (db=kegg)	K21573
+447	P16449	MEGAHIT-MetaBAT2-S932.178_contig_4129789_2		rank: D;Domain of unknown function (DUF5017) [PF16409.10] (db=pfam)	NA
+448	P16455	MEGAHIT-MetaBAT2-S932.178_contig_4129800_3		rank: E	NA
+449	P16542	MEGAHIT-MetaBAT2-S932.184_contig_6159133_4	MEGAHIT-MetaBAT2-S956.103_contig_5657445_15	rank: C;murein lipoprotein (db=kegg)	K06078
+450	P16600	MEGAHIT-MetaBAT2-S932.36_contig_1898852_14		rank: D;Transketolase, pyrimidine binding domain [PF02779.29];Transketolase, C-terminal domain [PF02780.25];Transketolase-like TK C-terminal domain [PF22613.1] (db=pfam)	NA
+451	P16608	MEGAHIT-MetaBAT2-S932.36_contig_1898870_3		rank: C;D-3-phosphoglycerate dehydrogenase / 2-oxoglutarate reductase [EC:1.1.1.95 1.1.1.399] (db=kegg)	K00058
+452	P16621	MEGAHIT-MetaBAT2-S932.36_contig_1898916_10		rank: D;Pyridoxal-phosphate dependent enzyme [PF00291.30] (db=pfam)	NA
+453	P16671	MEGAHIT-MetaBAT2-S932.36_contig_1899054_2		rank: C;enoyl-CoA hydratase [EC:4.2.1.17] (db=kegg)	K01715
+454	P16734	MEGAHIT-MetaBAT2-S932.53_contig_2808116_38	MEGAHIT-MetaBAT2-S934.132_contig_5200112_4, MEGAHIT-MetaBAT2-S938.190_contig_1791451_34	rank: C;aspartate kinase [EC:2.7.2.4] (db=kegg)	K00928
+455	P16778	MEGAHIT-MetaBAT2-S932.53_contig_2808169_9		rank: C;L-arabinose isomerase [EC:5.3.1.4] (db=kegg)	K01804
+456	P16808	MEGAHIT-MetaBAT2-S932.53_contig_2808224_21	MEGAHIT-MetaBAT2-S938.190_contig_1791401_7	rank: C;UDP-galactopyranose mutase [EC:5.4.99.9] (db=kegg)	K01854
+457	P16870	MEGAHIT-MetaBAT2-S932.72_contig_1470561_30		rank: C;phosphoribosylformylglycinamidine synthase [EC:6.3.5.3] (db=kegg)	K01952
+458	P16977	MEGAHIT-MetaBAT2-S933.133_contig_1079941_1		rank: E	NA
+459	P16995	MEGAHIT-MetaBAT2-S933.133_contig_1079952_2		rank: C;butyryl-CoA dehydrogenase [EC:1.3.8.1] (db=kegg)	K00248
+460	P17045	MEGAHIT-MetaBAT2-S933.133_contig_1079992_21		rank: C;lysozyme (db=kegg)	K07273
+461	P17186	MEGAHIT-MetaBAT2-S933.161_contig_5760198_5		rank: C;biopolymer transport protein ExbD (db=kegg)	K03559
+462	P17257	MEGAHIT-MetaBAT2-S933.161_contig_5760293_3	MEGAHIT-MetaBAT2-S941.86_contig_5776219_10, MEGAHIT-MetaBAT2-S990.131_contig_6877002_26	rank: C;small subunit ribosomal protein S17 (db=kegg)	K02961
+463	P17294	MEGAHIT-MetaBAT2-S933.74_contig_4561881_1		rank: E	NA
+464	P17316	MEGAHIT-MetaBAT2-S934.132_contig_5200174_34		rank: C;rubrerythrin (db=kegg)	K19824
+465	P17325	MEGAHIT-MetaBAT2-S934.132_contig_5200187_6		rank: C;2-dehydro-3-deoxyphosphogluconate aldolase / (4S)-4-hydroxy-2-oxoglutarate aldolase [EC:4.1.2.14 4.1.3.42] (db=kegg)	K01625
+466	P17378	MEGAHIT-MetaBAT2-S934.40_contig_3235031_11		rank: D;Enoyl-(Acyl carrier protein) reductase [PF13561.11];short chain dehydrogenase [PF00106.30];KR domain [PF08659.15] (db=pfam)	NA
+467	P17674	MEGAHIT-MetaBAT2-S935.60_contig_5798550_23		rank: C;two-component system, chemotaxis family, chemotaxis protein CheV (db=kegg)	K03415
+468	P17707	MEGAHIT-MetaBAT2-S935.60_contig_5798564_36		rank: D;Gram-positive pilin backbone subunit 2, Cna-B-like domain [PF16569.10];Prealbumin-like fold domain [PF17802.6] (db=pfam)	NA
+469	P17720	MEGAHIT-MetaBAT2-S935.60_contig_5798567_20		rank: D;Bacterial extracellular solute-binding protein [PF13416.11];Bacterial extracellular solute-binding protein [PF01547.30] (db=pfam)	NA
+470	P17731	MEGAHIT-MetaBAT2-S935.60_contig_5798573_115		rank: C;4-alpha-glucanotransferase [EC:2.4.1.25] (db=kegg)	K00705
+471	P17751	MEGAHIT-MetaBAT2-S935.60_contig_5798573_40		rank: C;H+/Na+-translocating ferredoxin:NAD+ oxidoreductase subunit D [EC:7.1.1.11 7.2.1.2] (db=kegg)	K03614
+472	P17794	MEGAHIT-MetaBAT2-S935.60_contig_5798590_8		rank: C;glutamate synthase (NADPH) large chain [EC:1.4.1.13] (db=kegg)	K00265
+473	P17902	MEGAHIT-MetaBAT2-S935.60_contig_5798641_42		rank: C;ribonucrease Y [EC:3.1.-.-] (db=kegg)	K18682
+474	P17974	MEGAHIT-MetaBAT2-S935.70_contig_6981981_17		rank: C;DNA-directed RNA polymerase subunit alpha [EC:2.7.7.6] (db=kegg)	K03040
+475	P17999	MEGAHIT-MetaBAT2-S937.157_contig_4521509_14		rank: C;cell division protease FtsH [EC:3.4.24.-] (db=kegg)	K03798
+476	P18016	MEGAHIT-MetaBAT2-S937.157_contig_4521660_1		rank: C;tyrosyl-tRNA synthetase [EC:6.1.1.1] (db=kegg)	K01866
+477	P18077	MEGAHIT-MetaBAT2-S937.160_contig_3039900_86		rank: D;Pullulanase X25 domain [PF22058.1] (db=pfam)	NA
+478	P18083	MEGAHIT-MetaBAT2-S937.179_contig_2343599_8		rank: C;peptide/nickel transport system substrate-binding protein (db=kegg)	K02035
+479	P18084	MEGAHIT-MetaBAT2-S937.179_contig_2343601_4		rank: E	NA
+480	P18112	MEGAHIT-MetaBAT2-S937.179_contig_2343688_1		rank: C;urocanate reductase [EC:1.3.99.33] (db=kegg)	K17363
+481	P18122	MEGAHIT-MetaBAT2-S937.179_contig_2343689_34		rank: C;small subunit ribosomal protein S4 (db=kegg)	K02986
+482	P18137	MEGAHIT-MetaBAT2-S937.179_contig_2343739_5		rank: C;branched-chain amino acid transport system substrate-binding protein (db=kegg)	K01999
+483	P18215	MEGAHIT-MetaBAT2-S937.180_contig_3990885_2		rank: C;dTDP-4-dehydrorhamnose 3,5-epimerase [EC:5.1.3.13] (db=kegg)	K01790
+484	P18233	MEGAHIT-MetaBAT2-S937.180_contig_3990897_10		rank: C;enoyl-CoA hydratase [EC:4.2.1.17] (db=kegg)	K01715
+485	P18293	MEGAHIT-MetaBAT2-S937.180_contig_3990957_8		rank: D;Acetyl-CoA hydrolase/transferase C-terminal domain [PF13336.11];Acetyl-CoA hydrolase/transferase N-terminal domain [PF02550.20] (db=pfam)	NA
+486	P18346	MEGAHIT-MetaBAT2-S938.116_contig_4254309_2		rank: C;starch-binding outer membrane protein, SusD/RagB family (db=kegg)	K21572
+487	P18372	MEGAHIT-MetaBAT2-S938.116_contig_4254345_14		rank: C;tagaturonate reductase [EC:1.1.1.58] (db=kegg)	K00041
+488	P18404	MEGAHIT-MetaBAT2-S938.116_contig_4254422_5		rank: D;Fasciclin domain [PF02469.27] (db=pfam)	NA
+489	P18408	MEGAHIT-MetaBAT2-S938.116_contig_4254422_9		rank: E	NA
+490	P18412	MEGAHIT-MetaBAT2-S938.116_contig_4254432_5		rank: C;serine protease Do [EC:3.4.21.107] (db=kegg)	K04771
+491	P18418	MEGAHIT-MetaBAT2-S938.116_contig_4254445_4		rank: E	NA
+492	P18441	MEGAHIT-MetaBAT2-S938.116_contig_4254479_1		rank: D;Conserved carboxylase domain [PF02436.23];HMGL-like [PF00682.24] (db=pfam)	NA
+493	P18443	MEGAHIT-MetaBAT2-S938.116_contig_4254479_12		rank: D;TonB dependent receptor-like, beta-barrel [PF00593.29] (db=pfam)	NA
+494	P18444	MEGAHIT-MetaBAT2-S938.116_contig_4254479_13		rank: D;Fasciclin domain [PF02469.27] (db=pfam)	NA
+495	P18446	MEGAHIT-MetaBAT2-S938.116_contig_4254479_15		rank: C;starch-binding outer membrane protein, SusD/RagB family (db=kegg)	K21572
+496	P18473	MEGAHIT-MetaBAT2-S938.116_contig_4254507_3		rank: E	NA
+497	P18477	MEGAHIT-MetaBAT2-S938.116_contig_4254526_14		rank: C;superoxide reductase [EC:1.15.1.2] (db=kegg)	K05919
+498	P18608	MEGAHIT-MetaBAT2-S938.190_contig_1791369_4		rank: C;ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase [EC:2.7.1.11 2.7.1.90] (db=kegg)	K21071
+499	P18610	MEGAHIT-MetaBAT2-S938.190_contig_1791381_1		rank: E	NA
+500	P18611	MEGAHIT-MetaBAT2-S938.190_contig_1791384_3		rank: C;orotidine-5'-phosphate decarboxylase [EC:4.1.1.23] (db=kegg)	K01591
+501	P18718	MEGAHIT-MetaBAT2-S938.190_contig_1791562_10		rank: D;Iron-sulfur cluster binding domain of dihydroorotate dehydrogenase B [PF10418.14];Oxidoreductase NAD-binding domain [PF00175.26];Oxidoreductase FAD-binding domain [PF00970.29] (db=pfam)	NA
+502	P18729	MEGAHIT-MetaBAT2-S938.190_contig_1791603_1		rank: C;phosphoribosylformylglycinamidine synthase [EC:6.3.5.3] (db=kegg)	K01952
+503	P18772	MEGAHIT-MetaBAT2-S938.43_contig_1391587_5		rank: C;formate C-acetyltransferase [EC:2.3.1.54] (db=kegg)	K00656
+504	P18801	MEGAHIT-MetaBAT2-S938.66_contig_5122578_9	MEGAHIT-MetaBAT2-S975.132_contig_1872222_43	rank: D;Binding-protein-dependent transport system inner membrane component [PF00528.27] (db=pfam)	NA
+505	P18862	MEGAHIT-MetaBAT2-S939.26_contig_4447469_8		rank: C;methenyltetrahydromethanopterin cyclohydrolase [EC:3.5.4.27] (db=kegg)	K01499
+506	P18895	MEGAHIT-MetaBAT2-S939.26_contig_4447576_2		rank: D;Rubrerythrin [PF02915.22];Rubrerythrin, rubredoxin-like domain [PF21349.2] (db=pfam)	NA
+507	P18923	MEGAHIT-MetaBAT2-S941.34_contig_3688472_4		rank: E	NA
+508	P18934	MEGAHIT-MetaBAT2-S941.34_contig_3688573_3		rank: D;Starch-binding module 26 [PF16738.10] (db=pfam)	NA
+509	P18952	MEGAHIT-MetaBAT2-S941.86_contig_5776079_4		rank: C;adenylosuccinate synthase [EC:6.3.4.4] (db=kegg)	K01939
+510	P19262	MEGAHIT-MetaBAT2-S942.31_contig_2232946_6		rank: C;F-type H+/Na+-transporting ATPase subunit alpha [EC:7.1.2.2 7.2.2.1] (db=kegg)	K02111
+511	P19318	MEGAHIT-MetaBAT2-S942.31_contig_2233040_2		rank: C;rubrerythrin (db=kegg)	K19824
+512	P19339	MEGAHIT-MetaBAT2-S942.31_contig_2233065_46		rank: C;3-hydroxybutyryl-CoA dehydrogenase [EC:1.1.1.157] (db=kegg)	K00074
+513	P19355	MEGAHIT-MetaBAT2-S942.43_contig_3756969_1		rank: D;Glycosyl hydrolase family 9 [PF00759.24];Cellulase N-terminal ig-like domain [PF02927.19];Dockerin type I domain [PF00404.23] (db=pfam)	NA
+514	P19402	MEGAHIT-MetaBAT2-S942.43_contig_3757223_6		rank: D;Cellulose-binding protein CttA N-terminal domain [PF18244.6] (db=pfam)	NA
+515	P19438	MEGAHIT-MetaBAT2-S943.132_contig_6677352_22		rank: C;small subunit ribosomal protein S13 (db=kegg)	K02952
+516	P19571	MEGAHIT-MetaBAT2-S944.7_contig_6849373_1		rank: D;DegT/DnrJ/EryC1/StrS aminotransferase family [PF01041.22] (db=pfam)	NA
+517	P19620	MEGAHIT-MetaBAT2-S944.84_contig_2211540_9		rank: C;methionine-gamma-lyase [EC:4.4.1.11] (db=kegg)	K01761
+518	P19646	MEGAHIT-MetaBAT2-S944.84_contig_2211654_6		rank: C;phosphonate transport system substrate-binding protein (db=kegg)	K02044
+519	P19657	MEGAHIT-MetaBAT2-S944.97_contig_397115_2		rank: D;Rubrerythrin [PF02915.22];Rubrerythrin, rubredoxin-like domain [PF21349.2] (db=pfam)	NA
+520	P19663	MEGAHIT-MetaBAT2-S945.103_contig_2744389_6		rank: C;electron transfer flavoprotein beta subunit (db=kegg)	K03521
+521	P19681	MEGAHIT-MetaBAT2-S945.103_contig_2744407_4	MEGAHIT-MetaBAT2-S950.132_contig_5970439_25	rank: C;H+/Na+-translocating ferredoxin:NAD+ oxidoreductase subunit G (db=kegg)	K03612
+522	P19758	MEGAHIT-MetaBAT2-S945.11_contig_1072346_4	MEGAHIT-MetaBAT2-S968.13_contig_6351629_2, MEGAHIT-MetaBAT2-S970.191_contig_2451074_11	rank: C;H+/Na+-translocating ferredoxin:NAD+ oxidoreductase subunit A (db=kegg)	K03617
+523	P19809	MEGAHIT-MetaBAT2-S945.128_contig_358611_9		rank: E	NA
+524	P19899	MEGAHIT-MetaBAT2-S945.135_contig_4381685_4		rank: C;small subunit ribosomal protein S2 (db=kegg)	K02967
+525	P19979	MEGAHIT-MetaBAT2-S945.140_contig_1583078_7		rank: C;flagellin (db=kegg)	K02406
+526	P20018	MEGAHIT-MetaBAT2-S945.141_contig_5189684_2		rank: D;TonB dependent receptor-like, beta-barrel [PF00593.29];CarboxypepD_reg-like domain [PF13715.11];TonB-dependent Receptor Plug Domain [PF07715.20];Carboxypeptidase regulatory-like domain [PF13620.11] (db=pfam)	NA
+527	P20053	MEGAHIT-MetaBAT2-S945.141_contig_5189724_20		rank: D;CarboxypepD_reg-like domain [PF13715.11];Carboxypeptidase regulatory-like domain [PF13620.11] (db=pfam)	NA
+528	P20059	MEGAHIT-MetaBAT2-S945.141_contig_5189738_6		rank: D;Outer membrane protein Omp28 [PF11551.13] (db=pfam)	NA
+529	P20075	MEGAHIT-MetaBAT2-S945.141_contig_5189762_15		rank: D;CarboxypepD_reg-like domain [PF13715.11];Carboxypeptidase regulatory-like domain [PF13620.11];TonB dependent receptor-like, beta-barrel [PF00593.29] (db=pfam)	NA
+530	P20096	MEGAHIT-MetaBAT2-S945.141_contig_5189782_2		rank: D;OmpA family [PF00691.25] (db=pfam)	NA
+531	P20138	MEGAHIT-MetaBAT2-S945.141_contig_5189819_1		rank: D;CarboxypepD_reg-like domain [PF13715.11];Carboxypeptidase regulatory-like domain [PF13620.11] (db=pfam)	NA
+532	P20287	MEGAHIT-MetaBAT2-S945.152_contig_4851873_6	MEGAHIT-MetaBAT2-S979.62_contig_5177260_4	rank: C;small subunit ribosomal protein S12 (db=kegg)	K02950
+533	P20334	MEGAHIT-MetaBAT2-S945.168_contig_3689704_9		rank: C;pyruvate, orthophosphate dikinase [EC:2.7.9.1] (db=kegg)	K01006
+534	P20372	MEGAHIT-MetaBAT2-S945.168_contig_3690014_3		rank: C;small subunit ribosomal protein S1 (db=kegg)	K02945
+535	P20373	MEGAHIT-MetaBAT2-S945.168_contig_3690016_18		rank: C;multiple sugar transport system ATP-binding protein [EC:7.5.2.-] (db=kegg)	K10112
+536	P20375	MEGAHIT-MetaBAT2-S945.168_contig_3690021_6		rank: C;pyruvate, orthophosphate dikinase [EC:2.7.9.1] (db=kegg)	K01006
+537	P20399	MEGAHIT-MetaBAT2-S945.70_contig_240877_7		rank: C;lactaldehyde reductase [EC:1.1.1.77] (db=kegg)	K00048
+538	P20423	MEGAHIT-MetaBAT2-S945.92_contig_5403087_3		rank: C;dipeptidase D [EC:3.4.13.-] (db=kegg)	K01270
+539	P20425	MEGAHIT-MetaBAT2-S945.92_contig_5403087_9		rank: C;long-chain fatty acid transport protein (db=kegg)	K06076
+540	P20431	MEGAHIT-MetaBAT2-S945.92_contig_5403091_28		rank: D;SPOR domain [PF05036.18] (db=pfam)	NA
+541	P20434	MEGAHIT-MetaBAT2-S945.92_contig_5403093_2		rank: D;CarboxypepD_reg-like domain [PF13715.11];TonB-dependent Receptor Plug Domain [PF07715.20] (db=pfam)	NA
+542	P20438	MEGAHIT-MetaBAT2-S945.92_contig_5403095_14		rank: C;small subunit ribosomal protein S3 (db=kegg)	K02982
+543	P20457	MEGAHIT-MetaBAT2-S945.92_contig_5403097_5		rank: C;TonB-dependent starch-binding outer membrane protein SusC (db=kegg)	K21573
+544	P20466	MEGAHIT-MetaBAT2-S945.92_contig_5403103_12		rank: C;myo-inositol-1-phosphate synthase [EC:5.5.1.4] (db=kegg)	K01858
+545	P20467	MEGAHIT-MetaBAT2-S945.92_contig_5403104_2		rank: D;Chitobiase/beta-hexosaminidase C-terminal domain [PF13290.11];Starch-binding module 26 [PF16738.10];Fn3 associated [PF13287.11] (db=pfam)	NA
+546	P20479	MEGAHIT-MetaBAT2-S945.92_contig_5403112_6		rank: D;Outer membrane protein beta-barrel domain [PF13568.11] (db=pfam)	NA
+547	P20483	MEGAHIT-MetaBAT2-S945.92_contig_5403114_14		rank: C;glutamate dehydrogenase (NADP+) [EC:1.4.1.4] (db=kegg)	K00262
+548	P20486	MEGAHIT-MetaBAT2-S945.92_contig_5403114_5		rank: C;6-pyruvoyltetrahydropterin/6-carboxytetrahydropterin synthase [EC:4.2.3.12 4.1.2.50] (db=kegg)	K01737
+549	P20487	MEGAHIT-MetaBAT2-S945.92_contig_5403114_6		rank: C;bleomycin hydrolase [EC:3.4.22.40] (db=kegg)	K01372
+550	P20497	MEGAHIT-MetaBAT2-S945.92_contig_5403122_10		rank: C;molecular chaperone HtpG (db=kegg)	K04079
+551	P20498	MEGAHIT-MetaBAT2-S945.92_contig_5403125_2		rank: E	NA
+552	P20503	MEGAHIT-MetaBAT2-S945.92_contig_5403127_11		rank: C;starch-binding outer membrane protein, SusD/RagB family (db=kegg)	K21572
+553	P20507	MEGAHIT-MetaBAT2-S945.92_contig_5403127_6		rank: C;fructose-bisphosphate aldolase, class II [EC:4.1.2.13] (db=kegg)	K01624
+554	P20508	MEGAHIT-MetaBAT2-S945.92_contig_5403127_9		rank: C;starch-binding outer membrane protein SusE/F (db=kegg)	K21571
+555	P20511	MEGAHIT-MetaBAT2-S945.92_contig_5403128_5		rank: E	NA
+556	P20512	MEGAHIT-MetaBAT2-S945.92_contig_5403130_5		rank: D;Family of unknown function (DUF5723) [PF18990.5] (db=pfam)	NA
+557	P20513	MEGAHIT-MetaBAT2-S945.92_contig_5403130_6		rank: E	NA
+558	P20522	MEGAHIT-MetaBAT2-S945.92_contig_5403137_9		rank: C;phosphate-selective porin OprO and OprP (db=kegg)	K07221
+559	P20526	MEGAHIT-MetaBAT2-S945.92_contig_5403141_18		rank: D;Amino acid kinase family [PF00696.33];ACT domain [PF22468.1] (db=pfam)	NA
+560	P20541	MEGAHIT-MetaBAT2-S945.92_contig_5403147_13		rank: D;Rubrerythrin, rubredoxin-like domain [PF21349.2];Rubrerythrin [PF02915.22] (db=pfam)	NA
+561	P20544	MEGAHIT-MetaBAT2-S945.92_contig_5403150_15		rank: D;Putative beta-lactamase-inhibitor-like, PepSY-like [PF11396.13] (db=pfam)	NA
+562	P20545	MEGAHIT-MetaBAT2-S945.92_contig_5403151_6		rank: C;polyribonucleotide nucleotidyltransferase [EC:2.7.7.8] (db=kegg)	K00962
+563	P20551	MEGAHIT-MetaBAT2-S945.92_contig_5403154_8		rank: C;IMP dehydrogenase [EC:1.1.1.205] (db=kegg)	K00088
+564	P20556	MEGAHIT-MetaBAT2-S945.92_contig_5403155_15		rank: C;DNA-directed RNA polymerase subunit beta [EC:2.7.7.6] (db=kegg)	K03043
+565	P20557	MEGAHIT-MetaBAT2-S945.92_contig_5403155_16		rank: C;DNA-directed RNA polymerase subunit beta' [EC:2.7.7.6] (db=kegg)	K03046
+566	P20560	MEGAHIT-MetaBAT2-S945.92_contig_5403156_13		rank: C;large subunit ribosomal protein L21 (db=kegg)	K02888
+567	P20563	MEGAHIT-MetaBAT2-S945.92_contig_5403156_6		rank: C;F-type H+-transporting ATPase subunit a (db=kegg)	K02108
+568	P20567	MEGAHIT-MetaBAT2-S945.92_contig_5403157_22		rank: D;Domain of unknown function (DUF4878) [PF12870.12] (db=pfam)	NA
+569	P20568	MEGAHIT-MetaBAT2-S945.92_contig_5403160_10		rank: C;2-dehydro-3-deoxyphosphogluconate aldolase / (4S)-4-hydroxy-2-oxoglutarate aldolase [EC:4.1.2.14 4.1.3.42] (db=kegg)	K01625
+570	P20576	MEGAHIT-MetaBAT2-S945.92_contig_5403163_26		rank: D;D-isomer specific 2-hydroxyacid dehydrogenase, catalytic domain [PF00389.35];D-isomer specific 2-hydroxyacid dehydrogenase, NAD binding domain [PF02826.24];NAD binding domain of 6-phosphogluconate dehydrogenase [PF03446.20] (db=pfam)	NA
+571	P20579	MEGAHIT-MetaBAT2-S945.92_contig_5403164_14		rank: C;peptidyl-prolyl cis-trans isomerase D [EC:5.2.1.8] (db=kegg)	K03770
+572	P20581	MEGAHIT-MetaBAT2-S945.92_contig_5403165_13		rank: C;glucuronate isomerase [EC:5.3.1.12] (db=kegg)	K01812
+573	P20582	MEGAHIT-MetaBAT2-S945.92_contig_5403165_14		rank: C;polysaccharide biosynthesis/export protein (db=kegg)	K01991
+574	P20586	MEGAHIT-MetaBAT2-S945.92_contig_5403167_19		rank: C;transcription termination/antitermination protein NusA (db=kegg)	K02600
+575	P20591	MEGAHIT-MetaBAT2-S945.92_contig_5403170_12		rank: C;periplasmic protein TonB (db=kegg)	K03832
+576	P20592	MEGAHIT-MetaBAT2-S945.92_contig_5403170_9		rank: C;biopolymer transport protein ExbB (db=kegg)	K03561
+577	P20598	MEGAHIT-MetaBAT2-S945.92_contig_5403179_19		rank: D;Domain of unknown function (DUF4836) [PF16120.10] (db=pfam)	NA
+578	P20599	MEGAHIT-MetaBAT2-S945.92_contig_5403179_23		rank: E	NA
+579	P20601	MEGAHIT-MetaBAT2-S945.92_contig_5403179_25		rank: C;starch-binding outer membrane protein, SusD/RagB family (db=kegg)	K21572
+580	P20602	MEGAHIT-MetaBAT2-S945.92_contig_5403179_26		rank: D;Putative zinc-binding metallo-peptidase [PF15890.10] (db=pfam)	NA
+581	P20604	MEGAHIT-MetaBAT2-S945.92_contig_5403179_28		rank: E	NA
+582	P20605	MEGAHIT-MetaBAT2-S945.92_contig_5403179_43		rank: C;Lrp/AsnC family transcriptional regulator, regulator for asnA, asnC and gidA (db=kegg)	K03718
+583	P20609	MEGAHIT-MetaBAT2-S945.92_contig_5403180_7		rank: E	NA
+584	P20610	MEGAHIT-MetaBAT2-S945.92_contig_5403180_8		rank: D;Family of unknown function (DUF5689) [PF18942.5] (db=pfam)	NA
+585	P20613	MEGAHIT-MetaBAT2-S945.92_contig_5403182_1		rank: C;bifunctional aspartokinase / homoserine dehydrogenase 1 [EC:2.7.2.4 1.1.1.3] (db=kegg)	K12524
+586	P20615	MEGAHIT-MetaBAT2-S945.92_contig_5403186_2		rank: E	NA
+587	P20621	MEGAHIT-MetaBAT2-S945.92_contig_5403194_36		rank: D;Cellulase (glycosyl hydrolase family 5) [PF00150.23] (db=pfam)	NA
+588	P20623	MEGAHIT-MetaBAT2-S945.92_contig_5403194_38		rank: C;starch-binding outer membrane protein, SusD/RagB family (db=kegg)	K21572
+589	P20627	MEGAHIT-MetaBAT2-S945.92_contig_5403194_51		rank: C;rod shape-determining protein MreB and related proteins (db=kegg)	K03569
+590	P20631	MEGAHIT-MetaBAT2-S945.92_contig_5403195_10		rank: C;NADH-quinone oxidoreductase subunit N [EC:7.1.1.2] (db=kegg)	K00343
+591	P20644	MEGAHIT-MetaBAT2-S945.92_contig_5403205_7		rank: D;Domain of unknown function (DUF4595) with porin-like fold [PF15283.11] (db=pfam)	NA
+592	P20646	MEGAHIT-MetaBAT2-S945.92_contig_5403207_14		rank: C;phosphoribosylaminoimidazole-succinocarboxamide synthase [EC:6.3.2.6] (db=kegg)	K01923
+593	P20651	MEGAHIT-MetaBAT2-S945.92_contig_5403209_7		rank: D;Domain of unknown function (DUF5123) [PF17161.9];Domain of unknown function (DUF4957) [PF16318.10] (db=pfam)	NA
+594	P20661	MEGAHIT-MetaBAT2-S945.92_contig_5403219_26		rank: D;Bacterial Ig-like domain (group 2) [PF02368.23] (db=pfam)	NA
+595	P20662	MEGAHIT-MetaBAT2-S945.92_contig_5403219_31		rank: C;glucokinase [EC:2.7.1.2] (db=kegg)	K25026
+596	P20772	MEGAHIT-MetaBAT2-S946.102_contig_5359918_14	MEGAHIT-MetaBAT2-S980.86_contig_3882259_5, group3_bins.39_contig_6031613_6	rank: C;formate dehydrogenase (coenzyme F420) beta subunit [EC:1.17.98.3 1.8.98.6] (db=kegg)	K00125
+597	P20869	MEGAHIT-MetaBAT2-S946.20_contig_6490332_3		rank: C;flagellar hook protein FlgE (db=kegg)	K02390
+598	P20987	MEGAHIT-MetaBAT2-S946.49_contig_2524393_3		rank: C;starch-binding outer membrane protein, SusD/RagB family (db=kegg)	K21572
+599	P20992	MEGAHIT-MetaBAT2-S946.49_contig_2524397_120		rank: D;Fibrobacter succinogenes major domain (Fib_succ_major) [PF09603.15] (db=pfam)	NA
+600	P21008	MEGAHIT-MetaBAT2-S946.49_contig_2524421_8		rank: C;DNA-directed RNA polymerase subunit alpha [EC:2.7.7.6] (db=kegg)	K03040
+601	P21028	MEGAHIT-MetaBAT2-S946.6_contig_6078713_22		rank: C;small subunit ribosomal protein S7 (db=kegg)	K02992
+602	P21081	MEGAHIT-MetaBAT2-S947.111_contig_76229_7		rank: C;IMP dehydrogenase [EC:1.1.1.205] (db=kegg)	K00088
+603	P21179	MEGAHIT-MetaBAT2-S947.111_contig_76298_19		rank: C;ribonucrease Y [EC:3.1.-.-] (db=kegg)	K18682
+604	P21239	MEGAHIT-MetaBAT2-S947.111_contig_76329_14		rank: C;small subunit ribosomal protein S14 (db=kegg)	K02954
+605	P21265	MEGAHIT-MetaBAT2-S947.111_contig_76355_129		rank: D;Outer membrane protein beta-barrel domain [PF13568.11] (db=pfam)	NA
+606	P21302	MEGAHIT-MetaBAT2-S947.111_contig_76371_5		rank: C;F-type H+-transporting ATPase subunit c (db=kegg)	K02110
+607	P21307	MEGAHIT-MetaBAT2-S947.111_contig_76376_22		rank: D;Domain of unknown function (DUF4270) [PF14092.11] (db=pfam)	NA
+608	P21394	MEGAHIT-MetaBAT2-S947.49_contig_3623552_1		rank: C;formate C-acetyltransferase [EC:2.3.1.54] (db=kegg)	K00656
+609	P21403	MEGAHIT-MetaBAT2-S947.49_contig_3623785_3		rank: E	NA
+610	P21480	MEGAHIT-MetaBAT2-S947.6_contig_2426404_89		rank: E	NA
+611	P21496	MEGAHIT-MetaBAT2-S947.6_contig_2426412_77		rank: C;ketol-acid reductoisomerase [EC:1.1.1.86] (db=kegg)	K00053
+612	P21499	MEGAHIT-MetaBAT2-S947.6_contig_2426420_109		rank: C;TonB-dependent starch-binding outer membrane protein SusC (db=kegg)	K21573
+613	P21590	MEGAHIT-MetaBAT2-S947.8_contig_60520_16		rank: C;long-chain fatty acid transport protein (db=kegg)	K06076
+614	P21597	MEGAHIT-MetaBAT2-S947.8_contig_60550_3		rank: C;LemA protein (db=kegg)	K03744
+615	P21652	MEGAHIT-MetaBAT2-S948.11_contig_4459042_3		rank: D;Xylose isomerase-like TIM barrel [PF01261.29] (db=pfam)	NA
+616	P21697	MEGAHIT-MetaBAT2-S948.142_contig_869886_12		rank: D;Bacterial extracellular solute-binding protein [PF01547.30] (db=pfam)	NA
+617	P21731	MEGAHIT-MetaBAT2-S948.142_contig_869920_9		rank: C;putative aldouronate transport system substrate-binding protein (db=kegg)	K17318
+618	P21733	MEGAHIT-MetaBAT2-S948.142_contig_869921_16		rank: D;L-fucose isomerase, C-terminal domain [PF02952.22];L-arabinose isomerase [PF02610.20] (db=pfam)	NA
+619	P21735	MEGAHIT-MetaBAT2-S948.142_contig_869922_12		rank: C;pyruvate, orthophosphate dikinase [EC:2.7.9.1] (db=kegg)	K01006
+620	P21738	MEGAHIT-MetaBAT2-S948.142_contig_869924_32		rank: C;putative multiple sugar transport system substrate-binding protein (db=kegg)	K10546
+621	P21753	MEGAHIT-MetaBAT2-S948.142_contig_869936_41		rank: C;large subunit ribosomal protein L2 (db=kegg)	K02886
+622	P21759	MEGAHIT-MetaBAT2-S948.142_contig_869936_55		rank: C;small subunit ribosomal protein S5 (db=kegg)	K02988
+623	P21767	MEGAHIT-MetaBAT2-S948.142_contig_869941_13		rank: C;flagellin (db=kegg)	K02406
+624	P21791	MEGAHIT-MetaBAT2-S948.142_contig_869955_3		rank: E	NA
+625	P21794	MEGAHIT-MetaBAT2-S948.142_contig_869956_21		rank: C;uncharacterized protein (db=kegg)	K07080
+626	P21813	MEGAHIT-MetaBAT2-S948.142_contig_869990_17		rank: E	NA
+627	P21981	MEGAHIT-MetaBAT2-S949.157_contig_2408537_9		rank: E	NA
+628	P22012	MEGAHIT-MetaBAT2-S949.157_contig_2408553_1		rank: C;valyl-tRNA synthetase [EC:6.1.1.9] (db=kegg)	K01873
+629	P22034	MEGAHIT-MetaBAT2-S949.157_contig_2408562_1		rank: C;large subunit ribosomal protein L7/L12 (db=kegg)	K02935
+630	P22069	MEGAHIT-MetaBAT2-S949.157_contig_2408568_26		rank: C;uncharacterized protein (db=kegg)	K07079
+631	P22083	MEGAHIT-MetaBAT2-S949.157_contig_2408575_10		rank: D;ABC transporter [PF00005.32];Oligopeptide/dipeptide transporter, C-terminal region [PF08352.17] (db=pfam)	NA
+632	P22136	MEGAHIT-MetaBAT2-S949.157_contig_2408593_1		rank: C;UDP-N-acetylmuramate dehydrogenase [EC:1.3.1.98] (db=kegg)	K00075
+633	P22259	MEGAHIT-MetaBAT2-S949.157_contig_2408627_12		rank: C;prephenate dehydrogenase [EC:1.3.1.12] (db=kegg)	K04517
+634	P22616	MEGAHIT-MetaBAT2-S950.5_contig_1514499_10		rank: E	NA
+635	P22637	MEGAHIT-MetaBAT2-S950.5_contig_1514501_2		rank: D;Condensin complex protein MksE [PF21980.1] (db=pfam)	NA
+636	P22666	MEGAHIT-MetaBAT2-S950.5_contig_1514511_18		rank: C;phosphoribosylformylglycinamidine cyclo-ligase [EC:6.3.3.1] (db=kegg)	K01933
+637	P22680	MEGAHIT-MetaBAT2-S950.5_contig_1514522_11		rank: C;branched-chain amino acid aminotransferase [EC:2.6.1.42] (db=kegg)	K00826
+638	P22686	MEGAHIT-MetaBAT2-S950.5_contig_1514522_4		rank: D;Outer membrane efflux protein [PF02321.23] (db=pfam)	NA
+639	P22692	MEGAHIT-MetaBAT2-S950.5_contig_1514523_14		rank: C;putative ATPase (db=kegg)	K07478
+640	P22710	MEGAHIT-MetaBAT2-S950.5_contig_1514529_7		rank: C;dipeptidase D [EC:3.4.13.-] (db=kegg)	K01270
+641	P22727	MEGAHIT-MetaBAT2-S950.5_contig_1514535_17		rank: C;UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase [EC:2.4.1.227] (db=kegg)	K02563
+642	P22746	MEGAHIT-MetaBAT2-S950.5_contig_1514540_19		rank: D;Proton-conducting membrane transporter [PF00361.25];NADH-ubiquinone oxidoreductase chain 4, amino terminus [PF01059.22] (db=pfam)	NA
+643	P22766	MEGAHIT-MetaBAT2-S950.5_contig_1514545_16		rank: D;Serpin (serine protease inhibitor) [PF00079.25] (db=pfam)	NA
+644	P22807	MEGAHIT-MetaBAT2-S950.5_contig_1514570_13		rank: D;Domain of unknown function (DUF4840) [PF16128.10] (db=pfam)	NA
+645	P22842	MEGAHIT-MetaBAT2-S950.5_contig_1514584_21		rank: C;GTPase (db=kegg)	K03977
+646	P22848	MEGAHIT-MetaBAT2-S950.5_contig_1514584_4		rank: C;asparaginyl-tRNA synthetase [EC:6.1.1.22] (db=kegg)	K01893
+647	P22865	MEGAHIT-MetaBAT2-S950.5_contig_1514592_12		rank: C;cysteine desulfuration protein SufE (db=kegg)	K02426
+648	P22880	MEGAHIT-MetaBAT2-S950.5_contig_1514595_21		rank: D;Outer membrane protein beta-barrel domain [PF13568.11] (db=pfam)	NA
+649	P22881	MEGAHIT-MetaBAT2-S950.5_contig_1514595_24		rank: D;Lipocalin-like [PF12702.12] (db=pfam)	NA
+650	P22885	MEGAHIT-MetaBAT2-S950.5_contig_1514595_9		rank: C;23S rRNA 5-hydroxycytidine C2501 synthase (db=kegg)	K24847
+651	P22886	MEGAHIT-MetaBAT2-S950.5_contig_1514596_1		rank: D;Bacterial Alpha-2-macroglobulin MG10 domain [PF17973.6];Alpha-2-macroglobulin family [PF00207.27] (db=pfam)	NA
+652	P22905	MEGAHIT-MetaBAT2-S950.5_contig_1514597_23		rank: D;Periplasmic binding protein domain [PF13407.11];Bacterial regulatory proteins, lacI family [PF00356.26] (db=pfam)	NA
+653	P22910	MEGAHIT-MetaBAT2-S950.5_contig_1514597_7		rank: C;DNA repair protein RecN (Recombination protein N) (db=kegg)	K03631
+654	P22949	MEGAHIT-MetaBAT2-S950.5_contig_1514619_8		rank: C;long-chain acyl-CoA synthetase [EC:6.2.1.3] (db=kegg)	K01897
+655	P22954	MEGAHIT-MetaBAT2-S950.5_contig_1514623_3		rank: D;Cation transporting ATPase, C-terminus [PF00689.26];haloacid dehalogenase-like hydrolase [PF00702.31] (db=pfam)	NA
+656	P22964	MEGAHIT-MetaBAT2-S950.5_contig_1514629_1		rank: D;ATP synthase alpha/beta family, beta-barrel domain [PF02874.28];ATP synthase alpha/beta family, nucleotide-binding domain [PF00006.30] (db=pfam)	NA
+657	P22983	MEGAHIT-MetaBAT2-S950.5_contig_1514645_15		rank: D;Domain of unknown function (DUF6048) [PF19515.4] (db=pfam)	NA
+658	P23016	MEGAHIT-MetaBAT2-S950.5_contig_1514659_31		rank: E	NA
+659	P23017	MEGAHIT-MetaBAT2-S950.5_contig_1514659_32		rank: D;Outer membrane protein transport protein (OMPP1/FadL/TodX) [PF03349.21];Uncharacterised protein family (UPF0164) [PF03687.18] (db=pfam)	NA
+660	P23023	MEGAHIT-MetaBAT2-S950.5_contig_1514659_9		rank: D;Protein of unknown function (DUF1015) [PF06245.16] (db=pfam)	NA
+661	P23056	MEGAHIT-MetaBAT2-S950.5_contig_1514671_9		rank: E	NA
+662	P23060	MEGAHIT-MetaBAT2-S950.5_contig_1514673_4		rank: D;Bacterial DNA-binding protein [PF00216.26] (db=pfam)	NA
+663	P23065	MEGAHIT-MetaBAT2-S950.5_contig_1514673_9		rank: C;glutamine---fructose-6-phosphate transaminase (isomerizing) [EC:2.6.1.16] (db=kegg)	K00820
+664	P23108	MEGAHIT-MetaBAT2-S950.5_contig_1514697_11		rank: C;tyrosine-protein kinase Etk/Wzc [EC:2.7.10.3] (db=kegg)	K16692
+665	P23122	MEGAHIT-MetaBAT2-S950.5_contig_1514698_2		rank: C;tagaturonate reductase [EC:1.1.1.58] (db=kegg)	K00041
+666	P23135	MEGAHIT-MetaBAT2-S950.5_contig_1514708_14		rank: C;3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100] (db=kegg)	K00059
+667	P23148	MEGAHIT-MetaBAT2-S950.5_contig_1514710_3		rank: D;Domain of unknown function (DUF5020) [PF16412.10] (db=pfam)	NA
+668	P23161	MEGAHIT-MetaBAT2-S950.5_contig_1514718_12		rank: C;S-adenosylmethionine synthetase [EC:2.5.1.6] (db=kegg)	K00789
+669	P23197	MEGAHIT-MetaBAT2-S950.5_contig_1514731_2		rank: C;xanthine phosphoribosyltransferase [EC:2.4.2.22] (db=kegg)	K03816
+670	P23207	MEGAHIT-MetaBAT2-S950.5_contig_1514736_4		rank: C;beta-galactosidase [EC:3.2.1.23] (db=kegg)	K01190
+671	P23219	MEGAHIT-MetaBAT2-S950.5_contig_1514740_14		rank: C;carboxynorspermidine decarboxylase [EC:4.1.1.96] (db=kegg)	K13747
+672	P23239	MEGAHIT-MetaBAT2-S950.5_contig_1514744_4		rank: C;ParB family transcriptional regulator, chromosome partitioning protein (db=kegg)	K03497
+673	P23246	MEGAHIT-MetaBAT2-S950.5_contig_1514747_6		rank: C;beta-galactosidase [EC:3.2.1.23] (db=kegg)	K01190
+674	P23247	MEGAHIT-MetaBAT2-S950.5_contig_1514747_7		rank: D;Alpha-L-arabinofuranosidase 1 domain [PF22848.1];Carbohydrate binding domain [PF02018.22] (db=pfam)	NA
+675	P23264	MEGAHIT-MetaBAT2-S950.5_contig_1514751_18		rank: C;mannan endo-1,4-beta-mannosidase [EC:3.2.1.78] (db=kegg)	K01218
+676	P23326	MEGAHIT-MetaBAT2-S950.5_contig_1514761_40		rank: C;phosphate starvation-inducible protein PhoH and related proteins (db=kegg)	K06217
+677	P23341	MEGAHIT-MetaBAT2-S950.5_contig_1514768_18		rank: C;bifunctional aspartokinase / homoserine dehydrogenase 1 [EC:2.7.2.4 1.1.1.3] (db=kegg)	K12524
+678	P23387	MEGAHIT-MetaBAT2-S950.5_contig_1514779_17		rank: D;tRNA methyl transferase HUP domain [PF03054.21];tRNA methyl transferase PRC-barrel domain [PF20259.3];Aminomethyltransferase beta-barrel domain [PF20258.3];Asparagine synthase [PF00733.26];Queuosine biosynthesis protein QueC [PF06508.18];PP-loop family [PF01171.25] (db=pfam)	NA
+679	P23403	MEGAHIT-MetaBAT2-S950.5_contig_1514779_6		rank: D;OPT oligopeptide transporter protein [PF03169.20] (db=pfam)	NA
+680	P23433	MEGAHIT-MetaBAT2-S950.5_contig_1514792_1		rank: E	NA
+681	P23440	MEGAHIT-MetaBAT2-S950.5_contig_1514792_3		rank: D;Fimbrillin-A associated anchor proteins Mfa1 and Mfa2 [PF08842.15] (db=pfam)	NA
+682	P23443	MEGAHIT-MetaBAT2-S950.5_contig_1514792_6		rank: D;Protein of unknown function (DUF3575) [PF12099.13];Domain of unknown function (DUF4421) [PF14391.11] (db=pfam)	NA
+683	P23457	MEGAHIT-MetaBAT2-S950.5_contig_1514805_10		rank: D;Protein of unknown function (DUF3822) [PF12864.12] (db=pfam)	NA
+684	P23459	MEGAHIT-MetaBAT2-S950.5_contig_1514805_5		rank: C;serine protease Do [EC:3.4.21.107] (db=kegg)	K04771
+685	P23489	MEGAHIT-MetaBAT2-S950.5_contig_1514819_2		rank: E	NA
+686	P23507	MEGAHIT-MetaBAT2-S950.5_contig_1514835_2		rank: D;Phosphorylase superfamily [PF01048.25] (db=pfam)	NA
+687	P23533	MEGAHIT-MetaBAT2-S950.5_contig_1514843_11		rank: D;FKBP-type peptidyl-prolyl cis-trans isomerase [PF00254.33];Domain amino terminal to FKBP-type peptidyl-prolyl isomerase [PF01346.23];Helicobacter pylori protein of unknown function (DUF874) [PF05917.16];CAF1 family ribonuclease [PF04857.25] (db=pfam)	NA
+688	P23560	MEGAHIT-MetaBAT2-S950.5_contig_1514854_6		rank: C;GDPmannose 4,6-dehydratase [EC:4.2.1.47] (db=kegg)	K01711
+689	P23568	MEGAHIT-MetaBAT2-S950.5_contig_1514866_3		rank: C;Lrp/AsnC family transcriptional regulator, regulator for asnA, asnC and gidA (db=kegg)	K03718
+690	P23575	MEGAHIT-MetaBAT2-S950.5_contig_1514869_1		rank: D;pfkB family carbohydrate kinase [PF00294.29] (db=pfam)	NA
+691	P23592	MEGAHIT-MetaBAT2-S950.5_contig_1514874_16	MEGAHIT-MetaBAT2-S951.173_contig_4789228_4	rank: D;Anaphase-promoting complex, cyclosome, subunit 3 [PF12895.12];Tetratricopeptide repeat [PF13371.11];Tetratricopeptide repeat [PF13429.11];TPR repeat [PF13414.11];Tetratricopeptide repeat [PF13432.11];ChAPs (Chs5p-Arf1p-binding proteins) [PF09295.15] (db=pfam)	NA
+692	P23598	MEGAHIT-MetaBAT2-S950.5_contig_1514874_26		rank: C;phenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20] (db=kegg)	K01889
+693	P23647	MEGAHIT-MetaBAT2-S950.5_contig_1514888_1		rank: C;YidC/Oxa1 family membrane protein insertase (db=kegg)	K03217
+694	P23726	MEGAHIT-MetaBAT2-S951.163_contig_4275137_3		rank: D;OmpA family [PF00691.25] (db=pfam)	NA
+695	P23731	MEGAHIT-MetaBAT2-S951.163_contig_4275142_13		rank: D;Susd and RagB outer membrane lipoprotein [PF12741.12];Starch-binding associating with outer membrane [PF12771.12] (db=pfam)	NA
+696	P23774	MEGAHIT-MetaBAT2-S951.163_contig_4275179_11		rank: C;diphosphate-dependent phosphofructokinase [EC:2.7.1.90] (db=kegg)	K00895
+697	P23788	MEGAHIT-MetaBAT2-S951.163_contig_4275187_4		rank: E	NA
+698	P23797	MEGAHIT-MetaBAT2-S951.163_contig_4275193_5		rank: E	NA
+699	P23810	MEGAHIT-MetaBAT2-S951.163_contig_4275206_5		rank: E	NA
+700	P23814	MEGAHIT-MetaBAT2-S951.163_contig_4275211_14		rank: C;starch-binding outer membrane protein, SusD/RagB family (db=kegg)	K21572
+701	P23838	MEGAHIT-MetaBAT2-S951.163_contig_4275239_2		rank: D;SPOR domain [PF05036.18] (db=pfam)	NA
+702	P23882	MEGAHIT-MetaBAT2-S951.173_contig_4788989_4		rank: C;aspartyl-tRNA synthetase [EC:6.1.1.12] (db=kegg)	K01876
+703	P23892	MEGAHIT-MetaBAT2-S951.173_contig_4788998_10		rank: C;rubrerythrin (db=kegg)	K19824
+704	P23897	MEGAHIT-MetaBAT2-S951.173_contig_4788999_9		rank: E	NA
+705	P23927	MEGAHIT-MetaBAT2-S951.173_contig_4789014_3		rank: D;ABC-2 family transporter protein [PF12698.12] (db=pfam)	NA
+706	P23947	MEGAHIT-MetaBAT2-S951.173_contig_4789026_5		rank: C;asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4] (db=kegg)	K01953
+707	P23967	MEGAHIT-MetaBAT2-S951.173_contig_4789032_2		rank: C;large subunit ribosomal protein L9 (db=kegg)	K02939
+708	P23970	MEGAHIT-MetaBAT2-S951.173_contig_4789033_10		rank: C;long-chain fatty acid transport protein (db=kegg)	K06076
+709	P24025	MEGAHIT-MetaBAT2-S951.173_contig_4789068_9		rank: D;AMP-binding enzyme [PF00501.33] (db=pfam)	NA
+710	P24030	MEGAHIT-MetaBAT2-S951.173_contig_4789070_8		rank: C;uncharacterized protein (db=kegg)	K07164
+711	P24089	MEGAHIT-MetaBAT2-S951.173_contig_4789118_3		rank: C;Fe-S cluster assembly ATP-binding protein (db=kegg)	K09013
+712	P24095	MEGAHIT-MetaBAT2-S951.173_contig_4789124_1		rank: D;ABC transporter [PF00005.32];AAA domain, putative AbiEii toxin, Type IV TA system [PF13304.11] (db=pfam)	NA
+713	P24097	MEGAHIT-MetaBAT2-S951.173_contig_4789125_2		rank: D;Outer membrane efflux protein [PF02321.23] (db=pfam)	NA
+714	P24100	MEGAHIT-MetaBAT2-S951.173_contig_4789128_10		rank: C;peptidyl-dipeptidase Dcp [EC:3.4.15.5] (db=kegg)	K01284
+715	P24151	MEGAHIT-MetaBAT2-S951.173_contig_4789169_15		rank: C;threonyl-tRNA synthetase [EC:6.1.1.3] (db=kegg)	K01868
+716	P24226	MEGAHIT-MetaBAT2-S951.173_contig_4789226_15		rank: C;MFS transporter, FHS family, L-fucose permease (db=kegg)	K02429
+717	P24262	MEGAHIT-MetaBAT2-S951.45_contig_1551485_50		rank: C;glutaconyl-CoA/methylmalonyl-CoA decarboxylase subunit delta (db=kegg)	K23352
+718	P24349	MEGAHIT-MetaBAT2-S951.93_contig_3950461_3		rank: C;chaperonin GroEL [EC:5.6.1.7] (db=kegg)	K04077
+719	P24366	MEGAHIT-MetaBAT2-S951.93_contig_3950494_10		rank: C;large subunit ribosomal protein L21 (db=kegg)	K02888
+720	P24380	MEGAHIT-MetaBAT2-S951.93_contig_3950509_16		rank: C;dissimilatory sulfite reductase beta subunit [EC:1.8.1.22] (db=kegg)	K11181
+721	P24389	MEGAHIT-MetaBAT2-S951.93_contig_3950519_28		rank: C;molecular chaperone DnaK (db=kegg)	K04043
+722	P24459	MEGAHIT-MetaBAT2-S952.67_contig_6640579_1		rank: D;L-fucose isomerase, C-terminal domain [PF02952.22] (db=pfam)	NA
+723	P24467	MEGAHIT-MetaBAT2-S952.67_contig_6640583_14		rank: C;DNA-directed RNA polymerase subunit beta' [EC:2.7.7.6] (db=kegg)	K03046
+724	P24682	MEGAHIT-MetaBAT2-S953.154_contig_900047_5		rank: C;putrescine aminotransferase [EC:2.6.1.82] (db=kegg)	K09251
+725	P24737	MEGAHIT-MetaBAT2-S953.154_contig_900146_2		rank: C;large subunit ribosomal protein L18 (db=kegg)	K02881
+726	P24738	MEGAHIT-MetaBAT2-S953.154_contig_900146_3	group9_bins.80_contig_1191579_11	rank: C;small subunit ribosomal protein S5 (db=kegg)	K02988
+727	P24753	MEGAHIT-MetaBAT2-S953.154_contig_900187_2	group9_bins.80_contig_1191550_3	rank: E	NA
+728	P24759	MEGAHIT-MetaBAT2-S953.154_contig_900208_9		rank: C;H+/Na+-translocating ferredoxin:NAD+ oxidoreductase subunit D [EC:7.1.1.11 7.2.1.2] (db=kegg)	K03614
+729	P24885	MEGAHIT-MetaBAT2-S953.28_contig_3746296_27		rank: C;large subunit ribosomal protein L5 (db=kegg)	K02931
+730	P24951	MEGAHIT-MetaBAT2-S953.47_contig_3875504_4		rank: C;glycine C-acetyltransferase [EC:2.3.1.29] (db=kegg)	K00639
+731	P24975	MEGAHIT-MetaBAT2-S953.47_contig_3875605_2		rank: C;D-3-phosphoglycerate dehydrogenase / 2-oxoglutarate reductase [EC:1.1.1.95 1.1.1.399] (db=kegg)	K00058
+732	P25031	MEGAHIT-MetaBAT2-S954.74_contig_2630189_11		rank: C;molecular chaperone DnaK (db=kegg)	K04043
+733	P25065	MEGAHIT-MetaBAT2-S954.74_contig_2630343_19		rank: C;carboxybiotin decarboxylase [EC:7.2.4.1] (db=kegg)	K20509
+734	P25080	MEGAHIT-MetaBAT2-S954.74_contig_2630394_7		rank: E	NA
+735	P25132	MEGAHIT-MetaBAT2-S954.88_contig_2519013_10		rank: C;small subunit ribosomal protein S1 (db=kegg)	K02945
+736	P25173	MEGAHIT-MetaBAT2-S954.88_contig_2519220_5		rank: C;glyceraldehyde 3-phosphate dehydrogenase (phosphorylating) [EC:1.2.1.12] (db=kegg)	K00134
+737	P25273	MEGAHIT-MetaBAT2-S955.14_contig_6285900_2		rank: C;DNA-directed RNA polymerase subunit beta [EC:2.7.7.6] (db=kegg)	K03043
+738	P25360	MEGAHIT-MetaBAT2-S955.226_contig_2978269_1		rank: D;Domain of unknown function (DUF4957) [PF16318.10];Domain of unknown function (DUF5123) [PF17161.9] (db=pfam)	NA
+739	P25410	MEGAHIT-MetaBAT2-S955.226_contig_2978296_4		rank: E	NA
+740	P25437	MEGAHIT-MetaBAT2-S955.226_contig_2978312_5		rank: C;starch-binding outer membrane protein SusE/F (db=kegg)	K21571
+741	P25443	MEGAHIT-MetaBAT2-S955.226_contig_2978315_6		rank: C;starch-binding outer membrane protein, SusD/RagB family (db=kegg)	K21572
+742	P25499	MEGAHIT-MetaBAT2-S955.226_contig_2978362_4		rank: C;transcription termination/antitermination protein NusG (db=kegg)	K02601
+743	P25542	MEGAHIT-MetaBAT2-S955.226_contig_2978396_6		rank: C;thioredoxin reductase (NADPH) [EC:1.8.1.9] (db=kegg)	K00384
+744	P25645	MEGAHIT-MetaBAT2-S956.103_contig_5657428_4		rank: C;type VI secretion system protein ImpC (db=kegg)	K11900
+745	P25650	MEGAHIT-MetaBAT2-S956.103_contig_5657454_2		rank: C;methyl-accepting chemotaxis protein (db=kegg)	K03406
+746	P25651	MEGAHIT-MetaBAT2-S956.103_contig_5657458_14		rank: C;recombination protein RecA (db=kegg)	K03553
+747	P25662	MEGAHIT-MetaBAT2-S956.75_contig_5804971_24		rank: C;uncharacterized protein (db=kegg)	K07080
+748	P25670	MEGAHIT-MetaBAT2-S956.75_contig_5804974_13	MEGAHIT-MetaBAT2-S958.173_contig_1707786_2	rank: C;large subunit ribosomal protein L21 (db=kegg)	K02888
+749	P25716	MEGAHIT-MetaBAT2-S956.75_contig_5804995_1		rank: C;small subunit ribosomal protein S8 (db=kegg)	K02994
+750	P25727	MEGAHIT-MetaBAT2-S956.75_contig_5804995_6		rank: C;small subunit ribosomal protein S17 (db=kegg)	K02961
+751	P25729	MEGAHIT-MetaBAT2-S956.75_contig_5804995_8		rank: C;large subunit ribosomal protein L16 (db=kegg)	K02878
+752	P25822	MEGAHIT-MetaBAT2-S956.75_contig_5805049_3		rank: D;Iron only hydrogenase large subunit, C-terminal domain [PF02906.19];2Fe-2S iron-sulfur cluster binding domain [PF13510.11];NADH-quinone oxidoreductase subunit 3, ferredoxin-like domain [PF22117.1];Iron hydrogenase small subunit [PF02256.22];NADH-ubiquinone oxidoreductase-G iron-sulfur binding region [PF10588.14];4Fe-4S dicluster domain [PF13187.11];4Fe-4S dicluster domain [PF12838.12];4Fe-4S dicluster domain [PF13237.11];4Fe-4S dicluster domain [PF14697.11] (db=pfam)	NA
+753	P25854	MEGAHIT-MetaBAT2-S956.75_contig_5805087_10		rank: C;pyruvate carboxylase [EC:6.4.1.1] (db=kegg)	K01958
+754	P25943	MEGAHIT-MetaBAT2-S957.114_contig_3372975_6		rank: C;acetaldehyde dehydrogenase / alcohol dehydrogenase [EC:1.2.1.10 1.1.1.1] (db=kegg)	K04072
+755	P25953	MEGAHIT-MetaBAT2-S957.37_contig_3494431_15		rank: C;triosephosphate isomerase (TIM) [EC:5.3.1.1] (db=kegg)	K01803
+756	P26009	MEGAHIT-MetaBAT2-S957.57_contig_338274_1		rank: C;asparaginyl-tRNA synthetase [EC:6.1.1.22] (db=kegg)	K01893
+757	P26070	MEGAHIT-MetaBAT2-S957.57_contig_338358_13		rank: C;uncharacterized protein (db=kegg)	K07164
+758	P26075	MEGAHIT-MetaBAT2-S957.57_contig_338363_9		rank: C;phosphatidylserine decarboxylase [EC:4.1.1.65] (db=kegg)	K01613
+759	P26279	MEGAHIT-MetaBAT2-S958.133_contig_3010629_2		rank: C;biopolymer transport protein ExbD (db=kegg)	K03559
+760	P26282	MEGAHIT-MetaBAT2-S958.133_contig_3010631_5		rank: C;UDP-N-acetylglucosamine acyltransferase [EC:2.3.1.129] (db=kegg)	K00677
+761	P26449	MEGAHIT-MetaBAT2-S958.133_contig_3010784_8		rank: C;cobaltochelatase CobN [EC:6.6.1.2] (db=kegg)	K02230
+762	P26456	MEGAHIT-MetaBAT2-S958.133_contig_3010788_1		rank: D;S-layer homology domain [PF00395.25];Mannosyl-glycoprotein endo-beta-N-acetylglucosaminidase [PF01832.25] (db=pfam)	NA
+763	P26501	MEGAHIT-MetaBAT2-S958.133_contig_3010862_1		rank: C;cysteinyl-tRNA synthetase [EC:6.1.1.16] (db=kegg)	K01883
+764	P26503	MEGAHIT-MetaBAT2-S958.133_contig_3010867_4		rank: C;large subunit ribosomal protein L27 (db=kegg)	K02899
+765	P26520	MEGAHIT-MetaBAT2-S958.133_contig_3010884_13		rank: C;cell division initiation protein (db=kegg)	K04074
+766	P26626	MEGAHIT-MetaBAT2-S958.173_contig_1707495_1		rank: C;cell division protein FtsZ (db=kegg)	K03531
+767	P26650	MEGAHIT-MetaBAT2-S958.173_contig_1707577_3		rank: C;solute carrier family 13 (sodium-dependent dicarboxylate transporter), member 2/3/5 (db=kegg)	K14445
+768	P26699	MEGAHIT-MetaBAT2-S958.173_contig_1707708_1		rank: C;excinuclease ABC subunit B (db=kegg)	K03702
+769	P26768	MEGAHIT-MetaBAT2-S959.110_contig_6841160_1		rank: C;DNA-directed RNA polymerase subunit beta' [EC:2.7.7.6] (db=kegg)	K03046
+770	P26775	MEGAHIT-MetaBAT2-S959.110_contig_6841226_9		rank: C;cellobiose transport system substrate-binding protein (db=kegg)	K10240
+771	P26809	MEGAHIT-MetaBAT2-S959.110_contig_6841567_6		rank: D;POT family [PF00854.26] (db=pfam)	NA
+772	P26852	MEGAHIT-MetaBAT2-S959.123_contig_5422984_1		rank: E	NA
+773	P26854	MEGAHIT-MetaBAT2-S959.123_contig_5422984_3		rank: D;Putative zinc-binding metallo-peptidase [PF15890.10] (db=pfam)	NA
+774	P26921	MEGAHIT-MetaBAT2-S959.81_contig_4216947_2		rank: C;ribosome-binding ATPase (db=kegg)	K06942
+775	P26951	MEGAHIT-MetaBAT2-S960.129_contig_5745793_1		rank: D;KH-domain-like of EngA bacterial GTPase enzymes, C-terminal [PF14714.11];Elongation factor Tu GTP binding domain [PF00009.32] (db=pfam)	NA
+776	P26961	MEGAHIT-MetaBAT2-S960.192_contig_80403_8	MEGAHIT-MetaBAT2-S966.83_contig_5899520_1	rank: C;succinate dehydrogenase cytochrome b subunit (db=kegg)	K00241
+777	P26970	MEGAHIT-MetaBAT2-S960.192_contig_80406_27	MEGAHIT-MetaBAT2-S966.83_contig_5899636_2	rank: C;ribonucleoside-diphosphate reductase alpha chain [EC:1.17.4.1] (db=kegg)	K00525
+778	P27000	MEGAHIT-MetaBAT2-S960.192_contig_80411_139		rank: C;phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49] (db=kegg)	K01610
+779	P27008	MEGAHIT-MetaBAT2-S960.192_contig_80411_47		rank: D;Glycosyl hydrolase family 85 [PF03644.18];Concanavalin A-like lectin/glucanases superfamily [PF13385.12] (db=pfam)	NA
+780	P27012	MEGAHIT-MetaBAT2-S960.192_contig_80411_80		rank: C;alpha-amylase [EC:3.2.1.1] (db=kegg)	K07405
+781	P27022	MEGAHIT-MetaBAT2-S960.192_contig_80413_12	MEGAHIT-MetaBAT2-S966.83_contig_5899355_7	rank: C;large subunit ribosomal protein L22 (db=kegg)	K02890
+782	P27038	MEGAHIT-MetaBAT2-S960.192_contig_80414_16		rank: D;Tetratricopeptide repeat-like domain [PF09976.14];Soluble NSF attachment protein, SNAP [PF14938.11] (db=pfam)	NA
+783	P27072	MEGAHIT-MetaBAT2-S960.192_contig_80419_13		rank: D;Outer membrane protein Omp28 [PF11551.13] (db=pfam)	NA
+784	P27080	MEGAHIT-MetaBAT2-S960.192_contig_80420_1		rank: E	NA
+785	P27094	MEGAHIT-MetaBAT2-S960.192_contig_80422_24		rank: D;Concanavalin A-like lectin/glucanases superfamily [PF13385.12];Pentaxin family [PF00354.23] (db=pfam)	NA
+786	P27114	MEGAHIT-MetaBAT2-S960.192_contig_80423_87	MEGAHIT-MetaBAT2-S966.83_contig_5899448_1	rank: C;putative transport protein (db=kegg)	K07085
+787	P27160	MEGAHIT-MetaBAT2-S960.192_contig_80426_9		rank: E	NA
+788	P27165	MEGAHIT-MetaBAT2-S960.192_contig_80427_6		rank: D;Domain of unknown function (DUF6359) [PF19886.4];Family of unknown function (DUF5689) [PF18942.5] (db=pfam)	NA
+789	P27227	MEGAHIT-MetaBAT2-S960.192_contig_80440_24	MEGAHIT-MetaBAT2-S966.83_contig_5899340_2	rank: C;F-type H+/Na+-transporting ATPase subunit beta [EC:7.1.2.2 7.2.2.1] (db=kegg)	K02112
+790	P27261	MEGAHIT-MetaBAT2-S960.192_contig_80444_2		rank: D;Peptidase M60, enhancin and enhancin-like [PF13402.11] (db=pfam)	NA
+791	P27265	MEGAHIT-MetaBAT2-S960.192_contig_80444_31		rank: D;Domain of unknown function (DUF4270) [PF14092.11] (db=pfam)	NA
+792	P27299	MEGAHIT-MetaBAT2-S960.192_contig_80448_17	MEGAHIT-MetaBAT2-S966.83_contig_5899432_6	rank: C;rubrerythrin (db=kegg)	K19824
+793	P27315	MEGAHIT-MetaBAT2-S960.192_contig_80448_86		rank: C;alpha-L-fucosidase 2 [EC:3.2.1.51] (db=kegg)	K15923
+794	P27346	MEGAHIT-MetaBAT2-S960.200_contig_236421_1		rank: D;ABC transporter [PF00005.32] (db=pfam)	NA
+795	P27350	MEGAHIT-MetaBAT2-S960.208_contig_413915_2		rank: C;triosephosphate isomerase (TIM) [EC:5.3.1.1] (db=kegg)	K01803
+796	P27452	MEGAHIT-MetaBAT2-S961.20_contig_4773497_37		rank: D;CobW/HypB/UreG, nucleotide-binding domain [PF02492.24];Cobalamin synthesis protein cobW C-terminal domain [PF07683.19] (db=pfam)	NA
+797	P27479	MEGAHIT-MetaBAT2-S961.20_contig_4773541_3		rank: C;glutamate synthase (NADPH) small chain [EC:1.4.1.13] (db=kegg)	K00266
+798	P27527	MEGAHIT-MetaBAT2-S961.20_contig_4773636_2		rank: C;uncharacterized protein (db=kegg)	K07080
+799	P27541	MEGAHIT-MetaBAT2-S961.221_contig_6508402_17		rank: C;small subunit ribosomal protein S3 (db=kegg)	K02982
+800	P27692	MEGAHIT-MetaBAT2-S962.117_contig_4866389_7		rank: C;D-lactate dehydrogenase [EC:1.1.1.28] (db=kegg)	K03778
+801	P27765	MEGAHIT-MetaBAT2-S962.117_contig_4866420_3		rank: C;chromate reductase, NAD(P)H dehydrogenase (quinone) (db=kegg)	K19784
+802	P27917	MEGAHIT-MetaBAT2-S962.187_contig_2556188_15		rank: C;elongation factor Tu (db=kegg)	K02358
+803	P27996	MEGAHIT-MetaBAT2-S962.24_contig_2292087_2		rank: C;DNA gyrase subunit B [EC:5.6.2.2] (db=kegg)	K02470
+804	P28011	MEGAHIT-MetaBAT2-S962.24_contig_2292097_6		rank: C;host factor-I protein (db=kegg)	K03666
+805	P28048	MEGAHIT-MetaBAT2-S962.24_contig_2292108_23		rank: D;Diguanylate cyclase, GGDEF domain [PF00990.26];MASE6 [PF20966.2] (db=pfam)	NA
+806	P28125	MEGAHIT-MetaBAT2-S962.24_contig_2292144_8		rank: D;LysR substrate binding domain [PF03466.25];Bacterial regulatory helix-turn-helix protein, lysR family [PF00126.32] (db=pfam)	NA
+807	P28232	MEGAHIT-MetaBAT2-S962.24_contig_2292175_7		rank: C;translation initiation factor IF-2 (db=kegg)	K02519
+808	P28301	MEGAHIT-MetaBAT2-S962.24_contig_2292206_3		rank: E	NA
+809	P28353	MEGAHIT-MetaBAT2-S962.24_contig_2292233_25		rank: C;two-component system, OmpR family, response regulator ResD (db=kegg)	K07775
+810	P28429	MEGAHIT-MetaBAT2-S962.24_contig_2292270_5		rank: C;oligopeptide transport system substrate-binding protein (db=kegg)	K15580
+811	P28672	MEGAHIT-MetaBAT2-S962.80_contig_4191305_3		rank: D;Peptidase C10 family [PF01640.22];Spi protease inhibitor [PF13734.11] (db=pfam)	NA
+812	P28707	MEGAHIT-MetaBAT2-S962.80_contig_4191348_4		rank: D;Domain of unknown function (DUF4960) [PF16324.10] (db=pfam)	NA
+813	P28787	MEGAHIT-MetaBAT2-S962.8_contig_3132891_13		rank: D;Rubrerythrin [PF02915.22];Rubrerythrin, rubredoxin-like domain [PF21349.2] (db=pfam)	NA
+814	P28938	MEGAHIT-MetaBAT2-S964.152_contig_6810529_14		rank: C;galactofuranose transport system ATP-binding protein [EC:7.5.2.9] (db=kegg)	K10820
+815	P28975	MEGAHIT-MetaBAT2-S964.154_contig_4541853_2		rank: C;transcription termination/antitermination protein NusA (db=kegg)	K02600
+816	P29008	MEGAHIT-MetaBAT2-S964.154_contig_4541966_2		rank: D;YtxH-like protein [PF12732.12] (db=pfam)	NA
+817	P29024	MEGAHIT-MetaBAT2-S964.154_contig_4541995_5		rank: E	NA
+818	P29097	MEGAHIT-MetaBAT2-S964.154_contig_4542123_5		rank: E	NA
+819	P29165	MEGAHIT-MetaBAT2-S964.185_contig_75058_4		rank: C;electron transfer flavoprotein beta subunit (db=kegg)	K03521
+820	P29355	MEGAHIT-MetaBAT2-S964.235_contig_162305_2		rank: D;AAA domain (Cdc48 subfamily) [PF07724.19];AAA lid domain [PF17871.6];C-terminal, D2-small domain, of ClpB protein [PF10431.14];ATPase family associated with various cellular activities (AAA) [PF00004.34];AAA domain (dynein-related subfamily) [PF07728.19];Sigma-54 interaction domain [PF00158.31];ATPase domain predominantly from Archaea [PF01637.23];Bacterial TniB protein [PF05621.16] (db=pfam)	NA
+821	P29536	MEGAHIT-MetaBAT2-S965.170_contig_623712_21		rank: C;chaperonin GroEL [EC:5.6.1.7] (db=kegg)	K04077
+822	P29548	MEGAHIT-MetaBAT2-S965.170_contig_623722_5	group9_bins.348_contig_6928411_10	rank: C;large subunit ribosomal protein L17 (db=kegg)	K02879
+823	P29610	MEGAHIT-MetaBAT2-S965.5_contig_5940071_6		rank: C;mannose PTS system EIIC component (db=kegg)	K02795
+824	P29627	MEGAHIT-MetaBAT2-S966.102_contig_6246593_5		rank: C;peptide/nickel transport system substrate-binding protein (db=kegg)	K02035
+825	P29653	MEGAHIT-MetaBAT2-S966.102_contig_6246609_31		rank: C;basic membrane protein A and related proteins (db=kegg)	K07335
+826	P29731	MEGAHIT-MetaBAT2-S966.102_contig_6246710_3		rank: C;carbohydrate diacid regulator (db=kegg)	K02647
+827	P29785	MEGAHIT-MetaBAT2-S966.102_contig_6246761_2		rank: C;6-phosphofructokinase 1 [EC:2.7.1.11] (db=kegg)	K00850
+828	P29820	MEGAHIT-MetaBAT2-S966.102_contig_6246792_9		rank: C;carbamate kinase [EC:2.7.2.2] (db=kegg)	K00926
+829	P29958	MEGAHIT-MetaBAT2-S966.75_contig_3755918_4		rank: C;ketol-acid reductoisomerase [EC:1.1.1.86] (db=kegg)	K00053
+830	P29962	MEGAHIT-MetaBAT2-S966.75_contig_3755944_5	MEGAHIT-MetaBAT2-S967.229_contig_6869683_1, group9_bins.264_contig_5619682_72	rank: C;flagellar hook protein FlgE (db=kegg)	K02390
+831	P30081	MEGAHIT-MetaBAT2-S966.83_contig_5899659_1		rank: C;glyceraldehyde 3-phosphate dehydrogenase (phosphorylating) [EC:1.2.1.12] (db=kegg)	K00134
+832	P30095	MEGAHIT-MetaBAT2-S967.21_contig_2744981_2		rank: C;fructose-bisphosphate aldolase, class I [EC:4.1.2.13] (db=kegg)	K11645
+833	P30097	MEGAHIT-MetaBAT2-S967.21_contig_2744981_22		rank: C;large subunit ribosomal protein L7/L12 (db=kegg)	K02935
+834	P30101	MEGAHIT-MetaBAT2-S967.21_contig_2744981_8		rank: D;Phosphate acetyl/butaryl transferase [PF01515.24] (db=pfam)	NA
+835	P30102	MEGAHIT-MetaBAT2-S967.21_contig_2744982_4		rank: C;ribosome hibernation promoting factor (db=kegg)	K05808
+836	P30108	MEGAHIT-MetaBAT2-S967.21_contig_2744986_6		rank: C;single-strand DNA-binding protein (db=kegg)	K03111
+837	P30112	MEGAHIT-MetaBAT2-S967.21_contig_2744989_8		rank: C;chaperonin GroEL [EC:5.6.1.7] (db=kegg)	K04077
+838	P30117	MEGAHIT-MetaBAT2-S967.21_contig_2744993_16		rank: C;putative selenate reductase molybdopterin-binding subunit (db=kegg)	K12528
+839	P30124	MEGAHIT-MetaBAT2-S967.21_contig_2744993_7		rank: C;elongation factor Ts (db=kegg)	K02357
+840	P30131	MEGAHIT-MetaBAT2-S967.21_contig_2744999_4		rank: D;Dihydroprymidine dehydrogenase domain II, 4Fe-4S cluster [PF14691.11];Pyridine nucleotide-disulphide oxidoreductase [PF07992.19];NADH-ubiquinone oxidoreductase-F iron-sulfur binding region [PF10589.14];Pyridine nucleotide-disulphide oxidoreductase [PF13738.11];Flavin-binding monooxygenase-like [PF00743.24];NAD(P)-binding Rossmann-like domain [PF13450.11];Thi4 family [PF01946.22];Pyridine nucleotide-disulphide oxidoreductase [PF00070.32];FAD binding domain [PF00890.29];FAD binding domain [PF01494.24];HI0933-like protein Rossmann domain [PF03486.19];FAD dependent oxidoreductase [PF01266.29];Flavin containing amine oxidoreductase [PF01593.29] (db=pfam)	NA
+841	P30133	MEGAHIT-MetaBAT2-S967.21_contig_2745009_1		rank: C;large subunit ribosomal protein L1 (db=kegg)	K02863
+842	P30155	MEGAHIT-MetaBAT2-S967.21_contig_2745025_25		rank: D;DegT/DnrJ/EryC1/StrS aminotransferase family [PF01041.22];Aminotransferase class-V [PF00266.24];Cys/Met metabolism PLP-dependent enzyme [PF01053.25];Beta-eliminating lyase [PF01212.26];Orn/Lys/Arg decarboxylase, major domain [PF01276.25] (db=pfam)	NA
+843	P30158	MEGAHIT-MetaBAT2-S967.21_contig_2745026_20		rank: C;eukaryotic-like serine/threonine-protein kinase [EC:2.7.11.1] (db=kegg)	K12132
+844	P30173	MEGAHIT-MetaBAT2-S967.21_contig_2745031_8		rank: C;chaperonin GroEL [EC:5.6.1.7] (db=kegg)	K04077
+845	P30179	MEGAHIT-MetaBAT2-S967.21_contig_2745035_7		rank: C;transketolase [EC:2.2.1.1] (db=kegg)	K00615
+846	P30180	MEGAHIT-MetaBAT2-S967.21_contig_2745035_8		rank: C;transaldolase [EC:2.2.1.2] (db=kegg)	K00616
+847	P30186	MEGAHIT-MetaBAT2-S967.21_contig_2745042_8		rank: D;SPFH domain / Band 7 family [PF01145.30] (db=pfam)	NA
+848	P30187	MEGAHIT-MetaBAT2-S967.21_contig_2745042_9		rank: E	NA
+849	P30192	MEGAHIT-MetaBAT2-S967.21_contig_2745051_1		rank: C;D-3-phosphoglycerate dehydrogenase / 2-oxoglutarate reductase [EC:1.1.1.95 1.1.1.399] (db=kegg)	K00058
+850	P30203	MEGAHIT-MetaBAT2-S967.21_contig_2745073_17		rank: C;putative selenate reductase [EC:1.97.1.9] (db=kegg)	K12527
+851	P30212	MEGAHIT-MetaBAT2-S967.21_contig_2745079_11		rank: C;type IV pilus assembly protein PilB (db=kegg)	K02652
+852	P30218	MEGAHIT-MetaBAT2-S967.21_contig_2745079_5		rank: C;type IV pilus assembly protein PilN (db=kegg)	K02663
+853	P30223	MEGAHIT-MetaBAT2-S967.21_contig_2745083_13		rank: C;asparaginyl-tRNA synthetase [EC:6.1.1.22] (db=kegg)	K01893
+854	P30231	MEGAHIT-MetaBAT2-S967.21_contig_2745090_21		rank: C;large subunit ribosomal protein L23 (db=kegg)	K02892
+855	P30232	MEGAHIT-MetaBAT2-S967.21_contig_2745090_22		rank: C;large subunit ribosomal protein L2 (db=kegg)	K02886
+856	P30238	MEGAHIT-MetaBAT2-S967.21_contig_2745090_29		rank: C;large subunit ribosomal protein L14 (db=kegg)	K02874
+857	P30239	MEGAHIT-MetaBAT2-S967.21_contig_2745090_3		rank: D;GGGtGRT protein [PF14057.11] (db=pfam)	NA
+858	P30241	MEGAHIT-MetaBAT2-S967.21_contig_2745090_31		rank: C;large subunit ribosomal protein L5 (db=kegg)	K02931
+859	P30243	MEGAHIT-MetaBAT2-S967.21_contig_2745090_34		rank: C;large subunit ribosomal protein L6 (db=kegg)	K02933
+860	P30245	MEGAHIT-MetaBAT2-S967.21_contig_2745090_36		rank: C;small subunit ribosomal protein S5 (db=kegg)	K02988
+861	P30251	MEGAHIT-MetaBAT2-S967.21_contig_2745090_43		rank: C;small subunit ribosomal protein S4 (db=kegg)	K02986
+862	P30253	MEGAHIT-MetaBAT2-S967.21_contig_2745090_45		rank: C;large subunit ribosomal protein L17 (db=kegg)	K02879
+863	P30261	MEGAHIT-MetaBAT2-S967.21_contig_2745092_21		rank: C;small subunit ribosomal protein S16 (db=kegg)	K02959
+864	P30285	MEGAHIT-MetaBAT2-S967.21_contig_2745109_35		rank: E	NA
+865	P30288	MEGAHIT-MetaBAT2-S967.21_contig_2745116_2		rank: E	NA
+866	P30291	MEGAHIT-MetaBAT2-S967.21_contig_2745122_14		rank: C;leucyl aminopeptidase [EC:3.4.11.1] (db=kegg)	K01255
+867	P30295	MEGAHIT-MetaBAT2-S967.21_contig_2745128_3		rank: D;Phosphotransferase enzyme family [PF01636.28] (db=pfam)	NA
+868	P30298	MEGAHIT-MetaBAT2-S967.21_contig_2745130_15		rank: C;molecular chaperone DnaK (db=kegg)	K04043
+869	P30302	MEGAHIT-MetaBAT2-S967.21_contig_2745131_21		rank: C;seryl-tRNA synthetase [EC:6.1.1.11] (db=kegg)	K01875
+870	P30308	MEGAHIT-MetaBAT2-S967.21_contig_2745148_10		rank: D;Molybdopterin cofactor-binding domain [PF02738.23];Molybdopterin cofactor-binding domain [PF20256.3];Aldehyde oxidase and xanthine dehydrogenase, a/b hammerhead domain [PF01315.27] (db=pfam)	NA
+871	P30325	MEGAHIT-MetaBAT2-S967.21_contig_2745158_6		rank: C;phosphoenolpyruvate carboxykinase (GTP) [EC:4.1.1.32] (db=kegg)	K01596
+872	P30331	MEGAHIT-MetaBAT2-S967.21_contig_2745159_4		rank: C;twitching motility protein PilT (db=kegg)	K02669
+873	P30379	MEGAHIT-MetaBAT2-S967.229_contig_6869547_2		rank: C;type I restriction enzyme, R subunit [EC:3.1.21.3] (db=kegg)	K01153
+874	P30387	MEGAHIT-MetaBAT2-S967.229_contig_6869550_16		rank: C;F-type H+-transporting ATPase subunit gamma (db=kegg)	K02115
+875	P30401	MEGAHIT-MetaBAT2-S967.229_contig_6869557_2		rank: C;glycerol-3-phosphate dehydrogenase subunit C (db=kegg)	K00113
+876	P30430	MEGAHIT-MetaBAT2-S967.229_contig_6869566_16		rank: C;16S rRNA (adenine1518-N6/adenine1519-N6)-dimethyltransferase [EC:2.1.1.182] (db=kegg)	K02528
+877	P30460	MEGAHIT-MetaBAT2-S967.229_contig_6869573_6		rank: C;chemotaxis protein CheX (db=kegg)	K03409
+878	P30473	MEGAHIT-MetaBAT2-S967.229_contig_6869575_6		rank: C;preprotein translocase subunit SecF (db=kegg)	K03074
+879	P30491	MEGAHIT-MetaBAT2-S967.229_contig_6869585_3		rank: C;L-lactate dehydrogenase [EC:1.1.1.27] (db=kegg)	K00016
+880	P30495	MEGAHIT-MetaBAT2-S967.229_contig_6869586_13		rank: C;galactofuranose transport system ATP-binding protein [EC:7.5.2.9] (db=kegg)	K10820
+881	P30500	MEGAHIT-MetaBAT2-S967.229_contig_6869586_29		rank: C;succinyl-CoA:acetate CoA-transferase [EC:2.8.3.18] (db=kegg)	K18118
+882	P30502	MEGAHIT-MetaBAT2-S967.229_contig_6869586_31		rank: D;Methylmalonyl-CoA mutase [PF01642.27] (db=pfam)	NA
+883	P30509	MEGAHIT-MetaBAT2-S967.229_contig_6869586_7		rank: D;ABC transporter [PF00005.32] (db=pfam)	NA
+884	P30531	MEGAHIT-MetaBAT2-S967.229_contig_6869590_13		rank: C;polar amino acid transport system substrate-binding protein (db=kegg)	K02030
+885	P30532	MEGAHIT-MetaBAT2-S967.229_contig_6869590_19		rank: C;glutaminyl-tRNA synthetase [EC:6.1.1.18] (db=kegg)	K01886
+886	P30539	MEGAHIT-MetaBAT2-S967.229_contig_6869591_3	group9_bins.264_contig_5619654_2, group9_bins.264_contig_5619664_27	rank: C;preprotein translocase subunit SecE (db=kegg)	K03073
+887	P30550	MEGAHIT-MetaBAT2-S967.229_contig_6869598_3		rank: D;F420-0:Gamma-glutamyl ligase [PF01996.21] (db=pfam)	NA
+888	P30574	MEGAHIT-MetaBAT2-S967.229_contig_6869606_4		rank: C;fructose-bisphosphate aldolase, class II [EC:4.1.2.13] (db=kegg)	K01624
+889	P30580	MEGAHIT-MetaBAT2-S967.229_contig_6869607_4		rank: C;ribosome maturation factor RimP (db=kegg)	K09748
+890	P30581	MEGAHIT-MetaBAT2-S967.229_contig_6869607_5		rank: C;transcription termination/antitermination protein NusA (db=kegg)	K02600
+891	P30597	MEGAHIT-MetaBAT2-S967.229_contig_6869610_19		rank: C;GTPase [EC:3.6.5.-] (db=kegg)	K03979
+892	P30598	MEGAHIT-MetaBAT2-S967.229_contig_6869610_20	group9_bins.264_contig_5619684_22	rank: C;large subunit ribosomal protein L27 (db=kegg)	K02899
+893	P30622	MEGAHIT-MetaBAT2-S967.229_contig_6869615_12		rank: C;aspartyl-tRNA synthetase [EC:6.1.1.12] (db=kegg)	K01876
+894	P30634	MEGAHIT-MetaBAT2-S967.229_contig_6869619_13		rank: C;glycogen phosphorylase [EC:2.4.1.1] (db=kegg)	K00688
+895	P30635	MEGAHIT-MetaBAT2-S967.229_contig_6869619_14		rank: C;glucose-1-phosphate adenylyltransferase [EC:2.7.7.27] (db=kegg)	K00975
+896	P30650	MEGAHIT-MetaBAT2-S967.229_contig_6869621_5		rank: D;Conserved region in glutamate synthase [PF01645.22];4Fe-4S dicluster domain [PF13187.11];4Fe-4S double cluster binding domain [PF13484.11];4Fe-4S dicluster domain [PF13237.11];4Fe-4S dicluster domain [PF12838.12];4Fe-4S dicluster domain [PF14697.11];4Fe-4S dicluster domain [PF13183.11] (db=pfam)	NA
+897	P30654	MEGAHIT-MetaBAT2-S967.229_contig_6869622_6		rank: C;large subunit ribosomal protein L31 (db=kegg)	K02909
+898	P30657	MEGAHIT-MetaBAT2-S967.229_contig_6869624_14		rank: C;dihydroorotase [EC:3.5.2.3] (db=kegg)	K01465
+899	P30669	MEGAHIT-MetaBAT2-S967.229_contig_6869628_13		rank: C;rod shape-determining protein MreB and related proteins (db=kegg)	K03569
+900	P30736	MEGAHIT-MetaBAT2-S967.229_contig_6869648_30		rank: C;presequence protease [EC:3.4.24.-] (db=kegg)	K06972
+901	P30743	MEGAHIT-MetaBAT2-S967.229_contig_6869648_41		rank: C;lactate dehydrogenase (NAD+,ferredoxin) subunit LctD [EC:1.1.1.436] (db=kegg)	K26113
+902	P30755	MEGAHIT-MetaBAT2-S967.229_contig_6869651_3		rank: C;phosphoribosylformylglycinamidine synthase [EC:6.3.5.3] (db=kegg)	K01952
+903	P30797	MEGAHIT-MetaBAT2-S967.229_contig_6869661_3		rank: C;2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha [EC:1.2.7.3 1.2.7.11] (db=kegg)	K00174
+904	P30824	MEGAHIT-MetaBAT2-S967.229_contig_6869671_1		rank: C;transketolase [EC:2.2.1.1] (db=kegg)	K00615
+905	P30841	MEGAHIT-MetaBAT2-S967.229_contig_6869676_2		rank: C;cellobiose PTS system EIIC component (db=kegg)	K02761
+906	P30844	MEGAHIT-MetaBAT2-S967.229_contig_6869676_6		rank: C;6-phospho-beta-glucosidase [EC:3.2.1.86] (db=kegg)	K01223
+907	P30860	MEGAHIT-MetaBAT2-S967.229_contig_6869679_22		rank: C;enoyl-[acyl-carrier protein] reductase II [EC:1.3.1.9] (db=kegg)	K02371
+908	P30872	MEGAHIT-MetaBAT2-S967.229_contig_6869679_4		rank: C;methylglyoxal synthase [EC:4.2.3.3] (db=kegg)	K01734
+909	P30880	MEGAHIT-MetaBAT2-S967.229_contig_6869681_10		rank: C;phosphoglucomutase [EC:5.4.2.2] (db=kegg)	K01835
+910	P30885	MEGAHIT-MetaBAT2-S967.229_contig_6869681_3		rank: C;pantoate--beta-alanine ligase [EC:6.3.2.1] (db=kegg)	K01918
+911	P30897	MEGAHIT-MetaBAT2-S967.229_contig_6869684_16		rank: C;heat shock protein HtpX [EC:3.4.24.-] (db=kegg)	K03799
+912	P30921	MEGAHIT-MetaBAT2-S967.229_contig_6869687_4		rank: D;Sodium:dicarboxylate symporter family [PF00375.23] (db=pfam)	NA
+913	P30946	MEGAHIT-MetaBAT2-S967.229_contig_6869696_12		rank: C;flagellar P-ring protein FlgI (db=kegg)	K02394
+914	P30953	MEGAHIT-MetaBAT2-S967.46_contig_3552821_7		rank: C;5-(carboxyamino)imidazole ribonucleotide mutase [EC:5.4.99.18] (db=kegg)	K01588
+915	P31091	MEGAHIT-MetaBAT2-S968.138_contig_2051432_10		rank: C;DNA gyrase subunit A [EC:5.6.2.2] (db=kegg)	K02469
+916	P31122	MEGAHIT-MetaBAT2-S968.13_contig_6351424_7		rank: D;Phosphodiester glycosidase [PF09992.14] (db=pfam)	NA
+917	P31148	MEGAHIT-MetaBAT2-S968.13_contig_6351449_7	MEGAHIT-MetaBAT2-S970.191_contig_2451139_20	rank: C;methyl-galactoside transport system permease protein (db=kegg)	K10541
+918	P31180	MEGAHIT-MetaBAT2-S968.13_contig_6351479_3		rank: C;two-component system, response regulator, stage 0 sporulation protein A (db=kegg)	K07699
+919	P31189	MEGAHIT-MetaBAT2-S968.13_contig_6351498_2		rank: D;Domain of unknown function (DUF4349) [PF14257.11] (db=pfam)	NA
+920	P31245	MEGAHIT-MetaBAT2-S968.13_contig_6351560_3		rank: C;acetyl-CoA synthase [EC:2.3.1.169] (db=kegg)	K14138
+921	P31246	MEGAHIT-MetaBAT2-S968.13_contig_6351560_9		rank: D;SPFH domain-Band 7 family [PF13421.11];Double zinc ribbon [PF12773.12];DNA polymerase II large subunit DP2 [PF03833.18] (db=pfam)	NA
+922	P31258	MEGAHIT-MetaBAT2-S968.13_contig_6351569_6		rank: C;multiple sugar transport system permease protein (db=kegg)	K02026
+923	P31280	MEGAHIT-MetaBAT2-S968.13_contig_6351591_1		rank: D;Molybdopterin cofactor-binding domain [PF02738.23];[2Fe-2S] binding domain [PF01799.25];Aldehyde oxidase and xanthine dehydrogenase, a/b hammerhead domain [PF01315.27];2Fe-2S iron-sulfur cluster binding domain [PF00111.32] (db=pfam)	NA
+924	P31294	MEGAHIT-MetaBAT2-S968.13_contig_6351602_3		rank: D;Carbon monoxide dehydrogenase subunit alpha N-terminal domain [PF18537.6] (db=pfam)	NA
+925	P31298	MEGAHIT-MetaBAT2-S968.13_contig_6351610_14		rank: C;large subunit ribosomal protein L10 (db=kegg)	K02864
+926	P31368	MEGAHIT-MetaBAT2-S968.150_contig_1399240_9		rank: C;cell division protein FtsZ (db=kegg)	K03531
+927	P31417	MEGAHIT-MetaBAT2-S968.229_contig_4505309_1		rank: C;large subunit ribosomal protein L1 (db=kegg)	K02863
+928	P31499	MEGAHIT-MetaBAT2-S968.88_contig_2942178_17		rank: E	NA
+929	P31543	MEGAHIT-MetaBAT2-S969.89_contig_3779596_1		rank: C;phosphate-selective porin OprO and OprP (db=kegg)	K07221
+930	P31603	MEGAHIT-MetaBAT2-S970.119_contig_4140719_19	group10_bins.7_contig_57008_22	rank: C;biopolymer transport protein ExbB (db=kegg)	K03561
+931	P31664	MEGAHIT-MetaBAT2-S970.119_contig_4140845_8		rank: C;large subunit ribosomal protein L28 (db=kegg)	K02902
+932	P31731	MEGAHIT-MetaBAT2-S970.119_contig_4141003_4		rank: D;ABC transporter [PF00005.32] (db=pfam)	NA
+933	P31773	MEGAHIT-MetaBAT2-S970.122_contig_4011715_5		rank: C;cysteine synthase [EC:2.5.1.47] (db=kegg)	K01738
+934	P31822	MEGAHIT-MetaBAT2-S970.191_contig_2451081_2		rank: C;small subunit ribosomal protein S7 (db=kegg)	K02992
+935	P31883	MEGAHIT-MetaBAT2-S970.191_contig_2451139_19		rank: C;methyl-galactoside transport system ATP-binding protein [EC:7.5.2.11] (db=kegg)	K10542
+936	P31903	MEGAHIT-MetaBAT2-S970.191_contig_2451152_6		rank: C;acetate kinase [EC:2.7.2.1] (db=kegg)	K00925
+937	P31951	MEGAHIT-MetaBAT2-S970.199_contig_3441814_2		rank: C;maltose transport system substrate-binding protein (db=kegg)	K25086
+938	P32084	MEGAHIT-MetaBAT2-S970.241_contig_107743_19		rank: D;CarboxypepD_reg-like domain [PF13715.11] (db=pfam)	NA
+939	P32086	MEGAHIT-MetaBAT2-S970.241_contig_107762_6		rank: C;rubrerythrin (db=kegg)	K19824
+940	P32113	MEGAHIT-MetaBAT2-S970.51_contig_6451536_1		rank: D;Pyridine nucleotide-disulphide oxidoreductase [PF07992.19];Flavin-binding monooxygenase-like [PF00743.24];Pyridine nucleotide-disulphide oxidoreductase [PF13738.11];NADH:flavin oxidoreductase / NADH oxidase family [PF00724.25];Pyridine nucleotide-disulphide oxidoreductase [PF00070.32];NAD(P)-binding Rossmann-like domain [PF13450.11];FAD binding domain [PF01494.24];FAD dependent oxidoreductase [PF12831.12];FAD binding domain [PF00890.29];HI0933-like protein Rossmann domain [PF03486.19] (db=pfam)	NA
+941	P32115	MEGAHIT-MetaBAT2-S970.51_contig_6451559_7		rank: E	NA
+942	P32118	MEGAHIT-MetaBAT2-S970.51_contig_6451575_1		rank: C;small subunit ribosomal protein S3 (db=kegg)	K02982
+943	P32122	MEGAHIT-MetaBAT2-S970.51_contig_6451603_2		rank: C;pyruvate, orthophosphate dikinase [EC:2.7.9.1] (db=kegg)	K01006
+944	P32125	MEGAHIT-MetaBAT2-S970.51_contig_6451612_1		rank: E	NA
+945	P32130	MEGAHIT-MetaBAT2-S970.51_contig_6451639_11		rank: C;carbon starvation protein (db=kegg)	K06200
+946	P32133	MEGAHIT-MetaBAT2-S970.51_contig_6451652_3		rank: C;TRAP-type transport system periplasmic protein (db=kegg)	K21395
+947	P32135	MEGAHIT-MetaBAT2-S970.51_contig_6451653_2		rank: C;chaperonin GroEL [EC:5.6.1.7] (db=kegg)	K04077
+948	P32140	MEGAHIT-MetaBAT2-S970.51_contig_6451694_11		rank: C;5'-nucleotidase / UDP-sugar diphosphatase [EC:3.1.3.5 3.6.1.45] (db=kegg)	K11751
+949	P32160	MEGAHIT-MetaBAT2-S971.10_contig_1417421_8		rank: E	NA
+950	P32298	MEGAHIT-MetaBAT2-S972.107_contig_6813948_5		rank: D;Domain of unknown function (DUF4428) [PF14471.11] (db=pfam)	NA
+951	P32340	MEGAHIT-MetaBAT2-S972.40_contig_3573257_10	MEGAHIT-MetaBAT2-S983.160_contig_1010699_5	rank: C;manganese-dependent inorganic pyrophosphatase [EC:3.6.1.1] (db=kegg)	K15986
+952	P32353	MEGAHIT-MetaBAT2-S972.40_contig_3573276_11		rank: C;cysteine desulfurase [EC:2.8.1.7] (db=kegg)	K04487
+953	P32384	MEGAHIT-MetaBAT2-S972.40_contig_3573316_7	MEGAHIT-MetaBAT2-S983.160_contig_1010837_8	rank: E	NA
+954	P32430	MEGAHIT-MetaBAT2-S972.40_contig_3573396_1		rank: D;Dihydroprymidine dehydrogenase domain II, 4Fe-4S cluster [PF14691.11];Pyridine nucleotide-disulphide oxidoreductase [PF07992.19];NAD(P)-binding Rossmann-like domain [PF13450.11];Thi4 family [PF01946.22];Pyridine nucleotide-disulphide oxidoreductase [PF13738.11];Flavin-binding monooxygenase-like [PF00743.24];FAD binding domain [PF01494.24];HI0933-like protein Rossmann domain [PF03486.19];FAD binding domain [PF00890.29];Flavin containing amine oxidoreductase [PF01593.29] (db=pfam)	NA
+955	P32443	MEGAHIT-MetaBAT2-S972.40_contig_3573418_1	MEGAHIT-MetaBAT2-S983.160_contig_1010763_1	rank: E	NA
+956	P32448	MEGAHIT-MetaBAT2-S972.40_contig_3573420_3		rank: C;ribose-phosphate pyrophosphokinase [EC:2.7.6.1] (db=kegg)	K00948
+957	P32490	MEGAHIT-MetaBAT2-S972.40_contig_3573478_2	MEGAHIT-MetaBAT2-S983.160_contig_1010658_11	rank: C;oligopeptide transport system ATP-binding protein (db=kegg)	K10823
+958	P32511	MEGAHIT-MetaBAT2-S972.40_contig_3573513_3		rank: C;serine protease Do [EC:3.4.21.107] (db=kegg)	K04771
+959	P32567	MEGAHIT-MetaBAT2-S972.76_contig_79443_11		rank: C;elongation factor Tu (db=kegg)	K02358
+960	P32619	MEGAHIT-MetaBAT2-S972.76_contig_79661_1		rank: E	NA
+961	P32776	MEGAHIT-MetaBAT2-S973.125_contig_3453289_1		rank: D;DNA polymerase family A [PF00476.25] (db=pfam)	NA
+962	P32919	MEGAHIT-MetaBAT2-S973.125_contig_3453325_18		rank: C;regulatory protein spx (db=kegg)	K16509
+963	P33022	MEGAHIT-MetaBAT2-S973.125_contig_3453356_14		rank: C;osmoprotectant transport system ATP-binding protein [EC:7.6.2.9] (db=kegg)	K05847
+964	P33028	MEGAHIT-MetaBAT2-S973.125_contig_3453360_3		rank: E	NA
+965	P33064	MEGAHIT-MetaBAT2-S973.125_contig_3453381_8		rank: E	NA
+966	P33099	MEGAHIT-MetaBAT2-S973.125_contig_3453383_52		rank: C;small subunit ribosomal protein S7 (db=kegg)	K02992
+967	P33105	MEGAHIT-MetaBAT2-S973.125_contig_3453383_9		rank: C;protein deglycase [EC:3.5.1.124] (db=kegg)	K03152
+968	P33133	MEGAHIT-MetaBAT2-S973.125_contig_3453389_38		rank: C;large subunit ribosomal protein L21 (db=kegg)	K02888
+969	P33288	MEGAHIT-MetaBAT2-S973.204_contig_4943465_36		rank: C;basic membrane protein A and related proteins (db=kegg)	K07335
+970	P33324	MEGAHIT-MetaBAT2-S973.219_contig_4980348_22		rank: C;3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100] (db=kegg)	K00059
+971	P33489	MEGAHIT-MetaBAT2-S973.219_contig_4980472_1		rank: C;2,3-bisphosphoglycerate-independent phosphoglycerate mutase [EC:5.4.2.12] (db=kegg)	K15633
+972	P33661	MEGAHIT-MetaBAT2-S974.62_contig_6914379_4		rank: C;flagellin (db=kegg)	K02406
+973	P33676	MEGAHIT-MetaBAT2-S974.91_contig_4023549_3		rank: C;argininosuccinate synthase [EC:6.3.4.5] (db=kegg)	K01940
+974	P33677	MEGAHIT-MetaBAT2-S974.91_contig_4023550_3		rank: C;TRAP-type transport system periplasmic protein (db=kegg)	K21395
+975	P33700	MEGAHIT-MetaBAT2-S974.91_contig_4023630_1	MEGAHIT-MetaBAT2-S990.184_contig_3097102_6	rank: C;aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B [EC:6.3.5.6 6.3.5.7] (db=kegg)	K02434
+976	P33704	MEGAHIT-MetaBAT2-S974.91_contig_4023637_2		rank: C;phosphoglucomutase [EC:5.4.2.2] (db=kegg)	K01835
+977	P33859	MEGAHIT-MetaBAT2-S975.132_contig_1872189_4		rank: C;CO dehydrogenase maturation factor (db=kegg)	K07321
+978	P33863	MEGAHIT-MetaBAT2-S975.132_contig_1872191_17		rank: C;NADH-quinone oxidoreductase subunit E [EC:7.1.1.2] (db=kegg)	K00334
+979	P33876	MEGAHIT-MetaBAT2-S975.132_contig_1872195_8		rank: C;peptide/nickel transport system substrate-binding protein (db=kegg)	K02035
+980	P33878	MEGAHIT-MetaBAT2-S975.132_contig_1872197_11		rank: C;glucose-1-phosphate adenylyltransferase [EC:2.7.7.27] (db=kegg)	K00975
+981	P33883	MEGAHIT-MetaBAT2-S975.132_contig_1872199_24		rank: C;molecular chaperone HtpG (db=kegg)	K04079
+982	P33898	MEGAHIT-MetaBAT2-S975.132_contig_1872200_19		rank: C;glutamate formiminotransferase / 5-formyltetrahydrofolate cyclo-ligase [EC:2.1.2.5 6.3.3.2] (db=kegg)	K00603
+983	P33915	MEGAHIT-MetaBAT2-S975.132_contig_1872210_28		rank: C;histidine ammonia-lyase [EC:4.3.1.3] (db=kegg)	K01745
+984	P33917	MEGAHIT-MetaBAT2-S975.132_contig_1872210_9		rank: D;Aminopeptidase I zinc metalloprotease (M18) [PF02127.20] (db=pfam)	NA
+985	P33928	MEGAHIT-MetaBAT2-S975.132_contig_1872217_30		rank: D;Binding-protein-dependent transport system inner membrane component [PF00528.27] (db=pfam)	NA
+986	P33967	MEGAHIT-MetaBAT2-S975.132_contig_1872228_52		rank: D;Domain of unknown function (DUF4867) [PF16161.10] (db=pfam)	NA
+987	P33986	MEGAHIT-MetaBAT2-S975.132_contig_1872231_46		rank: C;preprotein translocase subunit SecA [EC:7.4.2.8] (db=kegg)	K03070
+988	P33993	MEGAHIT-MetaBAT2-S975.132_contig_1872231_7		rank: C;multiple sugar transport system substrate-binding protein (db=kegg)	K02027
+989	P34001	MEGAHIT-MetaBAT2-S975.132_contig_1872232_2		rank: C;acetyl-CoA decarbonylase/synthase, CODH/ACS complex subunit delta [EC:2.1.1.245] (db=kegg)	K00194
+990	P34008	MEGAHIT-MetaBAT2-S975.132_contig_1872232_7		rank: C;methenyltetrahydrofolate cyclohydrolase [EC:3.5.4.9] (db=kegg)	K01500
+991	P34030	MEGAHIT-MetaBAT2-S975.132_contig_1872238_76		rank: D;Glycoside hydrolase 120, insertion domain [PF21258.2] (db=pfam)	NA
+992	P34051	MEGAHIT-MetaBAT2-S975.132_contig_1872249_27		rank: D;Aminopeptidase I zinc metalloprotease (M18) [PF02127.20] (db=pfam)	NA
+993	P34078	MEGAHIT-MetaBAT2-S975.132_contig_1872252_14		rank: C;threonine dehydratase [EC:4.3.1.19] (db=kegg)	K01754
+994	P34120	MEGAHIT-MetaBAT2-S975.132_contig_1872264_7		rank: D;FGGY family of carbohydrate kinases, N-terminal domain [PF00370.26] (db=pfam)	NA
+995	P34143	MEGAHIT-MetaBAT2-S975.132_contig_1872272_44		rank: D;Alpha amylase, catalytic domain [PF00128.29] (db=pfam)	NA
+996	P34151	MEGAHIT-MetaBAT2-S975.132_contig_1872272_9		rank: C;large subunit ribosomal protein L31 (db=kegg)	K02909
+997	P34154	MEGAHIT-MetaBAT2-S975.132_contig_1872272_95		rank: C;carbamoyl-phosphate synthase large subunit [EC:6.3.5.5] (db=kegg)	K01955
+998	P34156	MEGAHIT-MetaBAT2-S975.132_contig_1872274_12		rank: D;4Fe-4S dicluster domain [PF13247.11];4Fe-4S dicluster domain [PF14697.11];4Fe-4S dicluster domain [PF12838.12];4Fe-4S dicluster domain [PF13237.11];4Fe-4S dicluster domain [PF13187.11];4Fe-4S dicluster domain [PF13183.11];4Fe-4S dicluster domain [PF13534.11];4Fe-4S double cluster binding domain [PF13484.11];NADH-quinone oxidoreductase subunit 3, ferredoxin-like domain [PF22117.1];Furin-like cysteine rich region [PF00757.25];4Fe-4S binding domain [PF12837.12];4Fe-4S binding domain [PF00037.32] (db=pfam)	NA
+999	P34164	MEGAHIT-MetaBAT2-S975.132_contig_1872278_22		rank: C;molecular chaperone DnaK (db=kegg)	K04043
+1000	P34171	MEGAHIT-MetaBAT2-S975.132_contig_1872280_67		rank: C;glutamate synthase (NADPH) small chain [EC:1.4.1.13] (db=kegg)	K00266
+1001	P34179	MEGAHIT-MetaBAT2-S975.132_contig_1872280_99		rank: C;elongation factor G (db=kegg)	K02355
+1002	P34185	MEGAHIT-MetaBAT2-S975.132_contig_1872281_8		rank: C;V/A-type H+/Na+-transporting ATPase subunit C (db=kegg)	K02119
+1003	P34218	MEGAHIT-MetaBAT2-S975.14_contig_3657762_15		rank: C;small subunit ribosomal protein S1 (db=kegg)	K02945
+1004	P34295	MEGAHIT-MetaBAT2-S976.157_contig_1828843_1	MEGAHIT-MetaBAT2-S976.157_contig_1829085_1	rank: C;glycoside/pentoside/hexuronide:cation symporter, GPH family (db=kegg)	K03292
+1005	P34320	MEGAHIT-MetaBAT2-S976.157_contig_1829100_2		rank: C;F-type H+-transporting ATPase subunit c (db=kegg)	K02110
+1006	P34334	MEGAHIT-MetaBAT2-S976.24_contig_3668473_14		rank: E	NA
+1007	P34346	MEGAHIT-MetaBAT2-S976.24_contig_3668529_4		rank: C;large subunit ribosomal protein L6 (db=kegg)	K02933
+1008	P34440	MEGAHIT-MetaBAT2-S976.28_contig_4500878_1		rank: D;Hsp70 protein [PF00012.25];MreB/Mbl protein [PF06723.18];Cell division protein FtsA [PF14450.11] (db=pfam)	NA
+1009	P34659	MEGAHIT-MetaBAT2-S976.28_contig_4500958_5		rank: C;type IV pilus assembly protein PilC (db=kegg)	K02653
+1010	P34676	MEGAHIT-MetaBAT2-S976.28_contig_4500970_6		rank: E	NA
+1011	P34857	MEGAHIT-MetaBAT2-S976.28_contig_4501068_3		rank: C;acetaldehyde dehydrogenase / alcohol dehydrogenase [EC:1.2.1.10 1.1.1.1] (db=kegg)	K04072
+1012	P34972	MEGAHIT-MetaBAT2-S978.150_contig_345407_8		rank: D;Procyclic acidic repetitive protein (PARP) [PF05887.16] (db=pfam)	NA
+1013	P35057	MEGAHIT-MetaBAT2-S978.150_contig_345489_20		rank: D;Pyruvate flavodoxin/ferredoxin oxidoreductase, thiamine diP-bdg [PF01855.24] (db=pfam)	NA
+1014	P35071	MEGAHIT-MetaBAT2-S978.150_contig_345496_4		rank: C;D-amino peptidase [EC:3.4.11.-] (db=kegg)	K16203
+1015	P35117	MEGAHIT-MetaBAT2-S978.150_contig_345554_19		rank: C;modulator of FtsH protease HflK (db=kegg)	K04088
+1016	P35128	MEGAHIT-MetaBAT2-S978.150_contig_345561_8		rank: C;polyribonucleotide nucleotidyltransferase [EC:2.7.7.8] (db=kegg)	K00962
+1017	P35163	MEGAHIT-MetaBAT2-S978.92_contig_4052656_4		rank: C;2-aminoadipate transaminase [EC:2.6.1.-] (db=kegg)	K05825
+1018	P35197	MEGAHIT-MetaBAT2-S979.51_contig_4518092_6		rank: C;acetate kinase [EC:2.7.2.1] (db=kegg)	K00925
+1019	P35232	MEGAHIT-MetaBAT2-S979.62_contig_5177256_24		rank: C;cell division protein FtsZ (db=kegg)	K03531
+1020	P35325	MEGAHIT-MetaBAT2-S979.94_contig_4634300_1		rank: D;Aldehyde dehydrogenase family [PF00171.27] (db=pfam)	NA
+1021	P35341	MEGAHIT-MetaBAT2-S979.94_contig_4634325_41		rank: C;alanyl-tRNA synthetase [EC:6.1.1.7] (db=kegg)	K01872
+1022	P35350	MEGAHIT-MetaBAT2-S979.94_contig_4634333_8		rank: D;Iron-sulfur cluster binding domain of dihydroorotate dehydrogenase B [PF10418.14];Oxidoreductase NAD-binding domain [PF00175.26];Oxidoreductase FAD-binding domain [PF00970.29] (db=pfam)	NA
+1023	P35399	MEGAHIT-MetaBAT2-S979.94_contig_4634376_31		rank: C;F-type H+-transporting ATPase subunit delta (db=kegg)	K02113
+1024	P35404	MEGAHIT-MetaBAT2-S979.94_contig_4634382_39		rank: C;repressor LexA [EC:3.4.21.88] (db=kegg)	K01356
+1025	P35410	MEGAHIT-MetaBAT2-S979.94_contig_4634398_8		rank: C;elongation factor G (db=kegg)	K02355
+1026	P35457	MEGAHIT-MetaBAT2-S980.126_contig_5316289_13		rank: C;uncharacterized protein (db=kegg)	K07080
+1027	P35480	MEGAHIT-MetaBAT2-S980.38_contig_100528_5		rank: E	NA
+1028	P35495	MEGAHIT-MetaBAT2-S980.38_contig_100578_1		rank: C;basic membrane protein A and related proteins (db=kegg)	K07335
+1029	P35648	MEGAHIT-MetaBAT2-S981.125_contig_5192604_8		rank: D;Dockerin type I domain [PF00404.23] (db=pfam)	NA
+1030	P35765	MEGAHIT-MetaBAT2-S981.125_contig_5192663_7		rank: C;small subunit ribosomal protein S2 (db=kegg)	K02967
+1031	P35778	MEGAHIT-MetaBAT2-S981.125_contig_5192675_13		rank: C;biopolymer transport protein ExbD (db=kegg)	K03559
+1032	P35848	MEGAHIT-MetaBAT2-S981.154_contig_1630147_1		rank: C;cysteinyl-tRNA synthetase [EC:6.1.1.16] (db=kegg)	K01883
+1033	P35907	MEGAHIT-MetaBAT2-S981.154_contig_1630220_6		rank: C;mannan endo-1,4-beta-mannosidase [EC:3.2.1.78] (db=kegg)	K01218
+1034	P35976	MEGAHIT-MetaBAT2-S981.154_contig_1630337_6		rank: D;Alpha amylase, catalytic domain [PF00128.29];Maltogenic Amylase, C-terminal domain [PF16657.10] (db=pfam)	NA
+1035	P36034	MEGAHIT-MetaBAT2-S981.154_contig_1630417_4		rank: C;starch-binding outer membrane protein, SusD/RagB family (db=kegg)	K21572
+1036	P36193	MEGAHIT-MetaBAT2-S983.160_contig_1010636_5		rank: C;large subunit ribosomal protein L18 (db=kegg)	K02881
+1037	P36202	MEGAHIT-MetaBAT2-S983.160_contig_1010654_4		rank: C;cellobiose phosphorylase [EC:2.4.1.20] (db=kegg)	K00702
+1038	P36242	MEGAHIT-MetaBAT2-S983.160_contig_1010748_6		rank: C;cell division transport system ATP-binding protein (db=kegg)	K09812
+1039	P36262	MEGAHIT-MetaBAT2-S983.160_contig_1010798_3		rank: C;spoIIIJ-associated protein (db=kegg)	K06346
+1040	P36265	MEGAHIT-MetaBAT2-S983.160_contig_1010823_3		rank: D;Pyridine nucleotide-disulphide oxidoreductase [PF07992.19];Pyridine nucleotide-disulphide oxidoreductase, dimerisation domain [PF02852.27];Pyridine nucleotide-disulphide oxidoreductase [PF00070.32];Nitrite/Sulfite reductase ferredoxin-like half domain [PF03460.22];Pyridine nucleotide-disulphide oxidoreductase [PF13738.11] (db=pfam)	NA
+1041	P36283	MEGAHIT-MetaBAT2-S983.160_contig_1010864_9		rank: D;Asp23 family, cell envelope-related function [PF03780.18] (db=pfam)	NA
+1042	P36336	MEGAHIT-MetaBAT2-S983.173_contig_59653_1		rank: D;Enoyl-CoA hydratase/isomerase [PF00378.25];Enoyl-CoA hydratase/isomerase [PF16113.10] (db=pfam)	NA
+1043	P36342	MEGAHIT-MetaBAT2-S983.173_contig_59661_1		rank: C;large subunit ribosomal protein L21 (db=kegg)	K02888
+1044	P36349	MEGAHIT-MetaBAT2-S983.173_contig_59678_5		rank: C;N-acetylglucosamine-6-phosphate deacetylase [EC:3.5.1.25] (db=kegg)	K01443
+1045	P36357	MEGAHIT-MetaBAT2-S983.173_contig_59728_3		rank: C;small subunit ribosomal protein S6 (db=kegg)	K02990
+1046	P36385	MEGAHIT-MetaBAT2-S983.173_contig_59859_6		rank: C;N-acetylneuraminate lyase [EC:4.1.3.3] (db=kegg)	K01639
+1047	P36419	MEGAHIT-MetaBAT2-S983.18_contig_3492589_6		rank: C;glycine hydroxymethyltransferase [EC:2.1.2.1] (db=kegg)	K00600
+1048	P36461	MEGAHIT-MetaBAT2-S983.33_contig_5576707_1		rank: C;two-component system, response regulator, stage 0 sporulation protein A (db=kegg)	K07699
+1049	P36509	MEGAHIT-MetaBAT2-S983.51_contig_6227230_37		rank: C;DNA-directed RNA polymerase subunit alpha [EC:2.7.7.6] (db=kegg)	K03040
+1050	P36656	MEGAHIT-MetaBAT2-S983.51_contig_6227307_7		rank: C;3-dehydro-L-gulonate-6-phosphate decarboxylase [EC:4.1.1.85] (db=kegg)	K03078
+1051	P36659	MEGAHIT-MetaBAT2-S983.51_contig_6227308_37		rank: C;acetate kinase [EC:2.7.2.1] (db=kegg)	K00925
+1052	P36681	MEGAHIT-MetaBAT2-S983.51_contig_6227317_15		rank: C;cell division protein FtsZ (db=kegg)	K03531
+1053	P36760	MEGAHIT-MetaBAT2-S984.21_contig_1685716_3		rank: C;2-dehydro-3-deoxygluconokinase [EC:2.7.1.45] (db=kegg)	K00874
+1054	P36867	MEGAHIT-MetaBAT2-S985.24_contig_3740382_6		rank: C;large subunit ribosomal protein L17 (db=kegg)	K02879
+1055	P36915	MEGAHIT-MetaBAT2-S985.24_contig_3740546_1		rank: C;glutamine synthetase [EC:6.3.1.2] (db=kegg)	K01915
+1056	P36951	MEGAHIT-MetaBAT2-S985.50_contig_2308581_5		rank: C;small subunit ribosomal protein S6 (db=kegg)	K02990
+1057	P37012	MEGAHIT-MetaBAT2-S985.50_contig_2308663_4		rank: C;TonB-dependent starch-binding outer membrane protein SusC (db=kegg)	K21573
+1058	P37020	MEGAHIT-MetaBAT2-S985.50_contig_2308666_5		rank: C;iron complex outermembrane recepter protein (db=kegg)	K02014
+1059	P37083	MEGAHIT-MetaBAT2-S985.50_contig_2308753_2		rank: D;Fasciclin domain [PF02469.27] (db=pfam)	NA
+1060	P37143	MEGAHIT-MetaBAT2-S985.50_contig_2308809_3		rank: D;Glycosyl transferases group 1 [PF00534.25];Glycosyl transferases group 1 [PF13692.11];Family 4 Glycosyltransferase in conflict systems [PF20706.2];Starch synthase catalytic domain [PF08323.16];Glycosyl transferase 4-like domain [PF13579.11];Glycosyltransferase Family 4 [PF13439.11] (db=pfam)	NA
+1061	P37223	MEGAHIT-MetaBAT2-S985.50_contig_2308872_23		rank: C;large subunit ribosomal protein L16 (db=kegg)	K02878
+1062	P37322	MEGAHIT-MetaBAT2-S986.109_contig_4845808_9		rank: E	NA
+1063	P37334	MEGAHIT-MetaBAT2-S986.109_contig_4845840_5		rank: E	NA
+1064	P37352	MEGAHIT-MetaBAT2-S986.109_contig_4845943_2		rank: D;Glycosyl hydrolase 109, C-terminal domain [PF21252.2];Oxidoreductase family, NAD-binding Rossmann fold [PF01408.27];Homoserine dehydrogenase, NAD binding domain [PF03447.21] (db=pfam)	NA
+1065	P37393	MEGAHIT-MetaBAT2-S986.50_contig_2775521_17		rank: D;SPFH domain-Band 7 family [PF13421.11];Double zinc ribbon [PF12773.12] (db=pfam)	NA
+1066	P37421	MEGAHIT-MetaBAT2-S986.50_contig_2775640_3		rank: C;ATP-dependent helicase/nuclease subunit A [EC:5.6.2.4 3.1.-.-] (db=kegg)	K16898
+1067	P37488	MEGAHIT-MetaBAT2-S986.76_contig_2124249_8		rank: D;Pyridine nucleotide-disulphide oxidoreductase [PF07992.19];Nitrite and sulphite reductase 4Fe-4S domain [PF01077.27];Pyridine nucleotide-disulphide oxidoreductase, dimerisation domain [PF02852.27];Pyridine nucleotide-disulphide oxidoreductase [PF00070.32];4Fe-4S dicluster domain [PF14697.11];4Fe-4S dicluster domain [PF13237.11];4Fe-4S dicluster domain [PF12838.12];Nitrite/Sulfite reductase ferredoxin-like half domain [PF03460.22];4Fe-4S dicluster domain [PF13187.11];4Fe-4S binding domain [PF12837.12];4Fe-4S dicluster domain [PF13247.11] (db=pfam)	NA
+1068	P37517	MEGAHIT-MetaBAT2-S986.76_contig_2124340_4		rank: D;Binding-protein-dependent transport system inner membrane component [PF00528.27] (db=pfam)	NA
+1069	P37557	MEGAHIT-MetaBAT2-S986.76_contig_2124460_3		rank: C;formate dehydrogenase (NADP+) alpha subunit [EC:1.17.1.10] (db=kegg)	K05299
+1070	P37566	MEGAHIT-MetaBAT2-S986.76_contig_2124469_5		rank: C;large subunit ribosomal protein L17 (db=kegg)	K02879
+1071	P37601	MEGAHIT-MetaBAT2-S986.81_contig_6642161_1		rank: D;Glyceraldehyde 3-phosphate dehydrogenase, NAD binding domain [PF00044.29] (db=pfam)	NA
+1072	P37620	MEGAHIT-MetaBAT2-S986.81_contig_6642368_4		rank: C;glutaconyl-CoA/methylmalonyl-CoA decarboxylase subunit delta (db=kegg)	K23352
+1073	P37634	MEGAHIT-MetaBAT2-S986.81_contig_6642526_1		rank: C;DNA-directed RNA polymerase subunit beta' [EC:2.7.7.6] (db=kegg)	K03046
+1074	P37652	MEGAHIT-MetaBAT2-S987.11_contig_5769920_3		rank: E	NA
+1075	P37662	MEGAHIT-MetaBAT2-S987.11_contig_5770062_2		rank: E	NA
+1076	P37666	MEGAHIT-MetaBAT2-S987.11_contig_5770102_7		rank: C;electron transfer flavoprotein beta subunit (db=kegg)	K03521
+1077	P37690	MEGAHIT-MetaBAT2-S987.67_contig_6241563_3		rank: C;molecular chaperone DnaK (db=kegg)	K04043
+1078	P37711	MEGAHIT-MetaBAT2-S988.167_contig_4499220_78		rank: C;oligopeptide transport system substrate-binding protein (db=kegg)	K15580
+1079	P37733	MEGAHIT-MetaBAT2-S988.179_contig_98862_10		rank: C;large subunit ribosomal protein L19 (db=kegg)	K02884
+1080	P37753	MEGAHIT-MetaBAT2-S988.179_contig_98914_3		rank: C;phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49] (db=kegg)	K01610
+1081	P37926	MEGAHIT-MetaBAT2-S990.131_contig_6877020_27		rank: C;triosephosphate isomerase (TIM) [EC:5.3.1.1] (db=kegg)	K01803
+1082	P38008	MEGAHIT-MetaBAT2-S990.131_contig_6877137_2		rank: C;small subunit ribosomal protein S3 (db=kegg)	K02982
+1083	P38016	MEGAHIT-MetaBAT2-S990.131_contig_6877140_15		rank: C;TonB-dependent starch-binding outer membrane protein SusC (db=kegg)	K21573
+1084	P38070	MEGAHIT-MetaBAT2-S990.160_contig_1970071_17		rank: E	NA
+1085	P38128	MEGAHIT-MetaBAT2-S990.184_contig_3096957_4		rank: C;flagellin (db=kegg)	K02406
+1086	P38160	MEGAHIT-MetaBAT2-S992.171_contig_6791446_5		rank: E	NA
+1087	P38203	MEGAHIT-MetaBAT2-S992.171_contig_6791539_3		rank: C;Na+-transporting NADH:ubiquinone oxidoreductase subunit A [EC:7.2.1.1] (db=kegg)	K00346
+1088	P38234	MEGAHIT-MetaBAT2-S992.171_contig_6791585_12		rank: C;zinc protease [EC:3.4.24.-] (db=kegg)	K07263
+1089	P38252	MEGAHIT-MetaBAT2-S992.171_contig_6791627_3		rank: C;TonB-dependent starch-binding outer membrane protein SusC (db=kegg)	K21573
+1090	P38262	MEGAHIT-MetaBAT2-S992.171_contig_6791651_5		rank: D;Peptidase family M3 [PF01432.25];Neurolysin/Thimet oligopeptidase, N-terminal domain [PF19310.4] (db=pfam)	NA
+1091	P38273	MEGAHIT-MetaBAT2-S992.171_contig_6791705_4		rank: C;succinate dehydrogenase iron-sulfur subunit [EC:1.3.5.1] (db=kegg)	K00240
+1092	P38306	MEGAHIT-MetaBAT2-S993.109_contig_3807139_2		rank: C;twitching motility protein PilT (db=kegg)	K02669
+1093	P38383	MEGAHIT-MetaBAT2-S993.109_contig_3807242_18		rank: C;cellobiose transport system substrate-binding protein (db=kegg)	K10240
+1094	P38470	MEGAHIT-MetaBAT2-S993.160_contig_3109615_3		rank: C;acetyl-CoA decarbonylase/synthase, CODH/ACS complex subunit delta [EC:2.1.1.245] (db=kegg)	K00194
+1095	P38594	MEGAHIT-MetaBAT2-S993.96_contig_3638033_8		rank: C;arabinogalactan oligomer / maltooligosaccharide transport system substrate-binding protein (db=kegg)	K15770
+1096	P38595	MEGAHIT-MetaBAT2-S993.96_contig_3638036_15		rank: C;flagellar hook protein FlgE (db=kegg)	K02390
+1097	P38598	MEGAHIT-MetaBAT2-S993.96_contig_3638039_2		rank: E	NA
+1098	P38607	MEGAHIT-MetaBAT2-S993.96_contig_3638073_1		rank: C;twitching motility protein PilT (db=kegg)	K02669
+1099	P38615	MEGAHIT-MetaBAT2-S993.96_contig_3638077_13		rank: D;Mitochondrial biogenesis AIM24 [PF01987.22] (db=pfam)	NA
+1100	P38697	MEGAHIT-MetaBAT2-S993.96_contig_3638218_5		rank: C;protein tyrosine kinase modulator (db=kegg)	K19420
+1101	P38717	MEGAHIT-MetaBAT2-S993.96_contig_3638291_3		rank: E	NA
+1102	P38736	group10_bins.149_contig_6234281_4		rank: D;Protein export membrane protein [PF02355.21];SecDF, P1 head subdomain [PF22599.1];Protein translocase subunit SecDF, P1 domain, N-terminal [PF21760.2] (db=pfam)	NA
+1103	P38765	group10_bins.221_contig_2782044_25		rank: C;glyceraldehyde 3-phosphate dehydrogenase (phosphorylating) [EC:1.2.1.12] (db=kegg)	K00134
+1104	P38840	group10_bins.399_contig_660967_18		rank: C;2-oxoisovalerate dehydrogenase E1 component [EC:1.2.4.4] (db=kegg)	K11381
+1105	P38896	group10_bins.56_contig_5599007_5		rank: C;elongation factor G (db=kegg)	K02355
+1106	P38919	group10_bins.56_contig_5599054_3		rank: C;glyceraldehyde 3-phosphate dehydrogenase (phosphorylating) [EC:1.2.1.12] (db=kegg)	K00134
+1107	P38937	group10_bins.56_contig_5599121_1		rank: D;Amino acid kinase family [PF00696.33] (db=pfam)	NA
+1108	P38957	group10_bins.7_contig_56973_16		rank: C;NADH-quinone oxidoreductase subunit C/D [EC:7.1.1.2] (db=kegg)	K13378
+1109	P39097	group3_bins.134_contig_161077_22		rank: C;small subunit ribosomal protein S1 (db=kegg)	K02945
+1110	P39126	group3_bins.134_contig_161128_3		rank: C;butyryl-CoA dehydrogenase [EC:1.3.8.1] (db=kegg)	K00248
+1111	P39153	group3_bins.134_contig_161147_6		rank: D;Bacterial Ig-like domain [PF22359.1];Bacterial Ig-like domain (group 2) [PF02368.23] (db=pfam)	NA
+1112	P39217	group3_bins.177_contig_6869371_13		rank: D;Peptidase family M3 [PF01432.25];Neurolysin/Thimet oligopeptidase, N-terminal domain [PF19310.4] (db=pfam)	NA
+1113	P39315	group3_bins.177_contig_6869458_1		rank: C;general secretion pathway protein G (db=kegg)	K02456
+1114	P39329	group3_bins.177_contig_6869479_23		rank: C;large subunit ribosomal protein L22 (db=kegg)	K02890
+1115	P39397	group3_bins.182_contig_6916409_19		rank: D;SPFH domain / Band 7 family [PF01145.30] (db=pfam)	NA
+1116	P39455	group3_bins.182_contig_6916607_3		rank: D;Surface antigen variable number repeat [PF07244.20];Omp85 superfamily domain [PF01103.28] (db=pfam)	NA
+1117	P39472	group3_bins.183_contig_1475931_28		rank: D;Tryptophan transporter TrpP [PF17099.10] (db=pfam)	NA
+1118	P39481	group3_bins.183_contig_1475971_14		rank: C;putative multiple sugar transport system substrate-binding protein (db=kegg)	K10546
+1119	P39493	group3_bins.183_contig_1476011_2		rank: D;Glyceraldehyde 3-phosphate dehydrogenase, C-terminal domain [PF02800.25];Glyceraldehyde 3-phosphate dehydrogenase, NAD binding domain [PF00044.29] (db=pfam)	NA
+1120	P39517	group3_bins.187_contig_1930163_21		rank: C;tagaturonate reductase [EC:1.1.1.58] (db=kegg)	K00041
+1121	P39571	group3_bins.202_contig_5016212_1		rank: D;Elongation factor Tu GTP binding domain [PF00009.32] (db=pfam)	NA
+1122	P39577	group3_bins.202_contig_5016217_5		rank: C;F-type H+-transporting ATPase subunit b (db=kegg)	K02109
+1123	P39593	group3_bins.202_contig_5016270_12		rank: C;large subunit ribosomal protein L23 (db=kegg)	K02892
+1124	P39594	group3_bins.202_contig_5016270_13		rank: C;large subunit ribosomal protein L4 (db=kegg)	K02926
+1125	P39596	group3_bins.202_contig_5016270_15		rank: C;small subunit ribosomal protein S10 (db=kegg)	K02946
+1126	P39608	group3_bins.202_contig_5016312_2		rank: D;Universal stress protein family [PF00582.31] (db=pfam)	NA
+1127	P39609	group3_bins.202_contig_5016315_1		rank: C;ketol-acid reductoisomerase [EC:1.1.1.86] (db=kegg)	K00053
+1128	P39610	group3_bins.202_contig_5016320_1		rank: D;Iron-containing alcohol dehydrogenase [PF00465.24];Iron-containing alcohol dehydrogenase [PF13685.11] (db=pfam)	NA
+1129	P39613	group3_bins.202_contig_5016329_3		rank: E	NA
+1130	P39623	group3_bins.202_contig_5016360_7		rank: D;Molybdopterin oxidoreductase [PF00384.27];Molydopterin dinucleotide binding domain [PF01568.26] (db=pfam)	NA
+1131	P39637	group3_bins.202_contig_5016390_2		rank: C;enolase 1/2/3 [EC:4.2.1.11] (db=kegg)	K01689
+1132	P39638	group3_bins.202_contig_5016396_1		rank: C;aldehyde oxidoreductase [EC:1.2.99.7] (db=kegg)	K07469
+1133	P39655	group3_bins.202_contig_5016441_11		rank: C;thioredoxin-dependent peroxiredoxin [EC:1.11.1.24] (db=kegg)	K11065
+1134	P39669	group3_bins.202_contig_5016509_7		rank: E	NA
+1135	P39676	group3_bins.202_contig_5016533_5		rank: C;chaperonin GroEL [EC:5.6.1.7] (db=kegg)	K04077
+1136	P39694	group3_bins.206_contig_3806427_9		rank: C;chaperonin GroEL [EC:5.6.1.7] (db=kegg)	K04077
+1137	P39704	group3_bins.223_contig_636534_27		rank: D;Transketolase, pyrimidine binding domain [PF02779.29];Transketolase, C-terminal domain [PF02780.25] (db=pfam)	NA
+1138	P39742	group3_bins.292_contig_3684817_1		rank: C;oleate hydratase [EC:4.2.1.53] (db=kegg)	K10254
+1139	P39807	group3_bins.358_contig_4097527_15		rank: C;putrescine aminotransferase [EC:2.6.1.82] (db=kegg)	K09251
+1140	P39811	group3_bins.358_contig_4097553_15		rank: C;butyryl-CoA dehydrogenase [EC:1.3.8.1] (db=kegg)	K00248
+1141	P39818	group3_bins.371_contig_3970342_10		rank: C;multiple sugar transport system ATP-binding protein [EC:7.5.2.-] (db=kegg)	K10112
+1142	P39820	group3_bins.371_contig_3970344_62		rank: E	NA
+1143	P39860	group3_bins.377_contig_6042144_2		rank: D;Carboxypeptidase regulatory-like domain [PF13620.11];CarboxypepD_reg-like domain [PF13715.11] (db=pfam)	NA
+1144	P39868	group3_bins.377_contig_6042162_19		rank: C;TonB-dependent starch-binding outer membrane protein SusC (db=kegg)	K21573
+1145	P39903	group4_bins.141_contig_3115264_12		rank: C;uncharacterized protein (db=kegg)	K09157
+1146	P39907	group4_bins.141_contig_3115269_4		rank: C;transcription termination/antitermination protein NusA (db=kegg)	K02600
+1147	P39910	group4_bins.141_contig_3115272_3		rank: D;Bacterial extracellular solute-binding protein [PF01547.30] (db=pfam)	NA
+1148	P39951	group4_bins.141_contig_3115319_7		rank: C;methyl-galactoside transport system substrate-binding protein (db=kegg)	K10540
+1149	P39952	group4_bins.141_contig_3115319_8		rank: C;methyl-galactoside transport system ATP-binding protein [EC:7.5.2.11] (db=kegg)	K10542
+1150	P39955	group4_bins.141_contig_3115322_1		rank: D;Galactokinase galactose-binding signature [PF10509.14];GHMP kinases N terminal domain [PF00288.31] (db=pfam)	NA
+1151	P39965	group4_bins.141_contig_3115333_2		rank: C;carbohydrate diacid regulator (db=kegg)	K02647
+1152	P39978	group4_bins.141_contig_3115349_5		rank: D;Carbon starvation protein CstA [PF02554.19] (db=pfam)	NA
+1153	P39979	group4_bins.141_contig_3115351_1		rank: C;acetate kinase [EC:2.7.2.1] (db=kegg)	K00925
+1154	P39990	group4_bins.141_contig_3115360_10		rank: D;Ricin-type beta-trefoil lectin domain-like [PF14200.11] (db=pfam)	NA
+1155	P40003	group4_bins.141_contig_3115372_1		rank: C;DNA-directed RNA polymerase subunit beta' [EC:2.7.7.6] (db=kegg)	K03046
+1156	P40025	group4_bins.141_contig_3115394_7		rank: C;branched-chain amino acid transport system substrate-binding protein (db=kegg)	K01999
+1157	P40032	group4_bins.141_contig_3115399_19	group9_bins.348_contig_6928411_39	rank: C;large subunit ribosomal protein L4 (db=kegg)	K02926
+1158	P40059	group4_bins.141_contig_3115441_7		rank: C;cysteinyl-tRNA synthetase [EC:6.1.1.16] (db=kegg)	K01883
+1159	P40069	group4_bins.141_contig_3115462_7		rank: C;DNA-binding protein HU-beta (db=kegg)	K03530
+1160	P40073	group4_bins.141_contig_3115467_3		rank: C;H+/Na+-translocating ferredoxin:NAD+ oxidoreductase subunit G (db=kegg)	K03612
+1161	P40074	group4_bins.141_contig_3115468_1		rank: E	NA
+1162	P40168	group4_bins.196_contig_1703529_2		rank: C;starch-binding outer membrane protein, SusD/RagB family (db=kegg)	K21572
+1163	P40169	group4_bins.196_contig_1703529_3		rank: C;TonB-dependent starch-binding outer membrane protein SusC (db=kegg)	K21573
+1164	P40186	group4_bins.25_contig_1062482_1		rank: C;threonyl-tRNA synthetase [EC:6.1.1.3] (db=kegg)	K01868
+1165	P40211	group4_bins.25_contig_1062492_28		rank: C;heat shock protein HslJ (db=kegg)	K03668
+1166	P40233	group4_bins.25_contig_1062506_4		rank: C;large subunit ribosomal protein L20 (db=kegg)	K02887
+1167	P40270	group4_bins.25_contig_1062523_15		rank: C;rubrerythrin (db=kegg)	K19824
+1168	P40305	group4_bins.25_contig_1062537_5		rank: C;starch-binding outer membrane protein, SusD/RagB family (db=kegg)	K21572
+1169	P40306	group4_bins.25_contig_1062537_6		rank: D;Domain of unknown function (DUF4957) [PF16318.10];Domain of unknown function (DUF5123) [PF17161.9] (db=pfam)	NA
+1170	P40313	group4_bins.25_contig_1062542_7		rank: D;Outer membrane protein beta-barrel domain [PF13568.11] (db=pfam)	NA
+1171	P40326	group4_bins.25_contig_1062553_23		rank: D;Inner membrane component of T3SS, cytoplasmic domain [PF16697.10];FHA domain [PF00498.31] (db=pfam)	NA
+1172	P40341	group4_bins.25_contig_1062563_2		rank: D;Domain of unknown function [PF16377.10];Domain of unknown function (DUF4302) [PF14135.11] (db=pfam)	NA
+1173	P40361	group4_bins.25_contig_1062582_1		rank: C;asparaginyl-tRNA synthetase [EC:6.1.1.22] (db=kegg)	K01893
+1174	P40421	group4_bins.261_contig_4368614_11		rank: C;UDP-glucose 4-epimerase [EC:5.1.3.2] (db=kegg)	K01784
+1175	P40445	group4_bins.272_contig_5364593_25		rank: C;NADH oxidase (H2O-forming) [EC:1.6.3.4] (db=kegg)	K22405
+1176	P40493	group4_bins.47_contig_5578107_17		rank: C;LemA protein (db=kegg)	K03744
+1177	P40570	group4_bins.47_contig_5578234_18		rank: C;alpha-amylase [EC:3.2.1.1] (db=kegg)	K07405
+1178	P40587	group4_bins.47_contig_5578261_3		rank: C;TonB-dependent starch-binding outer membrane protein SusC (db=kegg)	K21573
+1179	P40643	group6_bins.106_contig_5179501_3		rank: D;Glutamate/Leucine/Phenylalanine/Valine dehydrogenase [PF00208.26];Glu/Leu/Phe/Val dehydrogenase, dimerisation domain [PF02812.23] (db=pfam)	NA
+1180	P40644	group6_bins.106_contig_5179502_11		rank: E	NA
+1181	P40658	group6_bins.106_contig_5179528_7		rank: E	NA
+1182	P40675	group6_bins.106_contig_5179534_2		rank: C;pyruvate-ferredoxin/flavodoxin oxidoreductase [EC:1.2.7.1 1.2.7.-] (db=kegg)	K03737
+1183	P40698	group6_bins.106_contig_5179569_6		rank: E	NA
+1184	P40700	group6_bins.106_contig_5179570_2		rank: C;tellurium resistance protein TerD (db=kegg)	K05795
+1185	P40712	group6_bins.106_contig_5179594_9		rank: C;uncharacterized protein (db=kegg)	K09797
+1186	P40724	group6_bins.106_contig_5179601_8		rank: C;protein dithiol oxidoreductase (disulfide-forming) [EC:1.8.4.15] (db=kegg)	K03673
+1187	P40731	group6_bins.106_contig_5179610_20		rank: E	NA
+1188	P40734	group6_bins.106_contig_5179618_3		rank: D;Dihydroprymidine dehydrogenase domain II, 4Fe-4S cluster [PF14691.11];Pyridine nucleotide-disulphide oxidoreductase [PF07992.19];Pyridine nucleotide-disulphide oxidoreductase [PF13738.11];NAD(P)-binding Rossmann-like domain [PF13450.11];FAD binding domain [PF00890.29] (db=pfam)	NA
+1189	P40735	group6_bins.106_contig_5179619_26		rank: E	NA
+1190	P40742	group6_bins.106_contig_5179633_3		rank: E	NA
+1191	P40766	group6_bins.106_contig_5179656_22		rank: D;5'-nucleotidase, C-terminal domain [PF02872.23] (db=pfam)	NA
+1192	P40805	group6_bins.237_contig_5427476_9		rank: E	NA
+1193	P40816	group6_bins.257_contig_3848345_12		rank: C;pyruvate ferredoxin oxidoreductase alpha subunit [EC:1.2.7.1] (db=kegg)	K00169
+1194	P40864	group6_bins.257_contig_3848374_37		rank: E	NA
+1195	P40909	group6_bins.257_contig_3848409_10		rank: C;branched-chain amino acid aminotransferase [EC:2.6.1.42] (db=kegg)	K00826
+1196	P41003	group6_bins.304_contig_2563977_10		rank: C;putative aldouronate transport system permease protein (db=kegg)	K17320
+1197	P41024	group6_bins.304_contig_2563992_24		rank: C;phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49] (db=kegg)	K01610
+1198	P41029	group6_bins.304_contig_2563996_114		rank: C;methyl-galactoside transport system substrate-binding protein (db=kegg)	K10540
+1199	P41038	group6_bins.56_contig_4161396_12		rank: C;large subunit ribosomal protein L1 (db=kegg)	K02863
+1200	P41039	group6_bins.56_contig_4161396_13		rank: C;large subunit ribosomal protein L10 (db=kegg)	K02864
+1201	P41085	group6_bins.9_contig_3986416_6		rank: C;recombination protein RecA (db=kegg)	K03553
+1202	P41157	group7_bins.169_contig_5961607_25		rank: D;FKBP-type peptidyl-prolyl cis-trans isomerase [PF00254.33];CAF1 family ribonuclease [PF04857.25];Helicobacter pylori protein of unknown function (DUF874) [PF05917.16];Domain amino terminal to FKBP-type peptidyl-prolyl isomerase [PF01346.23] (db=pfam)	NA
+1203	P41185	group7_bins.169_contig_5961636_1		rank: E	NA
+1204	P41270	group7_bins.231_contig_891194_13		rank: D;Outer membrane protein beta-barrel domain [PF13568.11];Outer membrane protein beta-barrel domain [PF13505.11] (db=pfam)	NA
+1205	P41279	group7_bins.231_contig_891204_1		rank: C;TonB-dependent starch-binding outer membrane protein SusC (db=kegg)	K21573
+1206	P41312	group7_bins.231_contig_891240_2		rank: D;TonB dependent receptor-like, beta-barrel [PF00593.29];CarboxypepD_reg-like domain [PF13715.11];TonB-dependent Receptor Plug Domain [PF07715.20];CS1-pili formation C-terminal [PF15976.10];Carboxypeptidase regulatory-like domain [PF13620.11] (db=pfam)	NA
+1207	P41324	group7_bins.231_contig_891248_7		rank: C;recombination protein RecA (db=kegg)	K03553
+1208	P41347	group7_bins.231_contig_891280_6		rank: C;SecD/SecF fusion protein (db=kegg)	K12257
+1209	P41367	group7_bins.260_contig_5058138_1		rank: C;TonB-dependent starch-binding outer membrane protein SusC (db=kegg)	K21573
+1210	P41434	group7_bins.282_contig_1678208_240		rank: D;Starch-binding associating with outer membrane [PF12771.12];Susd and RagB outer membrane lipoprotein [PF12741.12];Starch-binding associating with outer membrane [PF14322.11] (db=pfam)	NA
+1211	P41443	group7_bins.282_contig_1678215_38		rank: C;small subunit ribosomal protein S3 (db=kegg)	K02982
+1212	P41453	group7_bins.282_contig_1678219_6		rank: C;TonB-dependent starch-binding outer membrane protein SusC (db=kegg)	K21573
+1213	P41510	group7_bins.365_contig_3582113_8		rank: C;TonB-dependent starch-binding outer membrane protein SusC (db=kegg)	K21573
+1214	P41515	group7_bins.369_contig_6534206_9		rank: C;GTP-binding protein (db=kegg)	K06207
+1215	P41525	group7_bins.369_contig_6534209_8		rank: C;elongation factor Tu (db=kegg)	K02358
+1216	P41581	group7_bins.369_contig_6534235_7		rank: C;D-alanine-D-alanine ligase [EC:6.3.2.4] (db=kegg)	K01921
+1217	P41619	group7_bins.370_contig_4873606_47		rank: C;ATP-dependent Clp protease ATP-binding subunit ClpB (db=kegg)	K03695
+1218	P41630	group7_bins.370_contig_4873636_14		rank: C;small subunit ribosomal protein S13 (db=kegg)	K02952
+1219	P41764	group7_bins.426_contig_3875224_16		rank: C;peptidyl-prolyl cis-trans isomerase D [EC:5.2.1.8] (db=kegg)	K03770
+1220	P41802	group7_bins.83_contig_3134556_21		rank: D;ABC transporter [PF00005.32];ABC transporter [PF12848.12] (db=pfam)	NA
+1221	P41815	group7_bins.83_contig_3134574_30		rank: C;maltose transport system substrate-binding protein (db=kegg)	K25086
+1222	P41897	group8_bins.18_contig_291477_8		rank: C;branched-chain amino acid transport system substrate-binding protein (db=kegg)	K01999
+1223	P41933	group8_bins.18_contig_291503_3		rank: C;acetylornithine/N-succinyldiaminopimelate aminotransferase [EC:2.6.1.11 2.6.1.17] (db=kegg)	K00821
+1224	P41955	group8_bins.18_contig_291517_17		rank: C;competence protein ComEC (db=kegg)	K02238
+1225	P41959	group8_bins.18_contig_291520_30		rank: D;Conserved region in glutamate synthase [PF01645.22];4Fe-4S dicluster domain [PF13187.11];4Fe-4S dicluster domain [PF12838.12];4Fe-4S dicluster domain [PF13237.11];4Fe-4S dicluster domain [PF14697.11];4Fe-4S double cluster binding domain [PF13484.11];4Fe-4S dicluster domain [PF13183.11] (db=pfam)	NA
+1226	P42020	group8_bins.259_contig_4892482_1		rank: C;enolase 1/2/3 [EC:4.2.1.11] (db=kegg)	K01689
+1227	P42102	group8_bins.65_contig_6986640_16		rank: C;small subunit ribosomal protein S8 (db=kegg)	K02994
+1228	P42157	group9_bins.202_contig_6964764_10		rank: C;pyruvate, orthophosphate dikinase [EC:2.7.9.1] (db=kegg)	K01006
+1229	P42236	group9_bins.244_contig_1379187_7		rank: E	NA
+1230	P42238	group9_bins.244_contig_1379187_80		rank: C;ribonucrease Y [EC:3.1.-.-] (db=kegg)	K18682
+1231	P42243	group9_bins.244_contig_1379197_2		rank: E	NA
+1232	P42325	group9_bins.264_contig_5619651_55		rank: C;methylmalonyl-CoA mutase, N-terminal domain [EC:5.4.99.2] (db=kegg)	K01848
+1233	P42331	group9_bins.264_contig_5619652_100		rank: D;Flotillin-like protein FloA [PF12127.13] (db=pfam)	NA
+1234	P42352	group9_bins.264_contig_5619664_3		rank: C;pyruvate-ferredoxin/flavodoxin oxidoreductase [EC:1.2.7.1 1.2.7.-] (db=kegg)	K03737
+1235	P42367	group9_bins.264_contig_5619678_10		rank: C;uncharacterized protein (db=kegg)	K06923
+1236	P42375	group9_bins.264_contig_5619682_22		rank: C;large subunit ribosomal protein L5 (db=kegg)	K02931
+1237	P42386	group9_bins.264_contig_5619682_42		rank: C;transketolase [EC:2.2.1.1] (db=kegg)	K00615
+1238	P42397	group9_bins.264_contig_5619684_33		rank: C;two-component system, chemotaxis family, chemotaxis protein CheV (db=kegg)	K03415
+1239	P42433	group9_bins.268_contig_3174372_9		rank: C;butyryl-CoA dehydrogenase [EC:1.3.8.1] (db=kegg)	K00248
+1240	P42456	group9_bins.268_contig_3174464_16		rank: D;Periplasmic binding protein domain [PF13407.11];Periplasmic binding proteins and sugar binding domain of LacI family [PF00532.26] (db=pfam)	NA
+1241	P42475	group9_bins.348_contig_6928317_5		rank: C;NitT/TauT family transport system substrate-binding protein (db=kegg)	K02051
+1242	P42476	group9_bins.348_contig_6928317_7		rank: C;NitT/TauT family transport system permease protein (db=kegg)	K02050
+1243	P42482	group9_bins.348_contig_6928329_29		rank: C;3-hydroxybutyryl-CoA dehydrogenase [EC:1.1.1.157] (db=kegg)	K00074
+1244	P42492	group9_bins.348_contig_6928334_34		rank: C;glycerol uptake facilitator (db=kegg)	K02440
+1245	P42506	group9_bins.348_contig_6928386_3		rank: C;chaperonin GroEL [EC:5.6.1.7] (db=kegg)	K04077
+1246	P42507	group9_bins.348_contig_6928390_27		rank: C;IMP dehydrogenase [EC:1.1.1.205] (db=kegg)	K00088
+1247	P42552	group9_bins.40_contig_1381756_27		rank: C;rubrerythrin (db=kegg)	K19824
+1248	P42573	group9_bins.40_contig_1381812_15		rank: C;deoxyribose-phosphate aldolase [EC:4.1.2.4] (db=kegg)	K01619
+1249	P42579	group9_bins.52_contig_6008544_5		rank: C;starch-binding outer membrane protein, SusD/RagB family (db=kegg)	K21572
+1250	P42585	group9_bins.52_contig_6008545_4		rank: E	NA
+1251	P42617	group9_bins.67_contig_2480458_1		rank: D;SAICAR synthetase [PF01259.23] (db=pfam)	NA
+1252	P42657	group9_bins.80_contig_1191557_1		rank: C;elongation factor G (db=kegg)	K02355
+1253	P42659	group9_bins.80_contig_1191578_1		rank: C;small subunit ribosomal protein S2 (db=kegg)	K02967

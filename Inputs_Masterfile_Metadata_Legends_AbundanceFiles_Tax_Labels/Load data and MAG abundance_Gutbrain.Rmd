@@ -1,0 +1,120 @@
+---
+title: "Example of loading data and making a masterfile, and protein abundance per MAG"
+author: "Magnus Arntzen, Raquel Río"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output:
+  pdf_document:
+    toc: yes
+  html_document:
+    theme: united
+    toc: yes
+    toc_float: yes
+---
+
+#Intro
+
+## Load libraries and setup
+
+```{r load libraries, results='hide', message=F, warning=F}
+options(stringsAsFactors=F)
+
+library(ggplot2)
+library(tibble)
+library(tidyverse)
+library(ggforce)
+library(ggpattern)
+library(rlist)
+library(gridExtra)
+library(pheatmap)
+library(patchwork)
+library(data.table)
+wd <- getwd()
+
+## Load data
+
+```{r load data, results='hide', message=F, warning=F}
+
+read_and_regenerate = F
+
+if (read_and_regenerate) {
+  
+  #Read DRAM annotations
+  #911.040 entries
+  genes <- read_delim("DRAM_gene_annotations.tsv", delim = "\t", progress = F, na = c(""))
+  colnames(genes)[1] <- "gene"  ##I wrote "gene" because it's the gene associated to that protein
+  genes_df <- as.data.frame(genes) %>%
+    mutate(Bin = str_split_i(gene, "_contig", 1))
+  
+  #Read metaproteomics data from FrigPipe
+  metaP <- read_delim("Magnus USB/241021_Judith_42696proteins.txt", delim = "\t", progress = F, na = c("", "NaN"), comment = "#")
+  metaP_df <- as.data.frame(metaP) %>%
+    select(-Description) %>%
+    mutate(across(contains("X"), ~ 2^.x)) %>% #we do not want log2 data here
+    mutate(Expressed = TRUE) #set all to expressed to ease later filtering of mastertable
+  colnames(metaP_df) <- gsub("_2", "", colnames(metaP_df))
+  colnames(metaP_df) <- gsub(".Intensity", "", colnames(metaP_df))
+  View(metaP_df)
+  
+
+  #Make a combined masterfile
+  masterfile <- genes_df  %>%
+    left_join(metaP_df, by = c("gene" = "Protein")) #All the metaP data is in MetaG but there are metaG data not present in metaP, but we want to keep all
+  View(masterfile)  
+  
+  # This masterfile has:
+  #    911,040 entries, 60 samples: 29 stress, 31 control.
+  #    42,696 expressed proteins (at least one value)
+
+  write_delim(masterfile, file = "masterfile_genes_proteins_gutbrain.txt", delim = "\t")
+  saveRDS(masterfile, file="masterfile.rds")
+
+} else {
+  masterfile <- readRDS(file="masterfile.rds")
+}
+
+
+#Here it is possible to also read in the taxonomy og the MAGs fr use later
+
+
+```
+
+## Protein abundance per bin
+
+```{r protein abundance, fig.height = 60, fig.width = 4, results='hide', message=F, warning=F}
+
+#this will generate a list of proteins that are expressed,
+#removing proteins that are indistinguishable to proteins from other MAGs
+#but keeping them if they are from the same MAG
+proteins <- masterfile %>%
+  filter(Expressed == TRUE) %>%
+  select(-ko_id, -kegg_hit, -pfam_hits, -cazy_ids, -cazy_best_hit, -Expressed) %>%
+  rowwise() %>%
+  mutate(Ind_bins_temp = str_split(`Indistinguishable Proteins`, ", ")) %>%
+  mutate(Indistinguishable_bins = paste0(unique(str_split_i(Ind_bins_temp, "_contig", 1)), collapse=";")) %>%
+  mutate(Indistinguishable_bins = na_if(Indistinguishable_bins, "NA")) %>%
+  ungroup() %>%
+  select(-Ind_bins_temp) %>%
+  filter(is.na(`Indistinguishable Proteins`) | Bin == Indistinguishable_bins) 
+
+View(proteins)
+
+#This is 39.406 proteins from 481 bins (n_distinct(proteins$fasta))
+
+protein_sums_per_bin <- proteins %>%
+  select(-`Indistinguishable Proteins`, -Indistinguishable_bins, -fasta) %>% ###I remove fasta because it's the same as Bin
+  pivot_longer(cols = 12:71) %>%  ######I selected the "protein abundance for each sample" columns
+  group_by(Bin, name) %>%
+  summarise(summedLFQ = log2(sum(value, na.rm = T))) %>%
+  mutate(summedLFQ = if_else(summedLFQ == "-Inf", 0, summedLFQ)) %>%
+  pivot_wider(values_from = summedLFQ)
+
+View(protein_sums_per_bin)
+write_delim(protein_sums_per_bin, file = "summedLFQ_per_bin.txt", delim = "\t")  
+
+pheatmap(protein_sums_per_bin %>% column_to_rownames("Bin"), fontsize = 4)
+
+
+
+
+```
+

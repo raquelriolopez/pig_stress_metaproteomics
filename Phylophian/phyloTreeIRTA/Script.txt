@@ -1,0 +1,22 @@
+cd /cluster/projects/nn9864k/ralop345/
+
+srun \
+--account=nn9864k  \
+--gres=localscratch:10G \
+--cpus-per-task 4 \
+--nodes 1 \
+--mem=10G \
+--time=48:00:00 \
+--pty bash \
+-i
+  
+module load Miniconda3/23.10.0-1
+source $(conda info --base)/etc/profile.d/conda.sh 
+conda activate /cluster/projects/nn9864k/shared/condaenvironments/PHYLOGENOMICS
+
+	phylophlan -i MAGs2DRAM/ \
+    -d /cluster/projects/nn9864k/ralop345/phylophlan_databases/phylophlan/ \
+    --diversity high \
+    --genome_extension .fa \
+    -f supermatrix_aa.cfg
+
