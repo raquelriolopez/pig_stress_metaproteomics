@@ -11,7 +11,7 @@ Raquel Río-López1, Judith Guitart-Matas2, Magnus Ø. Arntzen3, Adrià Clavell-
 6 New Therapeutic Targets Lab Research Group, Medical Sciences Department, Faculty of Medicine, University of Girona, 17071, Girona, Girona, Spain
 
 
-\* Corresponding authors: yuliaxis.ramayo@irta.cat · antoni.dalmau@irta.cat
+\* Corresponding authors: yuliaxis.ramayo@irta.cat · raquel.rio@irta.cat
 
 ## Overview
 
